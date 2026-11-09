@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "b2-citadel-blueprint-01",
+    "level": "B2",
+    "genre": "mystery",
+    "title": "The Vanishing Blueprint of the Citadel",
+    "titleAr": "المخطط المفقود لقلعة أربيل",
+    "emoji": "🏰",
+    "characters": [
+      {
+        "name": "Dr. Jalil",
+        "role": "lead architectural conservator"
+      },
+      {
+        "name": "Lana",
+        "role": "structural restoration specialist"
+      }
+    ],
+    "setting": "the historic Erbil Citadel perched high on its thousand-year mound",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "threat_identified",
+        "value": "catastrophic foundation settlement threatening the western Ottoman ramparts",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "secret_architecture",
+        "value": "a forgotten underground subterranean vaulted rainwater drainage gallery",
+        "sentence": 5
+      },
+      {
+        "id": "f3",
+        "key": "crucial_archive",
+        "value": "hand-drawn nineteenth-century linen engineering schematic from Vienna",
+        "sentence": 8
+      },
+      {
+        "id": "f4",
+        "key": "restoration_success",
+        "value": "diverted accumulating groundwater safely into the municipal ravine",
+        "sentence": 11
+      }
+    ],
+    "text": [
+      "Perched commandingly atop an artificial mound rising thirty meters above the modern metropolis, the Citadel of Erbil has maintained continuous human habitation for over six thousand years. As lead architectural conservator, Dr. Jalil walked along the weathered perimeter battlements every morning, yet on this brisk October day, laser telemetry revealed alarming data that chilled his veins.",
+      "Deep structural tremors along the western Ottoman ramparts indicated sudden subsurface subsidence. Rainwater from unprecedented autumn flash floods had saturated the unbaked mudbrick foundations, threatening to collapse a crucial bastion dating from the late eighteenth century into the bustling bazaar streets below.",
+      "Standard excavation was deemed far too hazardous, as heavy machinery would undoubtedly destabilize the fragile subterranean layers of stratified antiquity beneath the courtyard.",
+      "Joining the emergency taskforce was Lana, a brilliant young Kurdish structural specialist who had recently completed doctoral research on historical Mesopotamian civil engineering. She posited that ancient master builders would never have erected monumental masonry upon such steep slopes without an engineered stormwater discharge conduit.",
+      "Digging into dusty municipal archives in the provincial cultural center, Lana located a faded bundle of nineteenth-century linen schematics drafted by an Austrian surveyor in 1888. The yellowed ink revealed an intricate vaulted gallery system buried eight meters beneath the Citadel courtyard, designed to siphon seasonal torrents safely away from the hill's core.",
+      "Equipped with micro-cameras and fiber-optic probes fed through ventilation boreholes, the restoration team confirmed the historical accuracy of the Austrian parchment. Centering on the blueprint's coordinates, workers cleared a calcified blockage of river boulders and sediment that had choked the main conduit for nearly eighty years.",
+      "As the trapped aquifer drained with a resonant subterranean roar into the southern ravine, pressure monitors showed the ancient walls stabilizing within hours. Standing above the restored arches as sunset painted the plains in crimson and gold, Dr. Jalil patted Lana's shoulder with profound respect, marveling at how nineteenth-century draftsmanship had rescued a prehistoric treasure."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What critical structural threat endangered the Citadel's western ramparts?",
+        "correct": "catastrophic foundation settlement threatening the western Ottoman ramparts",
+        "distractors": [
+          "an aggressive termite infestation",
+          "enemy artillery bombardment",
+          "a localized electrical fire"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What hidden architectural feature did Lana deduce must exist beneath the mound?",
+        "correct": "a forgotten underground subterranean vaulted rainwater drainage gallery",
+        "distractors": [
+          "a royal treasury vault of gold",
+          "a military escape tunnel to Mosul",
+          "a subterranean freshwater swimming pool"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What historical archival document provided the crucial breakthrough?",
+        "correct": "hand-drawn nineteenth-century linen engineering schematic from Vienna",
+        "distractors": [
+          "a medieval clay tablet in cuneiform",
+          "a tourist postcard from 1950",
+          "a modern satellite aerial photograph"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "How was the imminent structural collapse prevented?",
+        "correct": "diverted accumulating groundwater safely into the municipal ravine",
+        "distractors": [
+          "injecting liquid cement into all houses",
+          "dismantling the ancient walls entirely",
+          "installing giant iron braces around the hill"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "For how long had human beings continuously inhabited the Erbil Citadel mound?",
+        "correct": "over six thousand years",
+        "distractors": [
+          "two hundred years",
+          "one millennium",
+          "fifty years"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why was conventional heavy excavation rejected by the conservators?",
+        "correct": "heavy machinery would destabilize fragile historical mudbrick strata",
+        "distractors": [
+          "it was far too expensive to rent",
+          "no workers were available in Erbil",
+          "the government banned all construction"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What was the nationality of the surveyor who drafted the 1888 map?",
+        "correct": "Austrian",
+        "distractors": [
+          "French",
+          "British",
+          "Ottoman"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What overarching truth does this architectural rescue demonstrate?",
+        "correct": "rigorous archival research and interdisciplinary science are indispensable for safeguarding cultural heritage",
+        "distractors": [
+          "why ancient mudbrick buildings should be replaced with steel",
+          "tourism economics in modern Kurdistan",
+          "the danger of seasonal autumn rainstorms"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 323
+  },
+  {
+    "id": "b2-echoes-marshes-02",
+    "level": "B2",
+    "genre": "adventure",
+    "title": "Guardians of the Southern Wetlands",
+    "titleAr": "حراس أهوار الجنوب",
+    "emoji": "🦩",
+    "characters": [
+      {
+        "name": "Dr. Sawsan",
+        "role": "wetland conservation ecologist"
+      },
+      {
+        "name": "Gathban",
+        "role": "traditional marsh steward"
+      }
+    ],
+    "setting": "the central expanses of the UNESCO-inscribed Ahwar Marshes in southern Iraq",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "ecological_crisis",
+        "value": "hyper-salinity spikes and receding water tables threatening migratory avifauna",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "threatened_species",
+        "value": "the endangered Basra Reed Warbler and native smooth-coated otter",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "monitoring_innovation",
+        "value": "autonomous solar-powered acoustic water-quality sensors attached to reeds",
+        "sentence": 7
+      },
+      {
+        "id": "f4",
+        "key": "policy_achievement",
+        "value": "negotiated minimum ecological water releases from upstream reservoir dams",
+        "sentence": 10
+      }
+    ],
+    "text": [
+      "Navigating her fiberglass skiff through the labyrinthine reed corridors of the Central Marshes, Dr. Sawsan monitored an array of digital water-quality sensors submerged beneath the aquatic vegetation. Beside her steered Gathban, a sixth-generation marshman whose acute understanding of tidal currents and avian migrations surpassed any computer model.",
+      "The UNESCO World Heritage wetlands—once hailed as the biblical Garden of Eden—were confronting severe ecological stress. Consecutive seasons of dwindling Euphrates inflow coupled with scorching summer heat had caused localized salinity spikes, devastating indigenous aquatic ecosystems.",
+      "Crucial indicator species, most notably the globally endangered Basra Reed Warbler and the elusive Mesopotamian smooth-coated otter, were retreating from drying littoral zones where freshwater snails had perished.",
+      "Sawsan knew that emotional appeals alone would not persuade national water committees managing upstream hydroelectric reservoirs; hard, indisputable scientific data was essential.",
+      "Over six grueling months, she and Gathban deployed an innovative network of solar-powered telemetric buoys camouflaged among giant bulrushes. These autonomous units transmitted real-time data on electrical conductivity, dissolved oxygen, and bioacoustic bird vocalizations directly to university servers.",
+      "Gathban's intuitive navigation proved indispensable in positioning monitors along critical natural flow corridors that high-resolution satellites completely overlooked beneath the dense vegetative canopy.",
+      "Armed with this rigorous empirical dataset, Dr. Sawsan presented a compelling case to the tripartite river basin council. The undeniable evidence of imminent ecological collapse compelled water administrators to mandate emergency environmental flow releases of thirty-five cubic meters per second.",
+      "Within four weeks of the freshwater pulse reaching the delta, ecological monitors recorded a resurgence of aquatic larvae, and flocks of migrating pink flamingos returned to feed in the brackish shallows. As dusk descended over the boundless watery expanse, Gathban raised his oar in quiet triumph, knowing their science had restored the pulse of antiquity."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What acute environmental danger was jeopardizing the Mesopotamian wetlands?",
+        "correct": "hyper-salinity spikes and receding water tables threatening migratory avifauna",
+        "distractors": [
+          "industrial chemical oil spills from tankers",
+          "overpopulation of predatory crocodiles",
+          "illegal clear-cutting of timber forests"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "Which endangered endemic wildlife species was highlighted as a critical indicator?",
+        "correct": "the endangered Basra Reed Warbler and native smooth-coated otter",
+        "distractors": [
+          "the Arabian cheetah",
+          "the Persian river turtle",
+          "the Siberian crane"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What technology did Dr. Sawsan and Gathban deploy throughout the reeds?",
+        "correct": "autonomous solar-powered acoustic water-quality sensors attached to reeds",
+        "distractors": [
+          "diesel generators on metal barges",
+          "artificial plastic floating plants",
+          "underwater explosive tracking lines"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What crucial policy mandate did their scientific presentation achieve?",
+        "correct": "negotiated minimum ecological water releases from upstream reservoir dams",
+        "distractors": [
+          "closing all tourist access permanently",
+          "draining the marshes to create agricultural fields",
+          "building a concrete wall around the wetland"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why was Gathban's indigenous knowledge essential to the research?",
+        "correct": "he identified hidden flow channels concealed beneath thick reed canopies",
+        "distractors": [
+          "he could pilot airplanes",
+          "he built the digital computer servers",
+          "he owned all the wetland property"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "What international designation recognizes the unique cultural and natural value of the marshes?",
+        "correct": "UNESCO World Heritage site",
+        "distractors": [
+          "National Industrial Park",
+          "Private Conservation Trust",
+          "Commercial Free Trade Zone"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What majestic migratory birds returned to feast once the freshwater pulse arrived?",
+        "correct": "pink flamingos",
+        "distractors": [
+          "snowy owls",
+          "bald eagles",
+          "black vultures"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What powerful thesis does this environmental campaign illustrate?",
+        "correct": "the fusion of cutting-edge ecological telemetry with traditional indigenous wisdom delivers impactful environmental diplomacy",
+        "distractors": [
+          "why technology should replace human boatmen",
+          "the economic costs of dam maintenance",
+          "freshwater fish farming techniques"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 298
+  },
+  {
+    "id": "b2-dialect-clay-03",
+    "level": "B2",
+    "genre": "travel",
+    "title": "The Dialect of Clay and Bronze",
+    "titleAr": "لهجة الطين والبرونز",
+    "emoji": "🏺",
+    "characters": [
+      {
+        "name": "Firas",
+        "role": "cuneiform epigraphist"
+      },
+      {
+        "name": "Maestro Kadhim",
+        "role": "traditional ceramic sculptor"
+      }
+    ],
+    "setting": "an artisan workshop overlooking the archaeological mound of ancient Babylon near Hillah",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "research_focus",
+        "value": "deciphering stamp-seal inscriptions on sixth-century BCE glazed temple bricks",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "lost_recipe",
+        "value": "the secret cobalt-and-copper glaze formulation of the Ishtar Gate",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "furnace_reconstruction",
+        "value": "a dual-chambered wood-fired downdraft earthen kiln using Euphrates silt",
+        "sentence": 7
+      },
+      {
+        "id": "f4",
+        "key": "final_revelation",
+        "value": "the vibrant lapis lazuli blue appeared only after reducing oxygen at peak temperature",
+        "sentence": 10
+      }
+    ],
+    "text": [
+      "From the rooftop terrace of his atelier in Hillah, Maestro Kadhim had spent forty years studying the luminous blue glazed bricks of the Ishtar Gate, whose fragmentary originals rested in European museums. Beside him sat Firas, a university philologist specializing in neo-Babylonian cuneiform economic tablets.",
+      "Their ambitious collaborative endeavor was to resurrect the lost pyrotechnic chemistry of Nebuchadnezzar's ceramicists, an artistic tradition that had dissolved following the fall of the empire twenty-five centuries ago.",
+      "While modern industrial kilns produced flat, lifeless shades of turquoise, ancient Babylonian ceramics possessed an iridescent, gem-like vibrancy that simulated crushed lapis lazuli.",
+      "Firas translated a fragmentary administrative tablet excavated near the Temple of Marduk, which recorded supplier receipts for powdered malachite, tin oxide, desert glass plant ash, and crushed lapis frit.",
+      "Together, they harvested fine sedimentary clay deposited during seasonal floods by the Euphrates, meticulously sieving the silt through horsehair screens to eliminate coarse sand particles.",
+      "Kadhim constructed an authentic dual-chambered earthen kiln according to the tablet's geometric specifications, firing the experimental bricks with desert tamarisk wood that burned at extraordinarily intense, stable heat.",
+      "For thirty hours, the furnace roared at over one thousand degrees Celsius, while Firas recorded thermal shifts and oxidation variables on digital tablets.",
+      "The pivotal mystery remained the precise cooling phase. As the fire burned low, Kadhim followed an ambiguous cuneiform directive: sealing the lower air flues entirely with wet clay to starve the chamber of oxygen while the glaze was molten.",
+      "When the kiln was finally unbricked after two days of gradual cooling, the relief plaques of lions and dragons emerged glowing with breathtaking, sapphire-blue magnificence. Both men wept with awe; the ancient language had spoken through clay and fire across two and a half millennia."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What ancient architectural wonder inspired their glaze reconstruction project?",
+        "correct": "the secret cobalt-and-copper glaze formulation of the Ishtar Gate",
+        "distractors": [
+          "the Pyramids of Giza",
+          "the Parthenon of Athens",
+          "the Colosseum of Rome"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What ancient language did Firas translate to retrieve the mineral recipe?",
+        "correct": "neo-Babylonian cuneiform economic tablets",
+        "distractors": [
+          "ancient Greek script",
+          "classical Egyptian hieroglyphs",
+          "Imperial Latin inscriptions"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What was the crucial technical secret revealed during the cooling phase?",
+        "correct": "the vibrant lapis lazuli blue appeared only after reducing oxygen at peak temperature",
+        "distractors": [
+          "dousing the hot bricks with cold milk",
+          "painting them with modern acrylic paint",
+          "exposing the furnace to snow"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What natural river sediment served as the base clay for the replica bricks?",
+        "correct": "fine sedimentary clay deposited during seasonal floods by the Euphrates",
+        "distractors": [
+          "imported Chinese porcelain clay",
+          "crushed white chalk",
+          "quarried marble powder"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why were modern electric kilns failing to reproduce authentic Babylonian bricks?",
+        "correct": "they produced flat, lifeless colors lacking the complex reduction atmosphere of wood-fired kilns",
+        "distractors": [
+          "modern electricity is too hot",
+          "modern workers do not know how to draw",
+          "clay is no longer available in Iraq"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "What mythical and royal creatures were sculpted in relief upon the plaques?",
+        "correct": "lions and dragons",
+        "distractors": [
+          "eagles and horses",
+          "elephants and bears",
+          "dolphins and whales"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What fuel was burned in the kiln to generate the intense, stable heat?",
+        "correct": "desert tamarisk wood",
+        "distractors": [
+          "crude petroleum oil",
+          "coal briquettes",
+          "dry paper garbage"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What profound connection is explored between archaeology and living craftsmanship?",
+        "correct": "deciphering ancient administrative records can revitalize forgotten masterpieces through practical artisan experimentation",
+        "distractors": [
+          "why clay bricks are inferior to modern concrete",
+          "the commercial value of replica souvenirs",
+          "how to build gas furnaces"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 291
+  },
+  {
+    "id": "b2-midnight-grid-04",
+    "level": "B2",
+    "genre": "everyday",
+    "title": "Midnight at the National Grid",
+    "titleAr": "منتصف الليل في مركز التحكم الوطني",
+    "emoji": "⚡",
+    "characters": [
+      {
+        "name": "Eng. Nabil",
+        "role": "senior grid dispatch director"
+      },
+      {
+        "name": "Maryam",
+        "role": "systems stability engineer"
+      }
+    ],
+    "setting": "the central dispatch operations room of the National Electrical Grid in Baghdad",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "grid_crisis",
+        "value": "a colossal dust storm tripping high-voltage 400kV transmission lines across Anbar",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "cascading_danger",
+        "value": "frequency collapse threatening to plunge hospitals and water stations into total blackout",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "tactical_intervention",
+        "value": "island mode isolation and ramping hydro turbines at Haditha and Dokan dams",
+        "sentence": 7
+      },
+      {
+        "id": "f4",
+        "key": "final_stability",
+        "value": "frequency locked precisely at fifty Hertz as dawn illuminated the control room",
+        "sentence": 10
+      }
+    ],
+    "text": [
+      "Surrounded by an immense wall of glowing digital telemetry displays, Engineer Nabil monitored the precarious vital signs of Iraq's electrical transmission backbone. The digital clocks read two o'clock on a sultry August morning, when air conditioning demands pushed power consumption to the absolute precipice.",
+      "A sudden high-velocity dust storm packing winds of ninety kilometers per hour erupted across the western desert, coating high-voltage ceramic insulators with charged conductive sand.",
+      "Warning sirens wailed sharply as multiple 400-kilovolt transmission trunk lines between Baiji and western Baghdad tripped within forty seconds, severing fifteen hundred megawatts of generating capacity in an instant.",
+      "On the central schematic board, grid frequency dropped dangerously from fifty Hertz toward the catastrophic threshold of forty-eight point five. If the frequency collapsed further, automatic thermal protection relays would shut down power plants nationwide, plunging eight million residents, intensive care hospitals, and municipal water purification stations into a total blackout that could take days to restart.",
+      "Beside Nabil stood Maryam, a brilliant systems stability specialist with razor-sharp reflexes. Instead of enacting blanket rolling blackouts across residential districts, she proposed an immediate surgical isolation of the southern grid into an autonomous electrical island.",
+      "While stabilizing the southern provinces with Basra's gas turbines, Nabil opened high-priority audio links to the hydroelectric stations at Haditha and Dokan dams, commanding operators to open floodgates and ramp massive water turbines to maximum capacity in seventy seconds.",
+      "For eight breathless minutes, the digital frequency counter oscillated violently like a cardiac monitor in an emergency room. Working with calm, coordinated mastery, Nabil and Maryam balanced instantaneous load shedding with hydroelectric reserves.",
+      "Gradually, the flashing crimson alarms extinguished on the wall map, replaced by reassuring green telemetry bars as grid frequency stabilized squarely at fifty point zero Hertz.",
+      "When the morning sun crested the Tigris palm trees and filtered through the control center blinds, millions of citizens woke up unaware of the silent catastrophe averted while they slept. Nabil handed Maryam a steaming glass of sweet cardamon tea with a weary, triumphant nod."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What extreme natural event triggered the electrical network emergency?",
+        "correct": "a colossal dust storm tripping high-voltage 400kV transmission lines across Anbar",
+        "distractors": [
+          "an unprecedented winter blizzard",
+          "a massive cyberattack from abroad",
+          "a major earthquake beneath Baghdad"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What critical risk loomed if the grid frequency plunged below 48.5 Hertz?",
+        "correct": "frequency collapse threatening to plunge hospitals and water stations into total blackout",
+        "distractors": [
+          "telephones would explode",
+          "air conditioners would turn into heaters",
+          "computer screens would burn out"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What tactical engineering maneuver did Maryam and Nabil coordinate to rescue the system?",
+        "correct": "island mode isolation and ramping hydro turbines at Haditha and Dokan dams",
+        "distractors": [
+          "turning off all electricity to the entire country",
+          "disconnecting from regional neighbors",
+          "waiting for the wind to stop blowing"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "At what precise frequency did the electrical grid safely stabilize at dawn?",
+        "correct": "frequency locked precisely at fifty Hertz as dawn illuminated the control room",
+        "distractors": [
+          "sixty point five Hertz",
+          "forty-two Hertz",
+          "one hundred Hertz"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why were high-voltage transmission lines tripping during the storm?",
+        "correct": "conductive mineral dust coated high-voltage ceramic insulators",
+        "distractors": [
+          "lightning melted the copper wires",
+          "trees fell across the lines",
+          "thieves cut the aluminum conductors"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "Which major dams provided the rapid hydroelectric power surge to save the frequency?",
+        "correct": "Haditha and Dokan dams",
+        "distractors": [
+          "Aswan Dam and Hoover Dam",
+          "Mosul Dam and Bekhme Dam",
+          "Hemrin Dam and Badush Dam"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "At what time of day did the crisis commence in the control room?",
+        "correct": "two o'clock in the morning",
+        "distractors": [
+          "midday at noon",
+          "six in the evening",
+          "seven in the morning"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What unsung heroism is portrayed in this high-stakes technological narrative?",
+        "correct": "the relentless vigilance, expertise, and composure of civic engineers who protect society from invisible disasters",
+        "distractors": [
+          "why solar panels are better than turbines",
+          "how electrical transformers are manufactured",
+          "the history of Baghdad power stations"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 339
+  },
+  {
+    "id": "b2-silent-auction-05",
+    "level": "B2",
+    "genre": "mystery",
+    "title": "The Benefactor of Al-Mutanabbi",
+    "titleAr": "فاعل الخير في شارع المتنبي",
+    "emoji": "📚",
+    "characters": [
+      {
+        "name": "Ammar",
+        "role": "literary archivist"
+      },
+      {
+        "name": "Ustadh Kamil",
+        "role": "elderly bookshop owner"
+      }
+    ],
+    "setting": "Al-Mutanabbi Street and the historic cafes along the Tigris waterfront",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "threatened_bookshop",
+        "value": "the century-old Dar al-Hikma bookstore facing bank foreclosure",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "mysterious_benefactor",
+        "value": "an anonymous collector placing winning bids on rare poetry to cancel shop debts",
+        "sentence": 5
+      },
+      {
+        "id": "f3",
+        "key": "unmasked_identity",
+        "value": "a former street urchin who became an international software architect",
+        "sentence": 8
+      },
+      {
+        "id": "f4",
+        "key": "enduring_covenant",
+        "value": "established an endowment to ensure no historic bookshop on the street ever closes",
+        "sentence": 10
+      }
+    ],
+    "text": [
+      "For ninety years, Dar al-Hikma had stood as a sanctuary of intellectual freedom on Al-Mutanabbi Street, its arched mahogany shelves holding thousands of out-of-print volumes in literature, philosophy, and Mesopotamian history. Yet by the winter of his seventy-fifth year, gentle proprietor Ustadh Kamil faced an agonizing crisis.",
+      "Surging commercial rents and predatory redevelopment loans threatened the venerable institution with immediate eviction. Kamil was quietly packing crates, preparing to auction his most prized private collection of early twentieth-century Iraqi poetry to appease creditors.",
+      "Ammar, an energetic young researcher who had spent his student years reading on the shop's carpeted benches, refused to witness the demise of Baghdad's literary heart without a fight.",
+      "He documented the store's cultural significance in an eloquent online chronicle, cataloging the rare works with detailed historical commentary.",
+      "On the morning of the public auction, an enigmatic overseas buyer operating through an encrypted bidding portal began purchasing every rare lot at three times the reserve estimate, with explicit instructions that all acquired volumes remain permanently on Dar al-Hikma's shelves for public access.",
+      "By noon, the anonymous benefactor had wired enough funds to retire the shop's debt completely and purchase the building's freehold title in perpetuity.",
+      "Investigating the routing of the transaction with journalistic persistence, Ammar discovered that the benefactor was Dr. Hayder Mansour—a Silicon Valley software pioneer who, forty years earlier as an impoverished orphan in Bab al-Sharqi, had been allowed by Ustadh Kamil to sit peacefully in the shop reading computer manuals for free.",
+      "When Kamil learned the truth, tears poured down his wrinkled cheeks. A small plaque was affixed beside the front door, honoring the enduring truth that an act of quiet kindness in a bookstore can echo across oceans to rescue culture itself."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What imminent financial disaster threatened the historic Dar al-Hikma bookstore?",
+        "correct": "the century-old Dar al-Hikma bookstore facing bank foreclosure",
+        "distractors": [
+          "a devastating roof fire",
+          "a city demolition order for a highway",
+          "a legal dispute between brothers"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What unusual stipulation accompanied the anonymous buyer's winning auction bids?",
+        "correct": "all acquired rare volumes must remain permanently on the shelves for public access",
+        "distractors": [
+          "the books had to be shipped to New York",
+          "the shop had to change its name",
+          "the books were to be digitized and destroyed"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "Who was revealed to be the enigmatic overseas benefactor?",
+        "correct": "a former street urchin who became an international software architect",
+        "distractors": [
+          "a wealthy foreign prince",
+          "the Minister of Culture",
+          "an international oil company"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What long-term legal security did the benefactor purchase for the bookstore?",
+        "correct": "established an endowment to ensure no historic bookshop on the street ever closes",
+        "distractors": [
+          "a temporary two-year lease",
+          "a mobile book truck",
+          "an online website domain"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why did Dr. Hayder Mansour feel an eternal debt of gratitude toward Ustadh Kamil?",
+        "correct": "Kamil had welcomed him as an impoverished orphan to read technical manuals without payment",
+        "distractors": [
+          "Kamil had loaned him money to buy an airplane ticket",
+          "Kamil was his long-lost biological father",
+          "Kamil had written his university thesis"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "How long had the bookstore been serving readers on Al-Mutanabbi Street?",
+        "correct": "ninety years",
+        "distractors": [
+          "ten years",
+          "twenty years",
+          "five hundred years"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What method did Ammar use to raise awareness about the bookshop's plight?",
+        "correct": "documented its cultural significance in an eloquent online chronicle",
+        "distractors": [
+          "staged a hunger strike outside parliament",
+          "painted protest graffiti on bridges",
+          "shuttered his university department"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What moral resonance radiates from this emotional literary chronicle?",
+        "correct": "unconditional hospitality and love of learning create a cycle of generosity that protects society's soul",
+        "distractors": [
+          "how to invest in commercial real estate",
+          "the technicalities of online book auctions",
+          "the history of Iraqi poetry publishing"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 297
+  },
+  {
+    "id": "b2-digital-weaver-06",
+    "level": "B2",
+    "genre": "adventure",
+    "title": "The Digital Loom of Samawah",
+    "titleAr": "النول الرقمي في السماوة",
+    "emoji": "🧶",
+    "characters": [
+      {
+        "name": "Ruba",
+        "role": "computational designer"
+      },
+      {
+        "name": "Um Kadhimiya",
+        "role": "master tribal carpet weaver"
+      }
+    ],
+    "setting": "a traditional wool weaving cooperative in the Euphrates province of Muthanna",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "threatened_craft",
+        "value": "the extinction of ancient geometric Bedouin kilim weaving patterns",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "natural_dyes",
+        "value": "natural pomegranate rinds, madder root, and wild indigo extracted by hand",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "computational_synthesis",
+        "value": "translating oral knotting rhymes into open-source vector algorithmic matrices",
+        "sentence": 7
+      },
+      {
+        "id": "f4",
+        "key": "economic_revival",
+        "value": "established fair-trade exports to global design studios while securing intellectual property",
+        "sentence": 10
+      }
+    ],
+    "text": [
+      "In the tranquil Euphrates city of Samawah, the rhythmic clatter of wooden beaters striking heavy wool warps had resonated through mudbrick workshops for millennia. Yet twenty-four-year-old computational designer Ruba observed that the master craftswomen were aging, and their daughters were departing for urban clerical positions.",
+      "The intricate geometric kilim rugs of southern Iraq—renowned for their symbolic motifs depicting river meanders, date palm crowns, and desert gazelles—carried visual genealogies preserved purely through oral memory and recited songs without a single written diagram.",
+      "If the remaining grandmothers passed away without an accessible archive, an entire language of tactile Mesopotamian storytelling would vanish into irreversible extinction.",
+      "Seated beside eighty-year-old Um Kadhimiya at a vertical timber loom, Ruba recognized that the traditional weavers did not follow rigid mechanical charts; they improvised variations according to mathematical symmetries encoded in rhythmic chanting songs.",
+      "Combining her passion for software programming with ancestral veneration, Ruba spent twelve months developing an intuitive touchscreen software application that mapped oral knotting cadences into precise digital vector matrices.",
+      "Crucially, she refused to allow cheap mechanized factory replication. The digital platform was designed to assist young apprentices in visualizing complex knot counts while respecting traditional hand-spinning and natural vegetable dyeing using madder root and pomegranate rinds.",
+      "Ruba established a decentralized cooperative that connected twenty-five village weavers directly to international interior design houses, guaranteeing fair wages five times higher than predatory middleman prices.",
+      "When an exhibition of Samawah textiles curated with Ruba's interactive digital archives was inaugurated at the Venice Design Biennale, global critics marvelled at how algorithmic precision had safeguarded, rather than displaced, the sacred poetry of the human hand."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What heritage artform was on the verge of extinction in the province of Muthanna?",
+        "correct": "the extinction of ancient geometric Bedouin kilim weaving patterns",
+        "distractors": [
+          "glass bottle blowing",
+          "silver filigree jewelry",
+          "stone sculpture carving"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "How were complex geometric patterns traditionally transmitted across generations?",
+        "correct": "visual genealogies preserved purely through oral memory and recited songs",
+        "distractors": [
+          "printed color textbooks from Germany",
+          "governmental architectural blueprints",
+          "photographs stored on computers"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What natural organic ingredients produced the rich traditional dyes?",
+        "correct": "natural pomegranate rinds, madder root, and wild indigo extracted by hand",
+        "distractors": [
+          "toxic synthetic chemical paints",
+          "motor vehicle engine oil",
+          "powdered cement and chalk"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What innovative digital methodology did Ruba engineer to preserve the craft?",
+        "correct": "translating oral knotting rhymes into open-source vector algorithmic matrices",
+        "distractors": [
+          "replacing all hand looms with automated robots",
+          "selling 3D printed plastic rugs",
+          "ordering carpets from overseas factories"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why was the craft threatened with extinction in modern times?",
+        "correct": "younger generations were moving to cities for clerical employment as grandmothers aged",
+        "distractors": [
+          "sheep wool was outlawed by the state",
+          "the desert climate became too cold",
+          "weaving tools were impossible to find"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "Where were the preserved Samawah textiles celebrated with international critical acclaim?",
+        "correct": "Venice Design Biennale",
+        "distractors": [
+          "Tokyo Motor Show",
+          "Paris Fashion Week",
+          "London Book Fair"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What economic benefit did the decentralized cooperative secure for the women weavers?",
+        "correct": "fair wages five times higher than predatory middleman prices",
+        "distractors": [
+          "free air tickets to Europe",
+          "government pensions only",
+          "food vouchers"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What inspiring relationship does this enterprise establish between coding and heritage?",
+        "correct": "technology can serve as a compassionate archive that empowers traditional artisans and honors ancient culture",
+        "distractors": [
+          "why robots will soon make all clothing",
+          "how to write smartphone apps for profit",
+          "industrial manufacturing efficiency"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 276
+  },
+  {
+    "id": "b2-delayed-flight-07",
+    "level": "B2",
+    "genre": "travel",
+    "title": "Delayed Above the Golden Domes",
+    "titleAr": "تأخر الرحلة فوق القباب الذهبية",
+    "emoji": "✈️",
+    "characters": [
+      {
+        "name": "Tariq",
+        "role": "freelance documentary filmmaker"
+      },
+      {
+        "name": "Sister Claire",
+        "role": "hospital doctor from Beirut"
+      },
+      {
+        "name": "Dr. Haidar",
+        "role": "cardiac surgeon"
+      }
+    ],
+    "setting": "the transit departure lounge of Najaf International Airport during a sudden winter storm",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "delay_cause",
+        "value": "a dense freezing thermal fog grounding all regional aviation",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "diverse_assembly",
+        "value": "pilgrims, physicians, engineers, and scholars stranded across cultural boundaries",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "humanitarian_crisis",
+        "value": "an elderly pilgrim suffered acute cardiac arrest near the boarding gate",
+        "sentence": 7
+      },
+      {
+        "id": "f4",
+        "key": "triumphant_collaboration",
+        "value": "successful emergency resuscitation using terminal defibrillator and collective teamwork",
+        "sentence": 9
+      }
+    ],
+    "text": [
+      "Inside the cavernous glass departure terminal of Najaf International Airport, flight information monitors blinked an unrelenting sequence of red delays. Outside across the tarmac, an unseasonal freezing advection fog had rolled in from the Euphrates marshes, reducing horizontal visibility to less than fifty meters.",
+      "Tariq, on his way back to Beirut after completing a documentary film on Iraqi religious coexistence, sat waiting on the metal terminal chairs with mounting frustration.",
+      "Around him gathered a kaleidoscopic cross-section of humanity: Iranian and Lebanese pilgrims wrapped in woolen cloaks, European archaeological researchers with field backpacks, and Iraqi engineers heading to Gulf energy summits.",
+      "As hours dragged into midnight, the initial tension of missed connections and canceled meetings gave way to an organic community spirit. Strangers shared thermoses of cardamom coffee, peeled pomegranates together, and communicated through gestures and warm smiles.",
+      "Suddenly, chaos disrupted the tranquil waiting hall. An elderly pilgrim from Pakistan collapsed beside gate number four, gasping for air and clutching his chest in acute cardiac arrest.",
+      "Before airport staff could react, Tariq dropped his camera and rushed forward to clear space. Immediately stepping up was Sister Claire, a French medical missionary, alongside Dr. Haidar, a paediatric surgeon from Baghdad.",
+      "Working in seamless medical harmony, Dr. Haidar initiated rhythmic chest compressions while Claire managed airway respiration and Tariq ran to retrieve the automated external defibrillator from the central concourse wall.",
+      "Delivering a targeted therapeutic shock just as paramedics arrived, they restored a steady pulse to the unconscious traveler. The entire crowded terminal, which had held its breath in total silence, erupted in spontaneous, heartfelt applause in five languages.",
+      "When flights finally boarded at sunrise under glistening golden skies, Tariq boarded his aircraft transformed; the greatest stories of brotherhood are not scripted in studios, but forged when strangers unite to preserve a single human life."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What meteorological event caused the prolonged shutdown of Najaf Airport?",
+        "correct": "a dense freezing thermal fog grounding all regional aviation",
+        "distractors": [
+          "a violent desert dust storm",
+          "a freezing mountain blizzard",
+          "a torrential flash flood"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What sudden medical emergency occurred near boarding gate number four?",
+        "correct": "an elderly pilgrim suffered acute cardiac arrest near the boarding gate",
+        "distractors": [
+          "a passenger suffered a broken ankle",
+          "a child swallowed a coin",
+          "an airline pilot fainted"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "How was the collapsed traveler successfully resuscitated before paramedics took over?",
+        "correct": "successful emergency resuscitation using terminal defibrillator and collective teamwork",
+        "distractors": [
+          "giving him cold water to drink",
+          "carrying him outside to the cold air",
+          "wrapping him in an electric blanket"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What profession did Tariq practice as he traveled through Iraq?",
+        "correct": "freelance documentary filmmaker",
+        "distractors": [
+          "commercial airline pilot",
+          "embassy diplomat",
+          "customs border officer"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why did the initial irritation of the stranded passengers dissolve into warmth?",
+        "correct": "shared vulnerability and hospitality broke down cultural and linguistic barriers",
+        "distractors": [
+          "the airport offered free food and hotel vouchers",
+          "the airline paid cash compensation",
+          "television movies were screened"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "What medical instrument did Tariq sprint to retrieve from the terminal concourse?",
+        "correct": "automated external defibrillator",
+        "distractors": [
+          "oxygen tank",
+          "first aid bandage kit",
+          "blood pressure cuff"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "In how many languages did the terminal erupt in applause upon the patient's revival?",
+        "correct": "five languages",
+        "distractors": [
+          "only Arabic",
+          "only English",
+          "two languages"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What universal truth is affirmed in this airport drama?",
+        "correct": "human empathy and shared humanity transcend national, religious, and cultural borders in moments of crisis",
+        "distractors": [
+          "the unreliability of modern regional aviation",
+          "why airports should have better waiting chairs",
+          "how to film documentaries on a budget"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 303
+  },
+  {
+    "id": "b2-ashar-clock-08",
+    "level": "B2",
+    "genre": "mystery",
+    "title": "The Chimes of the Ashar River",
+    "titleAr": "أجراس نهر العشار",
+    "emoji": "⏱️",
+    "characters": [
+      {
+        "name": "Karim",
+        "role": "mechanical restoration horologist"
+      },
+      {
+        "name": "Master Shakir",
+        "role": "veteran municipal clockkeeper"
+      }
+    ],
+    "setting": "the historic Ashar Clock Tower overlooking the canals of old Basra",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "monument_history",
+        "value": "the century-old red brick clock tower overlooking the Ashar canal",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "mechanical_failure",
+        "value": "a corroded cast-iron weight cable and seized escapement chime hammer",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "symbolic_deadline",
+        "value": "striking twelve resonant chimes on New Year's Eve to mark civic renaissance",
+        "sentence": 6
+      },
+      {
+        "id": "f4",
+        "key": "triumphant_resonation",
+        "value": "the deep bronze chime echoed across the Shatt al-Arab as thousands cheered",
+        "sentence": 9
+      }
+    ],
+    "text": [
+      "Standing sentinel beside the serpentine canals of old Basra, the Ashar Clock Tower had governed the daily rhythms of harbor dockworkers, merchants, and school children since the late Ottoman period. Yet for twenty-five silent years, its four stained-glass clock dials had remained frozen, their hands rusted at four minutes to twelve.",
+      "Thirty-year-old mechanical engineer Karim had grown up listening to his grandfather's nostalgic recollections of the tower's deep bronze chimes vibrating across the palm groves of the Shatt al-Arab.",
+      "Refusing to accept that the civic landmark was dead, Karim secured municipal permission to undertake its voluntary mechanical restoration alongside Master Shakir, an eighty-two-year-old retired railway machinist who possessed original hand-drawn blueprints.",
+      "Ascending the precarious wooden ladder inside the dark brick belfry, they found a heartbreaking scene of neglect: the massive cast-iron pendulum weight cable had snapped, and the complex gear train was seized by salt-laden coastal humidity.",
+      "For six demanding months, the duo dismantled the monumental mechanism piece by piece, hauling hundred-kilogram bronze gears down to a riverfront machine shop for ultrasonic degreasing, hand-polishing, and microscopic tooth realignments.",
+      "Public anticipation mounted as the municipal council announced that the restored clock would attempt its first ceremonial chiming at the stroke of midnight on New Year's Eve, heralding an era of civic revival.",
+      "With fifteen minutes remaining before the countdown, Karim stood in the chilly belfry lantern with flashlight in hand, lubricating the newly cast steel escapement pallets while Master Shakir released the massive counterweights into the descent shaft.",
+      "Below in the illuminated plaza, over ten thousand citizens gathered along the canal promenade, eyes fixed on the illuminated clock face as the minute hand ticked forward with a crisp, authoritative click.",
+      "At the exact stroke of twelve, the heavy iron hammer struck the four-ton bronze bell with a magnificent, deep resonant boom that rolled like thunder across the waterways, answered by the ship horns of oil tankers anchored in the Shatt al-Arab. Karim embraced Master Shakir amidst weeping crowds, knowing that Basra's heart was beating once again."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What historic urban landmark is the focal point of the restoration narrative?",
+        "correct": "the century-old red brick clock tower overlooking the Ashar canal",
+        "distractors": [
+          "the Baghdad TV Tower",
+          "the Citadel of Kirkuk",
+          "the Bridge of Nineveh"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "How long had the clock tower stood frozen in silence prior to Karim's project?",
+        "correct": "twenty-five silent years",
+        "distractors": [
+          "two years",
+          "one century",
+          "six months"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What mechanical breakdowns had paralyzed the immense timepiece?",
+        "correct": "a corroded cast-iron weight cable and seized escapement chime hammer",
+        "distractors": [
+          "a completely melted copper motor",
+          "vandalism by broken stones",
+          "the bell had been stolen"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What high-stakes deadline did the city establish for the maiden chime?",
+        "correct": "striking twelve resonant chimes on New Year's Eve to mark civic renaissance",
+        "distractors": [
+          "National Independence Day in summer",
+          "the first day of school in autumn",
+          "the opening of the commercial port"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why had the clock's internal mechanisms suffered severe corrosion?",
+        "correct": "salt-laden coastal humidity from the nearby Persian Gulf and waterways",
+        "distractors": [
+          "acid rain from industrial factories",
+          "termites eating the steel gears",
+          "a fire inside the tower"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "Who answered the magnificent midnight chime from across the waters?",
+        "correct": "ship horns of oil tankers anchored in the Shatt al-Arab",
+        "distractors": [
+          "church bells in London",
+          "parade marching drums",
+          "police sirens"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What retired professional helped Karim decipher the antique blueprints?",
+        "correct": "retired railway machinist Master Shakir",
+        "distractors": [
+          "the university dean",
+          "the city port captain",
+          "a foreign tourist"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What symbolic resonance does the restored civic clock carry for the citizens?",
+        "correct": "reviving historic public landmarks restores collective pride, civic identity, and hope for urban renewal",
+        "distractors": [
+          "the superiority of mechanical time over digital devices",
+          "how to hoist heavy weights inside towers",
+          "tourism statistics in Basra"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 350
+  },
+  {
+    "id": "b2-between-tides-09",
+    "level": "B2",
+    "genre": "travel",
+    "title": "Between Two Tides in the Shatt al-Arab",
+    "titleAr": "بين مدّين في شط العرب",
+    "emoji": "⚓",
+    "characters": [
+      {
+        "name": "Captain Mohsen",
+        "role": "veteran river pilot"
+      },
+      {
+        "name": "Zaid",
+        "role": "junior navigation officer"
+      }
+    ],
+    "setting": "the treacherous navigational shipping channel between Umm Qasr and the Persian Gulf",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "maritime_setting",
+        "value": "the shifting sandbanks and heavy currents of the Shatt al-Arab fairway",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "nautical_challenge",
+        "value": "guiding a fully loaded deep-draft grain bulk carrier through dense sea fog",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "pilot_wisdom",
+        "value": "reading the water color, echo of channel buoys, and dynamic engine vibration",
+        "sentence": 6
+      },
+      {
+        "id": "f4",
+        "key": "safe_harbor",
+        "value": "docked the vessel securely at the grain silos without a single scratch",
+        "sentence": 9
+      }
+    ],
+    "text": [
+      "At the southern maritime gateway where the Tigris and Euphrates merge into the wide expanse of the Shatt al-Arab, navigating heavy commercial vessels requires consummate mastery of shifting silt bars, extreme tidal surges, and unpredictable Gulf squalls. Sixty-year-old Captain Mohsen had commanded pilot boats across these shoals for thirty-five years.",
+      "Beside him on the navigation bridge of the eighty-thousand-ton grain carrier stood Zaid, a recent graduate of the maritime academy whose faith rested entirely in dual GPS screens, electronic chart displays, and radar sweeps.",
+      "As the vessel entered the narrow dredged channel of the Rooka fairway, an impenetrable maritime sea fog rolled in from the Gulf, reducing visibility past the vessel's bow to absolute zero.",
+      "Simultaneously, an unexpected electrical fault tripped the bridge's primary navigation processor, plunging the electronic charts into darkness and leaving only basic gyrocompass readouts functional.",
+      "Panic flickered in the junior officer's eyes as the colossal ship drifted at ten knots toward treacherous underwater sandbanks where grounding would block maritime commerce for the entire nation.",
+      "Captain Mohsen calmly stepped to the open bridge wing, utilizing sensory instincts cultivated over a lifetime on the water. He listened to the distinct acoustic chime of navigation buoys echoing off the hull, felt the subtle thrum of the propeller struggling against tidal currents, and observed the swirling patterns of brackish river silt against ocean brine.",
+      "Calling out precise rudder orders to the helmsman—'Port five, steady on one-eight-two, half ahead'—Mohsen steered the behemoth blind through the S-curve bends of the fairway with breathtaking precision.",
+      "When the dense fog bank finally parted forty minutes later under the morning sun, the ship was positioned squarely in the center of the deep-water channel, aligning smoothly with the grain discharge terminal at Umm Qasr.",
+      "Zaid stared at the old captain with unreserved veneration. He realized that while digital screens display numbers, the true mastery of navigation is a living conversation between the human soul and the untamed ocean."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What strategic waterway serves as the perilous setting for the maritime journey?",
+        "correct": "the shifting sandbanks and heavy currents of the Shatt al-Arab fairway",
+        "distractors": [
+          "the Suez Canal",
+          "the Strait of Gibraltar",
+          "the Panama Canal"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What catastrophic technical failure crippled the bridge during zero-visibility fog?",
+        "correct": "an unexpected electrical fault tripped the primary navigation processor and electronic charts",
+        "distractors": [
+          "the ship's main steering rudder fell off",
+          "the anchor chain snapped in two",
+          "the engine caught fire"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What sensory cues did Captain Mohsen utilize to pilot the massive grain ship blind?",
+        "correct": "reading the water color, echo of channel buoys, and dynamic engine vibration",
+        "distractors": [
+          "using a smartphone flashlight",
+          "following seagulls flying overhead",
+          "calling a friend on radio"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "At which commercial terminal did the vessel safely dock to deliver its vital cargo?",
+        "correct": "docked the vessel securely at the grain silos without a single scratch",
+        "distractors": [
+          "an offshore oil platform",
+          "a military naval base",
+          "an abandoned shipyard"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why would grounding the grain carrier have constituted a national catastrophe?",
+        "correct": "it would have blocked the vital maritime trade channel for the entire country",
+        "distractors": [
+          "the ship was carrying dangerous explosives",
+          "it would scare tourists on the beach",
+          "it would cause a tidal wave"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "How many years of pilot experience did Captain Mohsen bring to the bridge?",
+        "correct": "thirty-five years",
+        "distractors": [
+          "five years",
+          "ten years",
+          "fifty years"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What commercial port serves as the terminus of the vessel's journey?",
+        "correct": "Umm Qasr",
+        "distractors": [
+          "Khor al-Zubair",
+          "Al-Faw",
+          "Kuwait City"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What timeless maritime lesson does the veteran pilot impart to the junior officer?",
+        "correct": "instinctive human experience, situational awareness, and deep respect for nature transcend mechanical instrumentation",
+        "distractors": [
+          "electronic charts are completely useless",
+          "why ships should only sail during daylight",
+          "how to build deeper canals"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 334
+  },
+  {
+    "id": "b2-oasis-botanist-10",
+    "level": "B2",
+    "genre": "school",
+    "title": "The Botanist of the Najaf Sea",
+    "titleAr": "عالمة نباتات بحر النجف",
+    "emoji": "🌿",
+    "characters": [
+      {
+        "name": "Dr. Lamia",
+        "role": "desert botanist"
+      },
+      {
+        "name": "Professor Adnan",
+        "role": "environmental committee chair"
+      }
+    ],
+    "setting": "the unique saline wetlands and desert escarpments of Bahr al-Najaf",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "botanical_discovery",
+        "value": "a rare endemic drought-resilient wild saltbush species with pharmacological potential",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "commercial_threat",
+        "value": "unregulated sand quarrying and commercial industrial development",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "compelling_defense",
+        "value": "proving the plant prevents toxic dust storms from choking sacred pilgrimage cities",
+        "sentence": 7
+      },
+      {
+        "id": "f4",
+        "key": "protected_status",
+        "value": "officially gazetted as the Bahr al-Najaf Botanical Nature Reserve",
+        "sentence": 10
+      }
+    ],
+    "text": [
+      "Spreading westward from the holy city's cliff edge, the vast geological depression known as Bahr al-Najaf forms an extraordinary transitional ecosystem where mineral springs nourish unique halophytic flora amidst hyper-arid desert dunes. For five relentless years, Dr. Lamia had mapped this harsh terrain on foot.",
+      "Her tireless fieldwork focused on documenting an extremely rare endemic saltbush species—Haloxylon najafense—that possessed extraordinary biological mechanisms to survive intense salinity, scorching fifty-degree heat, and severe water scarcity.",
+      "Preliminary biochemical analyses revealed that the shrub's leaves produced novel anti-inflammatory compounds with tremendous medical promise for treating autoimmune disorders.",
+      "However, this fragile ecological enclave was facing immediate existential peril from illegal industrial sand quarrying and unchecked real estate development expanding along the depression's rim.",
+      "Heavy bulldozers were already pulverizing acres of irreplaceable plant colonies to supply raw gravel for concrete factories, destabilizing the natural biological crust of the desert floor.",
+      "Summoned before the provincial environmental council, Dr. Lamia recognized that academic descriptions of rare enzymes would not halt lucrative excavation concessions.",
+      "With strategic brilliance, she presented satellite wind-flow simulations demonstrating that the dense root networks of the native saltbush served as an indispensable vegetative barrier, preventing millions of tons of blinding alkaline dust storms from engulfing the historic shrines of Najaf and Kufa.",
+      "Destroying the botanical colonies would increase respiratory hospitalizations across the metropolitan province by thirty-five percent within two years.",
+      "The stark economic and public health data silenced commercial lobbyists immediately. The provincial governor signed an executive decree prohibiting all excavation along the western escarpment.",
+      "Today, the depression is officially gazetted as the Bahr al-Najaf Botanical Nature Reserve, where Lamia mentors a new generation of university researchers studying the miraculous resilience of Iraqi desert life."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What unique endemic plant species was Dr. Lamia documenting in Bahr al-Najaf?",
+        "correct": "a rare endemic drought-resilient wild saltbush species with pharmacological potential",
+        "distractors": [
+          "a wild desert orchid",
+          "a giant freshwater waterlily",
+          "a poisonous mountain berry"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What destructive commercial activity threatened to eradicate the plant's habitat?",
+        "correct": "unregulated sand quarrying and commercial industrial development",
+        "distractors": [
+          "oil well drilling rigs",
+          "excessive tourism camping",
+          "agricultural pesticide spraying"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What public health argument proved decisive in persuading the provincial council?",
+        "correct": "proving the plant prevents toxic dust storms from choking sacred pilgrimage cities",
+        "distractors": [
+          "the plant produced edible sweet fruits",
+          "the leaves could be exported for gold",
+          "the flowers attracted tourists"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What official legal protection was awarded to the ecosystem as a result of her advocacy?",
+        "correct": "officially gazetted as the Bahr al-Najaf Botanical Nature Reserve",
+        "distractors": [
+          "a temporary six-month construction delay",
+          "a municipal agricultural zone",
+          "a private gated university campus"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why is the root system of the native saltbush ecologically vital to the region?",
+        "correct": "it binds the desert crust and acts as a barrier against dust storms",
+        "distractors": [
+          "it creates underground drinking water caves",
+          "it produces heavy timber for furniture",
+          "it grows sweet mushrooms"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "What medicinal property did initial laboratory analyses reveal in the plant's leaves?",
+        "correct": "novel anti-inflammatory compounds for autoimmune disorders",
+        "distractors": [
+          "a cure for common tooth decay",
+          "a chemical that replaces aspirin",
+          "a natural hair dye"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Which holy urban centers were protected from dust storms by the botanical barrier?",
+        "correct": "Najaf and Kufa",
+        "distractors": [
+          "Baghdad and Hillah",
+          "Basra and Nasiriyah",
+          "Samarra and Tikrit"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What triumphant lesson in environmental advocacy does Dr. Lamia's victory celebrate?",
+        "correct": "translating ecological science into tangible public health and civic benefits empowers successful conservation",
+        "distractors": [
+          "why industrial development should take precedence over wild plants",
+          "how to dig desert gravel quarries",
+          "the chemical process of making concrete"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 289
+  }
+]

@@ -1,0 +1,1474 @@
+[
+  {
+    "id": "b1-book-hunter-01",
+    "level": "B1",
+    "genre": "mystery",
+    "title": "The Manuscript of Al-Mutanabbi",
+    "titleAr": "مخطوطة المتنبي",
+    "emoji": "📜",
+    "characters": [
+      {
+        "name": "Maitham",
+        "role": "book collector"
+      },
+      {
+        "name": "Abu Duraid",
+        "role": "antiquarian bookseller"
+      }
+    ],
+    "setting": "the historic labyrinth of Al-Mutanabbi Street and the banks of the Tigris",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "sought_book",
+        "value": "a handwritten ninth-century commentary by Al-Jahiz",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "clue_location",
+        "value": "tucked inside the lining of an Ottoman poetry volume",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "identification_mark",
+        "value": "an embossed seal depicting a two-headed eagle",
+        "sentence": 6
+      },
+      {
+        "id": "f4",
+        "key": "final_destination",
+        "value": "donated to the National Library archives for public research",
+        "sentence": 8
+      }
+    ],
+    "text": [
+      "For over three decades, Maitham had spent every Friday scouring the crowded book stalls of Al-Mutanabbi Street. His passionate ambition was not merely acquiring handsome bindings, but rescuing endangered manuscripts before they were lost to dampness or neglect.",
+      "One humid morning, Abu Duraid, a venerable book merchant whose family had operated on the street since the late Ottoman period, gestured toward a dusty back cabinet. He had acquired a bundle of water-damaged texts from an old estate in Samarra, including a leather-bound commentary on natural science attributed to the celebrated scholar Al-Jahiz.",
+      "With trembling fingertips, Maitham opened the decayed binding under a magnifying lamp. While gently turning the stiff parchment folios, a folded document slipped from behind the marbled endpaper lining.",
+      "It was not part of the commentary itself, but a handwritten letter penned in exquisite Thuluth script, detailing trade routes between Baghdad and the Silk Road during the golden age of learning.",
+      "At the bottom of the vellum parchment was pressed an authentic wax seal featuring a two-headed imperial eagle, proving beyond doubt that the text had once belonged to the private library of the Mustansiriya Madrasah.",
+      "Although international collectors would have paid a small fortune for such a discovery, Maitham knew that heritage belonged to the collective memory of his country. By Monday morning, he had deposited the treasure in the secure climate-controlled vaults of the National Library, ensuring students for generations would study its wisdom."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What precious author was the commentary originally attributed to?",
+        "correct": "a handwritten ninth-century commentary by Al-Jahiz",
+        "distractors": [
+          "Ibn Battuta",
+          "Al-Khwarizmi",
+          "Al-Farabi"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "Where was the hidden trade letter discovered?",
+        "correct": "tucked inside the lining of an Ottoman poetry volume",
+        "distractors": [
+          "in a wooden barrel",
+          "inside an iron safe",
+          "under the market floor"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What symbol was embossed on the authentic seal?",
+        "correct": "an embossed seal depicting a two-headed eagle",
+        "distractors": [
+          "a single crescent",
+          "a roaring lion",
+          "a golden palm tree"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "Where did Maitham donate the valuable historical discovery?",
+        "correct": "donated to the National Library archives for public research",
+        "distractors": [
+          "sold it to an overseas museum",
+          "kept it in his bedroom",
+          "burned it for safety"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "To which historic Baghdadi educational institution had the manuscript belonged?",
+        "correct": "Mustansiriya Madrasah",
+        "distractors": [
+          "Nizamiyya University",
+          "House of Wisdom",
+          "Al-Azhar"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why did Maitham refuse to sell the manuscript to foreign collectors?",
+        "correct": "he believed cultural heritage belongs to his country's collective memory",
+        "distractors": [
+          "the price offered was too low",
+          "the paper was too damaged",
+          "the law forbade carrying books"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "From which city had the water-damaged bundle originally arrived?",
+        "correct": "Samarra",
+        "distractors": [
+          "Tikrit",
+          "Mosul",
+          "Karbala"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What is the noble theme celebrated in this literary narrative?",
+        "correct": "integrity, scholarship, and preserving cultural heritage for future generations",
+        "distractors": [
+          "how to bargain with book merchants",
+          "techniques for restoring wet paper",
+          "the history of ancient trade routes"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 244
+  },
+  {
+    "id": "b1-whispering-palms-02",
+    "level": "B1",
+    "genre": "family",
+    "title": "The Whispering Date Palms of Karbala",
+    "titleAr": "نخيل كربلاء الهامس",
+    "emoji": "🌴",
+    "characters": [
+      {
+        "name": "Nadia",
+        "role": "agricultural student"
+      },
+      {
+        "name": "Hajj Abbas",
+        "role": "orchard keeper"
+      }
+    ],
+    "setting": "an ancient date palm grove fed by historic irrigation canals",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "rare_variety",
+        "value": "the rare golden Barhi and Khastawi date palms",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "ancestral_technique",
+        "value": "manual hand pollination using select pollen dust",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "threat_faced",
+        "value": "prolonged drought and declining water levels in the canal",
+        "sentence": 6
+      },
+      {
+        "id": "f4",
+        "key": "innovative_solution",
+        "value": "solar-powered drip irrigation system engineered by Nadia",
+        "sentence": 8
+      }
+    ],
+    "text": [
+      "Nadia had spent her childhood playing beneath the soaring green canopies of her grandfather's agricultural estate outside Karbala. Now returning as an enthusiastic university graduate in environmental science, she noticed alarming changes that broke her heart.",
+      "The ancient groves, renowned for centuries for producing the legendary golden Barhi and tender Khastawi date varieties, were visibly suffering under unprecedented regional droughts. The historic irrigation canal that drew water from the Euphrates basin was running perilously low.",
+      "Her grandfather, Hajj Abbas, walked along the cracked earthen channels with weathered patience. For sixty harvests, he had climbed the tall textured trunks using traditional rope harnesses, manually pollinating the blooms with select powder to ensure bountiful bunches.",
+      "Yet hard labor alone could no longer overcome the reality of parched roots. Traditional flood irrigation was wasting scarce water through evaporation beneath the scorching summer heat.",
+      "Nadia spent three tireless weeks surveying the soil salinity and designing a sustainable solution that respected tradition while embracing modern conservation. She helped her grandfather install a network of flexible subsurface drip lines powered by three rooftop solar panels.",
+      "By delivering precise droplets directly to the deep root systems at dawn and dusk, they slashed water consumption by sixty percent while reviving the wilted fronds to vibrant emerald splendor. Hajj Abbas touched the damp soil and smiled with profound peace, knowing the family legacy was secure."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What prestigious date varieties did the family orchard cultivate?",
+        "correct": "the rare golden Barhi and Khastawi date palms",
+        "distractors": [
+          "dry Zahdi only",
+          "wild bitter dates",
+          "foreign hybrid dates"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What severe environmental crisis threatened the orchard?",
+        "correct": "prolonged drought and declining water levels in the canal",
+        "distractors": [
+          "severe frost and snow",
+          "locust insect invasion",
+          "forest fire"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What sustainable technology did Nadia introduce to save the farm?",
+        "correct": "solar-powered drip irrigation system engineered by Nadia",
+        "distractors": [
+          "building a massive concrete dam",
+          "importing plastic water bottles",
+          "buying water tankers every day"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "By how much did the modern drip system reduce water consumption?",
+        "correct": "sixty percent",
+        "distractors": [
+          "ten percent",
+          "twenty percent",
+          "ninety percent"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "What did Hajj Abbas use to climb the palm trunks traditionally?",
+        "correct": "traditional rope harnesses",
+        "distractors": [
+          "a hydraulic metal crane",
+          "a wooden ladder",
+          "helicopter ropes"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why was the traditional flood irrigation method failing?",
+        "correct": "water evaporated rapidly under the scorching heat",
+        "distractors": [
+          "the soil was made of pure clay",
+          "water poisoned the trees",
+          "the pumps were too fast"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What academic field did Nadia study at university?",
+        "correct": "environmental science",
+        "distractors": [
+          "mechanical engineering",
+          "modern business accounting",
+          "international law"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What core message does this agricultural story convey?",
+        "correct": "combining modern ecological science with ancestral wisdom preserves vital natural resources",
+        "distractors": [
+          "abandoning family farms for city jobs",
+          "palm trees do not need water",
+          "the history of ancient rivers"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 226
+  },
+  {
+    "id": "b1-bridge-mosul-03",
+    "level": "B1",
+    "genre": "everyday",
+    "title": "A Bridge Between Generations",
+    "titleAr": "جسر بين الأجيال",
+    "emoji": "🌉",
+    "characters": [
+      {
+        "name": "Saif",
+        "role": "civil engineering apprentice"
+      },
+      {
+        "name": "Eng. Tariq",
+        "role": "senior bridge inspector"
+      }
+    ],
+    "setting": "the historic Old Bridge crossing the Tigris River in Mosul",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "bridge_name",
+        "value": "the historic iron Old Bridge connecting eastern and western Mosul",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "inspection_focus",
+        "value": "detecting micro-fractures in the iron trusses after reconstruction",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "unexpected_discovery",
+        "value": "a bronze cornerstone plaque with the names of the original 1930s builders",
+        "sentence": 5
+      }
+    ],
+    "text": [
+      "Dawn mist rose lazily from the turquoise waters of the Tigris as Saif climbed the access platform below the iconic Old Bridge of Mosul. Beside him stood senior engineer Tariq, who had supervised the post-war reconstruction of the city's vital transportation arteries.",
+      "For Saif, who had grown up watching international news reports about his hometown's devastation, walking across this restored iron artery was an emotional pilgrimage. The bridge was not merely steel and asphalt; it was the spine connecting families across the two halves of the ancient city.",
+      "Their task was meticulous: scanning the load-bearing riveted joints with ultrasonic probes to ensure that heavy daily truck traffic had not generated micro-fractures in the restored structural steel.",
+      "While calibrating sensors near the western masonry pier, Saif scraped away centuries of river silt from an iron alcove beneath the main pedestrian walkway.",
+      "To their collective astonishment, the scraping revealed a heavy bronze plaque polished by time, bearing the embossed names of the original Arab and British stonemasons who had completed the span in 1934.",
+      "Eng. Tariq ran his finger along the engraved metal, pointing to a familiar family name: his own grandfather had been a riveter on this very structure. Standing above the rushing current, the two engineers felt an unbroken cord of human pride spanning ninety years of resilience."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "Which landmark river does the Old Bridge cross?",
+        "correct": "Tigris River",
+        "distractors": [
+          "Euphrates River",
+          "Khazir River",
+          "Diyala River"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What high-tech equipment were the engineers using for the inspection?",
+        "correct": "detecting micro-fractures in the iron trusses after reconstruction",
+        "distractors": [
+          "infrared cameras",
+          "simple measuring tapes",
+          "chemical sprays"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What historical artifact did Saif uncover beneath the river silt?",
+        "correct": "a bronze cornerstone plaque with the names of the original 1930s builders",
+        "distractors": [
+          "an unexploded artillery shell",
+          "a bag of silver coins",
+          "an iron anchor"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "In which decade was the original bridge constructed?",
+        "correct": "the 1930s",
+        "distractors": [
+          "the 1850s",
+          "the 1980s",
+          "the 2000s"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "Whose ancestor's name was discovered engraved on the historic plaque?",
+        "correct": "Eng. Tariq's grandfather",
+        "distractors": [
+          "Saif's uncle",
+          "the governor",
+          "the city mayor"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why was the Old Bridge described as the spine of Mosul?",
+        "correct": "it linked families and communities across the two halves of the city",
+        "distractors": [
+          "it was painted bright white",
+          "it was the only road in the country",
+          "it had a railway running on top"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What city serves as the setting for this reconstruction story?",
+        "correct": "Mosul",
+        "distractors": [
+          "Kirkuk",
+          "Tikrit",
+          "Samarra"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What does the bridge symbolize in the narrative?",
+        "correct": "resilience, heritage, and the continuous connection of generations rebuilding their home",
+        "distractors": [
+          "the technical difficulty of bridge maintenance",
+          "how to weld steel trusses",
+          "automobile traffic control"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 220
+  },
+  {
+    "id": "b1-desert-compass-04",
+    "level": "B1",
+    "genre": "adventure",
+    "title": "The Compass of the Western Sands",
+    "titleAr": "بوصلة رمال الغرب",
+    "emoji": "🧭",
+    "characters": [
+      {
+        "name": "Raed",
+        "role": "desert tracker"
+      },
+      {
+        "name": "Abu Bakr",
+        "role": "Bedouin elder"
+      }
+    ],
+    "setting": "the vast golden expanses of the Anbar desert",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "destination",
+        "value": "the ancient ruined caravanserai of Wadi al-Qadha",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "sandstorm_arrival",
+        "value": "a sudden blinding reddish dust storm called the Simoom",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "navigation_method",
+        "value": "traditional stellar navigation by the North Star and dune ripples",
+        "sentence": 5
+      }
+    ],
+    "text": [
+      "The four-wheel-drive expedition had departed Rutba at dawn, seeking to map the forgotten stone foundations of an Umayyad caravanserai near Wadi al-Qadha. Raed checked his satellite GPS unit periodically, though old Abu Bakr relied entirely on the shapes of rocky hills.",
+      "By mid-afternoon, the horizon darkened with ominous speed. A violent reddish Simoom storm rose from the southwest, sweeping across the desert like a solid wall of swirling sand.",
+      "Within minutes, visibility plummeted to less than three paces. The high-tech GPS unit malfunctioned as blowing mineral dust jammed its antenna connection, and the digital compass spun erratically.",
+      "Panic flickered among the younger researchers as the vehicle engine coughed in the blinding gale. Abu Bakr remained astonishingly calm, ordering everyone to stay inside the vehicle until the fiercest velocity subsided.",
+      "When night fell and the wind calmed to a gentle breeze, the sky cleared to reveal razor-sharp constellations. Abu Bakr stepped out onto the cool sand, aligning his walking staff with the North Star and reading the windward ripple patterns carved into the dunes.",
+      "Guided by the old man's ancestral knowledge of the celestial dome, the team navigated safely through the dark ridges, reaching the shelter of the oasis camp just as search teams prepared to deploy."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What historical ruin was the expedition attempting to locate?",
+        "correct": "the ancient ruined caravanserai of Wadi al-Qadha",
+        "distractors": [
+          "a submerged Roman harbor",
+          "a Babylonian gold mine",
+          "an Ottoman palace"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What dangerous weather phenomenon struck the convoy?",
+        "correct": "a sudden blinding reddish dust storm called the Simoom",
+        "distractors": [
+          "a flash flood wave",
+          "freezing hailstorm",
+          "tornado whirlwind"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "How did Abu Bakr navigate once the modern electronics failed?",
+        "correct": "traditional stellar navigation by the North Star and dune ripples",
+        "distractors": [
+          "following car tracks in the sand",
+          "using a battery radio",
+          "walking toward distant smoke"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "cause",
+        "q": "Why did the satellite GPS device stop functioning properly?",
+        "correct": "blowing mineral dust jammed its antenna connection",
+        "distractors": [
+          "the battery melted in water",
+          "Raed dropped it out the window",
+          "it had no satellite coverage"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "From which western town did the team begin their desert expedition?",
+        "correct": "Rutba",
+        "distractors": [
+          "Ramadi",
+          "Fallujah",
+          "Haditha"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "What celestial body did the elder align his wooden staff with?",
+        "correct": "the North Star",
+        "distractors": [
+          "the evening crescent",
+          "planet Venus",
+          "the red constellation"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Where did the team safely arrive at the end of the night?",
+        "correct": "oasis camp",
+        "distractors": [
+          "an abandoned petrol station",
+          "their university laboratory",
+          "a mountain cave"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What does the desert survival tale illuminate?",
+        "correct": "indigenous ancestral knowledge often surpasses fragile modern technology in extreme wilderness",
+        "distractors": [
+          "why diesel vehicles are unsafe in sand",
+          "how to dig desert wells",
+          "meteorological warning systems"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 212
+  },
+  {
+    "id": "b1-chess-teahouse-05",
+    "level": "B1",
+    "genre": "funny",
+    "title": "The Grandmaster of Al-Adhamiya",
+    "titleAr": "أستاذ الشطرنج في الأعظمية",
+    "emoji": "♟️",
+    "characters": [
+      {
+        "name": "Abu Mustafa",
+        "role": "veteran chess champion"
+      },
+      {
+        "name": "Munir",
+        "role": "clever mathematics student"
+      }
+    ],
+    "setting": "an atmospheric traditional tea house in historic Al-Adhamiya",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "champion_record",
+        "value": "unbeaten for twelve consecutive years on board number one",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "game_climax",
+        "value": "a daring queen sacrifice to expose the king",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "winner_reward",
+        "value": "a gold-plated set of engraved boxwood chess pieces",
+        "sentence": 6
+      }
+    ],
+    "text": [
+      "In the shadowed corner of Al-Basha Tea House in Al-Adhamiya, the clatter of dice and murmuring patrons always hushed around table number one. There sat Abu Mustafa, a retired mathematics professor whose sharp eyes could anticipate moves twenty turns ahead.",
+      "For twelve unbroken years, no challenger had managed to topple his walnut wooden king. Older men gathered around his table sipping spiced tea, convinced that the professor was essentially invincible.",
+      "One chilly November evening, quiet nineteen-year-old university student Munir sat opposite him, placing his backpack under the chair. The elderly spectators chuckled softly, assuming the young boy would be dismantled within ten minutes.",
+      "The contest, however, evolved into a breathtaking battle of positional genius. Countering Abu Mustafa's signature Sicilian defense, Munir deployed an unconventional pawn gambit that bewildered the watchful crowd.",
+      "By move thirty-two, Munir executed a shocking queen sacrifice that drew audible gasps from every grandfather in the room. The professor stared at the board for six breathless minutes, tracing the geometric trap that had cornered his monarch inescapably.",
+      "A slow, generous smile spread across Abu Mustafa's bearded face. He tipped his king gracefully with his ring finger and presented Munir with his own treasured boxwood set, whispering that the crown had finally found a worthy heir."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "How long had Abu Mustafa held his unbeaten championship streak?",
+        "correct": "unbeaten for twelve consecutive years on board number one",
+        "distractors": [
+          "six months",
+          "thirty years",
+          "three weeks"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What unexpected tactical sacrifice did young Munir execute to win?",
+        "correct": "a daring queen sacrifice to expose the king",
+        "distractors": [
+          "sacrificing both rooks",
+          "losing his knight intentionally",
+          "trading four pawns"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What prize did the professor bestow upon the victorious student?",
+        "correct": "a gold-plated set of engraved boxwood chess pieces",
+        "distractors": [
+          "a cash envelope",
+          "his pocket watch",
+          "a signed math textbook"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "In which Baghdad district was the historic tea house located?",
+        "correct": "Al-Adhamiya",
+        "distractors": [
+          "Kadhimiya",
+          "Karrada",
+          "Mansour"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why did the elderly spectators initially chuckle when Munir sat down?",
+        "correct": "they assumed the young teenager was inexperienced and would lose swiftly",
+        "distractors": [
+          "Munir was wearing funny clothes",
+          "the table was reserved for someone else",
+          "the board was missing pieces"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "What academic profession had Abu Mustafa retired from?",
+        "correct": "mathematics professor",
+        "distractors": [
+          "history teacher",
+          "civil engineer",
+          "school principal"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "How did the professor concede the match honorably?",
+        "correct": "tipped his king gracefully with his ring finger",
+        "distractors": [
+          "shook the board in anger",
+          "walked out without speaking",
+          "called for a rematch immediately"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What virtue shines through this tea house drama?",
+        "correct": "gracious sportsmanship and the joyful passing of wisdom to youth",
+        "distractors": [
+          "how to bet money on board games",
+          "memorizing famous chess openings",
+          "drinking strong tea"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 213
+  },
+  {
+    "id": "b1-marshes-rain-06",
+    "level": "B1",
+    "genre": "adventure",
+    "title": "Rain Over the Mesopotamian Marshes",
+    "titleAr": "المطر فوق الأهوار",
+    "emoji": "🛶",
+    "characters": [
+      {
+        "name": "Luay",
+        "role": "young marsh boatman"
+      },
+      {
+        "name": "Abu Sabih",
+        "role": "canoe builder"
+      }
+    ],
+    "setting": "the labyrinthine waterways of Chibayish in the southern Iraqi marshes",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "canoe_type",
+        "value": "a slender black tar-coated wooden canoe called a mashhoof",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "wildlife_sheltered",
+        "value": "a herd of domestic water buffaloes stranded on an islet",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "shelter_structure",
+        "value": "an ancient vaulted reed cathedral house called a mudhif",
+        "sentence": 5
+      }
+    ],
+    "text": [
+      "Luay dipped his long wooden paddle into the mirror-still waters of Chibayish, gliding his slender black mashhoof canoe through walls of towering green reeds. The southern marshes stretched for endless miles under a heavy slate-gray sky.",
+      "Unseasonal thunderstorms had unleashed torrential downpours across the wetlands, causing water levels to rise rapidly around the fragile artificial reed islands where marsh communities dwelt.",
+      "From the mist came the anxious bellow of water buffaloes. Luay recognized the animals belonging to his neighbor Abu Sabih; the herd was marooned on a submerged mudbank, terrified by the crack of lightning.",
+      "Working tirelessly in the driving rain, Luay and his cousin tied braided reed ropes between their two canoes, forming a guiding corridor through the turbulent channel.",
+      "They coaxed the powerful swimming buffaloes through the deep lagoon, steering them towards the high embankment of the grand community mudhif—a colossal arched hall constructed entirely of woven giant reeds.",
+      "Inside the towering reed hall, dry driftwood burned in the central hearth, filling the cathedral-like dome with warmth and aromatic smoke. As the herd rested safely outside, the grateful village gathered to share grilled river carp and fragrant date syrup."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What is the traditional name of the slender canoe Luay navigated?",
+        "correct": "a slender black tar-coated wooden canoe called a mashhoof",
+        "distractors": [
+          "a fiberglass kayak",
+          "a motor speedboat",
+          "a steam launch"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What animals were stranded and rescued from the rising floodwaters?",
+        "correct": "a herd of domestic water buffaloes stranded on an islet",
+        "distractors": [
+          "flocks of wild sheep",
+          "herds of mountain goats",
+          "racing camels"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What architectural marvel provided sanctuary for the community?",
+        "correct": "an ancient vaulted reed cathedral house called a mudhif",
+        "distractors": [
+          "a reinforced concrete bunker",
+          "a brick school building",
+          "a canvas military tent"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "In which southern wetland town does this aquatic rescue take place?",
+        "correct": "Chibayish",
+        "distractors": [
+          "Nasiriyah city center",
+          "Amara docks",
+          "Qurna confluence"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why did the water levels surge dangerously in the marshes?",
+        "correct": "unseasonal thunderstorms unleashed torrential downpours",
+        "distractors": [
+          "an upstream dam broke",
+          "seawater backed into the river",
+          "melting mountain snow"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "What traditional feast did the community share inside the warm hall?",
+        "correct": "grilled river carp and fragrant date syrup",
+        "distractors": [
+          "roasted camel meat",
+          "canned tuna and crackers",
+          "lamb kebabs on skewers"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What material is a traditional mudhif hall constructed from?",
+        "correct": "woven giant reeds",
+        "distractors": [
+          "imported pine lumber",
+          "baked mud bricks",
+          "sheet metal"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What ancient way of life is celebrated through this dramatic rescue?",
+        "correct": "the enduring ecological harmony and community solidarity of the Iraqi Marsh Arabs",
+        "distractors": [
+          "commercial freshwater fishing techniques",
+          "the danger of wild buffaloes",
+          "building motorboats for transport"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 195
+  },
+  {
+    "id": "b1-young-astronomer-07",
+    "level": "B1",
+    "genre": "school",
+    "title": "The Telescope on Korek Mountain",
+    "titleAr": "التلسكوب فوق جبل كورك",
+    "emoji": "🔭",
+    "characters": [
+      {
+        "name": "Zahra",
+        "role": "astronomy student"
+      },
+      {
+        "name": "Dr. Dara",
+        "role": "observatory curator"
+      }
+    ],
+    "setting": "the historic astronomical observatory atop Korek Mountain in Erbil province",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "mountain_location",
+        "value": "the windswept granite peak of Korek Mountain in Kurdistan",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "restored_instrument",
+        "value": "a classic brass refracting telescope built in the late twentieth century",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "observed_phenomenon",
+        "value": "the golden rings of Saturn and the four Galilean moons of Jupiter",
+        "sentence": 5
+      }
+    ],
+    "text": [
+      "High atop the rugged limestone crags of Korek Mountain, over two thousand meters above sea level, stood the historic observatory dome built decades ago to peer into the cosmos. Seventeen-year-old Zahra tightened her woolen coat against the freezing alpine wind.",
+      "She had earned first place in the National Youth Science Olympiad, winning a weekend residency with Dr. Dara, a passionate astrophysicist dedicated to restoring the high-altitude observation facility.",
+      "Together in the circular dome, they spent hours aligning the optical mirrors of a classic brass refracting telescope, calibrating tracking motors against the Earth's steady rotation.",
+      "When the steel shutter opened to the midnight sky, the total absence of atmospheric humidity and city glow revealed the Milky Way as an incandescent river of celestial fire.",
+      "Zahra leaned toward the rubber eyepiece, holding her breath in awe. Before her ocular lens shone the radiant golden rings of Saturn tilted gracefully in the void, alongside the four diamond pinpricks of Jupiter's Galilean moons.",
+      "The sight brought tears to her eyes, cementing her resolve to pursue physics at university. Looking down upon the distant twinkling lights of Erbil valley, she knew that the human desire to understand the universe knows no geographical borders."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "On which high mountain peak is the observatory located?",
+        "correct": "the windswept granite peak of Korek Mountain in Kurdistan",
+        "distractors": [
+          "Mount Sinjar",
+          "Mount Qandil",
+          "Mount Halgurd"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What celestial bodies did Zahra view with crystal clarity through the lens?",
+        "correct": "the golden rings of Saturn and the four Galilean moons of Jupiter",
+        "distractors": [
+          "a dying supernova explosion",
+          "the surface craters of Mars",
+          "a blazing comet tail"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "How did Zahra win the coveted weekend residency at the observatory?",
+        "correct": "first place in the National Youth Science Olympiad",
+        "distractors": [
+          "her father was the governor",
+          "she bought a raffle ticket",
+          "she repaired the road"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What environmental conditions made Korek Mountain ideal for stargazing?",
+        "correct": "altitude above two thousand meters and absence of city lights",
+        "distractors": [
+          "warm tropical breezes",
+          "bright full moon nights",
+          "dense cloud cover"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why was the Milky Way so breathtakingly visible?",
+        "correct": "the pristine mountain air was free from humidity and light pollution",
+        "distractors": [
+          "they had artificial laser spotlights",
+          "the sun had not set completely",
+          "a satellite illuminated the clouds"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "What instrument did they calibrate against the Earth's rotation?",
+        "correct": "a classic brass refracting telescope built in the late twentieth century",
+        "distractors": [
+          "a radio satellite dish",
+          "a handheld compass",
+          "an electronic barometer"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What academic career path did this experience solidify for Zahra?",
+        "correct": "studying university physics and astrophysics",
+        "distractors": [
+          "becoming an airplane pilot",
+          "working in government politics",
+          "becoming an architect"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What inspiring theme resonates throughout the mountain vigil?",
+        "correct": "scientific curiosity, female youth achievement, and the boundless wonder of the universe",
+        "distractors": [
+          "the cold weather of northern mountains",
+          "how to buy expensive telescopes",
+          "tourism in Erbil province"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 201
+  },
+  {
+    "id": "b1-migrating-stork-08",
+    "level": "B1",
+    "genre": "nature",
+    "title": "The Return of the White Stork",
+    "titleAr": "عودة اللقلق الأبيض",
+    "emoji": "🪶",
+    "characters": [
+      {
+        "name": "Hamza",
+        "role": "young farmer"
+      },
+      {
+        "name": "Grandfather",
+        "role": "village elder"
+      }
+    ],
+    "setting": "an agricultural village along the Diyala River orchard belt",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "nesting_site",
+        "value": "the top of the historic brick minaret in the village square",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "symbolic_meaning",
+        "value": "harbinger of spring rains, bountiful wheat harvest, and good fortune",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "protective_action",
+        "value": "securing a sturdy woven wicker platform on the minaret platform",
+        "sentence": 5
+      }
+    ],
+    "text": [
+      "For generations beyond living memory, the return of the white stork pair to the brick minaret in the center of the village had signaled the definitive arrival of spring. Hamza gazed up into the azure Diyala sky, scanning the northern horizon eagerly.",
+      "Winter had been unusually harsh and dry, leaving farmers anxious about their burgeoning wheat fields. In folklore, the noble long-legged birds were revered as guardians of agricultural fertility and symbols of enduring hope.",
+      "During a fierce gale in February, part of the massive stick nest perched atop the minaret gallery had sheared away, tumbling down into the courtyard below.",
+      "Hamza refused to let the returning birds find their ancestral home in ruins. Climbing the spiral staircase with permission from the village council, he hauled bundles of resilient olive twigs and built a reinforced circular platform secured with copper wire.",
+      "On the first Tuesday of March, two magnificent white silhouettes with glossy black wings glided on thermal currents above the orchards. The birds circled three times before settling gently onto Hamza's rebuilt platform with rhythmic, joyful bill-clattering.",
+      "The entire village erupted in celebratory ululations. Hamza stood in the courtyard with his proud grandfather, knowing that life, renewal, and faith had once again triumphed over the winter chill."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "Where did the white storks build their ancestral nest each spring?",
+        "correct": "the top of the historic brick minaret in the village square",
+        "distractors": [
+          "on a telephone pole",
+          "in a tall palm tree",
+          "on the roof of the clinic"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What cultural significance did the villagers associate with the storks' arrival?",
+        "correct": "harbinger of spring rains, bountiful wheat harvest, and good fortune",
+        "distractors": [
+          "sign of dangerous sandstorms",
+          "warning of bad luck",
+          "need to sell their crops quickly"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "How did Hamza ensure the birds had a safe foundation to nest?",
+        "correct": "securing a sturdy woven wicker platform on the minaret platform",
+        "distractors": [
+          "placing a metal cage on the roof",
+          "nailing wooden boards to a tree",
+          "hanging a net between houses"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "In which river valley was the farming village nestled?",
+        "correct": "Diyala River orchard belt",
+        "distractors": [
+          "Zab River valley",
+          "Euphrates delta",
+          "Shatt al-Arab coast"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why was the nest damaged prior to the birds' arrival?",
+        "correct": "a fierce winter gale sheared away the sticks in February",
+        "distractors": [
+          "boys threw stones at it",
+          "it caught fire from lightning",
+          "heavy snow crushed it"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "What unique sound did the storks make upon claiming their restored nest?",
+        "correct": "rhythmic, joyful bill-clattering",
+        "distractors": [
+          "loud piercing whistles",
+          "deep roaring calls",
+          "silent flapping only"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "When did the stork pair finally arrive?",
+        "correct": "the first Tuesday of March",
+        "distractors": [
+          "mid-summer August",
+          "late December",
+          "early January"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What timeless relationship is honored in this village chronicle?",
+        "correct": "the compassionate stewardship humans share with wild migratory creatures",
+        "distractors": [
+          "how to repair brick minarets",
+          "growing wheat during drought",
+          "hunting wild birds for sport"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 210
+  },
+  {
+    "id": "b1-lens-rasheed-09",
+    "level": "B1",
+    "genre": "everyday",
+    "title": "A Lens on Old Al-Rasheed",
+    "titleAr": "عدسة على شارع الرشيد القديم",
+    "emoji": "📷",
+    "characters": [
+      {
+        "name": "Waleed",
+        "role": "documentary photographer"
+      },
+      {
+        "name": "Master Salim",
+        "role": "vintage camera repairer"
+      }
+    ],
+    "setting": "the historic colonnaded arcades of Al-Rasheed Street in central Baghdad",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "camera_type",
+        "value": "a vintage 1950s mechanical Leica camera loaded with black-and-white film",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "architectural_subject",
+        "value": "colonnaded arcades, cast-iron balconies, and aged brick arches",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "exhibition_outcome",
+        "value": "won the National Heritage Prize and spurred municipal restoration",
+        "sentence": 6
+      }
+    ],
+    "text": [
+      "Armed with a restored mechanical 1950s Leica rangefinder camera, twenty-two-year-old Waleed walked slowly beneath the famous concrete colonnades of Al-Rasheed Street. While others captured hasty digital snapshots on smartphones, Waleed was devoted to the deliberate art of silver-gelatin film.",
+      "Al-Rasheed, once the glittering boulevard of Iraq's early twentieth-century intellectual renaissance, still whispered stories through its distressed facades and Italianate cast-iron balconies.",
+      "Waleed waited patiently for the golden hour, watching how shafts of late afternoon sunlight slanted between the grand neoclassical pillars, illuminating street barbers, cobblers, and elderly gentlemen arguing politics over backgammon.",
+      "Over four intensive months, he exposed thirty rolls of black-and-white film, developing each strip by hand in his makeshift bathroom darkroom with chemical baths.",
+      "The resulting prints were extraordinary: rich with luminous contrast, deep velvety blacks, and an undeniable tenderness that portrayed the dignity of working-class Baghdadis amidst historical decay.",
+      "When Waleed held his debut exhibition in an abandoned gallery near Bab al-Muadham, hundreds attended, including city planners and international architects. The photographs won the prestigious National Heritage Prize, sparking a landmark municipal initiative to preserve and restore the historic avenue."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What photographic tool did Waleed employ for his documentary project?",
+        "correct": "a vintage 1950s mechanical Leica camera loaded with black-and-white film",
+        "distractors": [
+          "a modern smartphone camera",
+          "a commercial digital video drone",
+          "an instant Polaroid camera"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "Which iconic architectural street in Baghdad was the primary subject?",
+        "correct": "Al-Rasheed Street",
+        "distractors": [
+          "Karrada Dakhil",
+          "Palestine Street",
+          "Al-Mansour 14th Ramadan"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "Where did Waleed develop his thirty rolls of film?",
+        "correct": "in his makeshift bathroom darkroom with chemical baths",
+        "distractors": [
+          "at an expensive commercial lab",
+          "in his university studio",
+          "at a shop in London"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What major civic outcome was sparked by the photography exhibition?",
+        "correct": "won the National Heritage Prize and spurred municipal restoration",
+        "distractors": [
+          "the street was turned into a highway",
+          "all old buildings were demolished",
+          "shops were closed permanently"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why did Waleed prefer analog film over digital smartphone photography?",
+        "correct": "he valued the deliberate craftsmanship, rich contrast, and timeless authenticity",
+        "distractors": [
+          "he could not afford a smartphone",
+          "film cameras are lighter to carry",
+          "batteries were unavailable"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "Near which historic gate was the debut exhibition held?",
+        "correct": "Bab al-Muadham",
+        "distractors": [
+          "Bab al-Sharqi",
+          "Bab al-Wastani",
+          "Bab al-Talism"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What lighting condition did Waleed wait for each afternoon?",
+        "correct": "golden hour shafts of slanted sunlight",
+        "distractors": [
+          "harsh midday glare",
+          "complete pitch darkness",
+          "neon flashing lights"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What truth does this artistic story reveal about visual storytelling?",
+        "correct": "passionate, thoughtful art has the power to awaken civic pride and protect endangered cultural memory",
+        "distractors": [
+          "how to buy antique cameras cheaply",
+          "the technical chemistry of developing film",
+          "why old streets have too much traffic"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 195
+  },
+  {
+    "id": "b1-bakers-sourdough-10",
+    "level": "B1",
+    "genre": "mystery",
+    "title": "The Baker's Century-Old Starter",
+    "titleAr": "خميرة الخباز المعمرة",
+    "emoji": "🥖",
+    "characters": [
+      {
+        "name": "Basil",
+        "role": "bakery apprentice"
+      },
+      {
+        "name": "Master Burhan",
+        "role": "master baker"
+      }
+    ],
+    "setting": "a traditional underground bakery near the Citadel of Kirkuk",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "bakery_heritage",
+        "value": "a continuous wood-fired clay tandoor oven operating since 1918",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "sacred_starter",
+        "value": "a living sourdough mother culture preserved across four generations",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "crisis_averted",
+        "value": "rescuing the clay crock during an electrical fire",
+        "sentence": 5
+      }
+    ],
+    "text": [
+      "Deep beneath the stone shadow of Kirkuk's ancient Citadel stood the subterranean bakery of the Burhan family, where glowing wood embers had fired vaulted clay ovens continuously since the end of the First World War.",
+      "Seventeen-year-old Basil woke at three every morning, hauling sacks of coarse stone-ground whole wheat down the narrow stairs into the flour-dusted workspace.",
+      "The true soul of the bakery was not its antique brick arches, but a heavy earthenware crock kept wrapped in burlap inside a temperature-controlled wooden pantry. Inside lived a fermented sourdough starter culture that Master Burhan's grandfather had first kneaded in 1918.",
+      "Every loaf of dark, crusty flatbread derived its tangy aroma, golden crust, and airy crumb structure from daily feedings of spring water and fresh flour mixed with this living heritage.",
+      "One stormy evening, faulty electrical wiring in the adjacent storage room sparked an aggressive fire. While others panicked and fled to the street, Basil remembered the fragile crock; he soaked an apron in water, wrapped his face, and retrieved the earthenware mother safely before smoke consumed the hall.",
+      "When the bakery was rebuilt with modern fire-suppression equipment, Master Burhan named Basil his junior partner. At the grand reopening, the aroma of sourdough was proof that ancestral spirit endures when protected with courage."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "How long had the living sourdough starter culture been kept alive?",
+        "correct": "a living sourdough mother culture preserved across four generations",
+        "distractors": [
+          "two years",
+          "three weeks",
+          "ten months"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "Near which historic citadel was the underground bakery situated?",
+        "correct": "Citadel of Kirkuk",
+        "distractors": [
+          "Citadel of Erbil",
+          "Citadel of Aleppo",
+          "Citadel of Cairo"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What dangerous emergency tested Basil's devotion to the bakery?",
+        "correct": "rescuing the clay crock during an electrical fire",
+        "distractors": [
+          "a river flood wave",
+          "an armed robbery",
+          "a roof collapse"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What unique flavor did the sourdough starter impart to the bread?",
+        "correct": "tangy aroma, golden crust, and airy crumb structure",
+        "distractors": [
+          "sweet chocolate taste",
+          "bitter burnt flavor",
+          "plain salty crust"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why was the sourdough starter considered the true soul of the business?",
+        "correct": "it was an irreplaceable living heritage passed down across four generations",
+        "distractors": [
+          "it was made of pure gold",
+          "it had secret medicine in it",
+          "it was blessed by the mayor"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "What reward did Master Burhan give Basil for his heroism?",
+        "correct": "named Basil his junior business partner",
+        "distractors": [
+          "gave him extra cash",
+          "fired him for taking risks",
+          "bought him a bicycle"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What vessel was used to store the sourdough mother culture?",
+        "correct": "heavy earthenware crock wrapped in burlap",
+        "distractors": [
+          "clear glass bottle",
+          "stainless steel bucket",
+          "plastic container"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What does the sourdough culture represent in this narrative?",
+        "correct": "the living continuity of tradition, sustained through daily labor and courageous guardianship",
+        "distractors": [
+          "the science of yeast fermentation",
+          "how to build brick ovens",
+          "fire safety in commercial kitchens"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 216
+  }
+]

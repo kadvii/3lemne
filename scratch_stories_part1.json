@@ -1,0 +1,1492 @@
+[
+  {
+    "id": "a1-lost-cat-baghdad-01",
+    "level": "A1",
+    "genre": "everyday",
+    "title": "The Lost Cat in Baghdad",
+    "titleAr": "القطة الضائعة في بغداد",
+    "emoji": "🐈",
+    "characters": [
+      {
+        "name": "Zainab",
+        "role": "girl"
+      },
+      {
+        "name": "Mimi",
+        "role": "cat"
+      },
+      {
+        "name": "Omar",
+        "role": "neighbor"
+      }
+    ],
+    "setting": "a quiet street near the river in Baghdad",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "cat_color",
+        "value": "white",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "time_lost",
+        "value": "afternoon",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "who_helped",
+        "value": "Omar",
+        "sentence": 5
+      },
+      {
+        "id": "f4",
+        "key": "found_where",
+        "value": "under a green bench",
+        "sentence": 7
+      },
+      {
+        "id": "f5",
+        "key": "drank_what",
+        "value": "warm milk",
+        "sentence": 9
+      }
+    ],
+    "text": [
+      "Zainab is a kind young girl living in Baghdad near the river. She has a lovely white cat named Mimi.",
+      "One sunny afternoon, Mimi walked outside into the street and did not return. Zainab was worried and looked everywhere in the garden.",
+      "She asked her friendly neighbor Omar for help. Together, they walked down the quiet street calling her name loudly.",
+      "Suddenly, Zainab saw Mimi hiding under a green bench near a big tree. The sweet cat ran to her arms happily.",
+      "They walked back home smiling under the warm sun. Zainab gave Mimi warm milk and felt peaceful joy."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What color is Mimi the cat?",
+        "correct": "white",
+        "distractors": [
+          "black",
+          "orange",
+          "brown"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "When did Mimi walk outside?",
+        "correct": "afternoon",
+        "distractors": [
+          "morning",
+          "midnight",
+          "sunrise"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "Who helped Zainab find her cat?",
+        "correct": "Omar",
+        "distractors": [
+          "her teacher",
+          "a police officer",
+          "the shopkeeper"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "Where was Mimi hiding?",
+        "correct": "under a green bench",
+        "distractors": [
+          "in a car",
+          "inside a box",
+          "on a high roof"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "What did Zainab give Mimi at home?",
+        "correct": "warm milk",
+        "distractors": [
+          "cold water",
+          "dry bread",
+          "fresh apple"
+        ],
+        "factId": "f5"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "Where does Zainab live?",
+        "correct": "Baghdad",
+        "distractors": [
+          "Basra",
+          "Erbil",
+          "Mosul"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "cause",
+        "q": "Why was Zainab worried?",
+        "correct": "Mimi did not return",
+        "distractors": [
+          "she lost her bag",
+          "it was raining",
+          "school was closed"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What is the main topic of the story?",
+        "correct": "finding a missing pet",
+        "distractors": [
+          "buying fresh fish",
+          "cooking dinner",
+          "fixing a bicycle"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 100
+  },
+  {
+    "id": "a1-morning-baker-02",
+    "level": "A1",
+    "genre": "family",
+    "title": "The Morning Baker",
+    "titleAr": "خباز الصباح",
+    "emoji": "🥖",
+    "characters": [
+      {
+        "name": "Hassan",
+        "role": "boy"
+      },
+      {
+        "name": "Abu Ali",
+        "role": "baker"
+      }
+    ],
+    "setting": "a traditional neighborhood bakery",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "wake_time",
+        "value": "six o'clock",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "bought_what",
+        "value": "hot samoon",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "baker_gift",
+        "value": "sweet sesame cookie",
+        "sentence": 5
+      },
+      {
+        "id": "f4",
+        "key": "eaten_with",
+        "value": "tea and cheese",
+        "sentence": 7
+      }
+    ],
+    "text": [
+      "Every Friday morning, Hassan wakes up at six o'clock to help his family. The air is cool and peaceful outside.",
+      "He walks down the brick lane to the traditional bakery. The baker Abu Ali greets him with a broad cheerful smile.",
+      "Hassan buys ten pieces of hot samoon fresh from the oven. The bread smells delicious and warms his hands.",
+      "Because Hassan is always polite, Abu Ali gives him a small sweet sesame cookie. Hassan thanks the kind baker warmly.",
+      "Hassan walks quickly back home to his waiting family. They eat breakfast together with sweet black tea and white cheese."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What time does Hassan wake up?",
+        "correct": "six o'clock",
+        "distractors": [
+          "eight o'clock",
+          "ten o'clock",
+          "seven o'clock"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What is the name of the baker?",
+        "correct": "Abu Ali",
+        "distractors": [
+          "Abu Ahmed",
+          "Uncle Tariq",
+          "Mr. Kareem"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "How many pieces of samoon did Hassan buy?",
+        "correct": "ten",
+        "distractors": [
+          "five",
+          "twenty",
+          "two"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What extra treat did the baker give Hassan?",
+        "correct": "sweet sesame cookie",
+        "distractors": [
+          "chocolate bar",
+          "cold milk",
+          "fresh orange"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "What did Hassan drink with breakfast?",
+        "correct": "sweet black tea",
+        "distractors": [
+          "cold juice",
+          "sour milk",
+          "hot coffee"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why did the baker give Hassan a treat?",
+        "correct": "Hassan was polite",
+        "distractors": [
+          "he arrived late",
+          "he had no money",
+          "the bread was burnt"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "On which day does Hassan go to the bakery?",
+        "correct": "Friday",
+        "distractors": [
+          "Monday",
+          "Tuesday",
+          "Wednesday"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What is this story about?",
+        "correct": "a morning trip to buy fresh bread",
+        "distractors": [
+          "playing a football game",
+          "buying a new school bag",
+          "cleaning the house"
+        ],
+        "factId": "f2"
+      }
+    ],
+    "_wordCount": 100
+  },
+  {
+    "id": "a1-green-bicycle-03",
+    "level": "A1",
+    "genre": "adventure",
+    "title": "The Green Bicycle",
+    "titleAr": "الدراجة الخضراء",
+    "emoji": "🚲",
+    "characters": [
+      {
+        "name": "Tariq",
+        "role": "boy"
+      },
+      {
+        "name": "Ahmed",
+        "role": "brother"
+      }
+    ],
+    "setting": "a city park with paved lanes",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "bike_color",
+        "value": "green",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "gift_from",
+        "value": "father",
+        "sentence": 2
+      },
+      {
+        "id": "f3",
+        "key": "who_taught",
+        "value": "Ahmed",
+        "sentence": 4
+      },
+      {
+        "id": "f4",
+        "key": "rode_where",
+        "value": "around the fountain",
+        "sentence": 6
+      }
+    ],
+    "text": [
+      "Tariq received a bright green bicycle for his birthday. His father brought it home in a large brown box.",
+      "Tariq was very happy, but he did not know how to ride yet. His older brother Ahmed promised to teach him safely.",
+      "They took the shiny bicycle to the city park in the afternoon. Ahmed held the seat firmly while Tariq placed his feet on the pedals.",
+      "Tariq pedaled forward slowly and took a deep breath. Soon, Ahmed let go of the bicycle gently.",
+      "Tariq rode all by himself around the marble fountain without falling. Both brothers cheered with loud joy."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What color is Tariq's bicycle?",
+        "correct": "green",
+        "distractors": [
+          "red",
+          "blue",
+          "yellow"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "Who gave Tariq the bicycle?",
+        "correct": "his father",
+        "distractors": [
+          "his uncle",
+          "his friend",
+          "his neighbor"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "Who taught Tariq how to ride?",
+        "correct": "Ahmed",
+        "distractors": [
+          "his cousin",
+          "his teacher",
+          "his grandfather"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "Where did the brothers practice riding?",
+        "correct": "city park",
+        "distractors": [
+          "school field",
+          "empty market",
+          "narrow roof"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "What did Tariq ride around without falling?",
+        "correct": "marble fountain",
+        "distractors": [
+          "wooden bench",
+          "big car",
+          "small shop"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why did the brothers cheer?",
+        "correct": "Tariq rode alone successfully",
+        "distractors": [
+          "they found lost money",
+          "they ate ice cream",
+          "they won a match"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Why was Tariq given the bicycle?",
+        "correct": "for his birthday",
+        "distractors": [
+          "for winning a prize",
+          "for clean homework",
+          "for saving a cat"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What is the lesson of the story?",
+        "correct": "learning a new skill with family support",
+        "distractors": [
+          "repairing broken toys",
+          "how to buy a helmet",
+          "painting an old bike"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 100
+  },
+  {
+    "id": "a1-rainy-friday-04",
+    "level": "A1",
+    "genre": "family",
+    "title": "A Rainy Friday",
+    "titleAr": "جمعة ماطرة",
+    "emoji": "🌧️",
+    "characters": [
+      {
+        "name": "Maryam",
+        "role": "girl"
+      },
+      {
+        "name": "Grandmother",
+        "role": "grandmother"
+      }
+    ],
+    "setting": "a warm living room during a winter rainstorm",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "weather",
+        "value": "heavy rain",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "cooked_what",
+        "value": "yellow lentil soup",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "activity",
+        "value": "telling folk stories",
+        "sentence": 5
+      },
+      {
+        "id": "f4",
+        "key": "drank_what",
+        "value": "hot cinnamon tea",
+        "sentence": 6
+      }
+    ],
+    "text": [
+      "Heavy rain fell over the rooftops all Friday afternoon. Maryam watched the silver drops hit the clear window glass.",
+      "She could not go outside to play with her friends. But inside the house, the living room was cozy and warm.",
+      "Her grandmother cooked a large pot of delicious yellow lentil soup. The rich steam filled the entire kitchen with warmth.",
+      "Maryam and her grandmother sat together near the warm heater. Her grandmother told fascinating old stories about ancient rivers and villages.",
+      "They drank hot cinnamon tea from small glasses and laughed together. Maryam loved rainy days at home."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What was the weather like on Friday?",
+        "correct": "heavy rain",
+        "distractors": [
+          "hot and sunny",
+          "dusty wind",
+          "heavy snow"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What kind of soup did the grandmother cook?",
+        "correct": "yellow lentil soup",
+        "distractors": [
+          "chicken noodle",
+          "tomato soup",
+          "onion soup"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What did the grandmother share with Maryam?",
+        "correct": "fascinating old stories",
+        "distractors": [
+          "secret math puzzles",
+          "magic cards",
+          "cooking books"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What warm drink did they enjoy together?",
+        "correct": "hot cinnamon tea",
+        "distractors": [
+          "cold soda",
+          "iced water",
+          "plain milk"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why could Maryam not play outside?",
+        "correct": "because of heavy rain",
+        "distractors": [
+          "she was sick",
+          "her bike was broken",
+          "she had to study"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "Where did Maryam sit with her grandmother?",
+        "correct": "near the warm heater",
+        "distractors": [
+          "on the roof",
+          "in the dark garden",
+          "at the front door"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Who cooked the warm soup?",
+        "correct": "grandmother",
+        "distractors": [
+          "sister",
+          "neighbor",
+          "aunt"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What is the feeling in this story?",
+        "correct": "family warmth on a cold day",
+        "distractors": [
+          "fear of bad weather",
+          "getting lost in town",
+          "cleaning a big room"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 98
+  },
+  {
+    "id": "a1-school-garden-05",
+    "level": "A1",
+    "genre": "school",
+    "title": "The School Garden",
+    "titleAr": "حديقة المدرسة",
+    "emoji": "🌱",
+    "characters": [
+      {
+        "name": "Youssef",
+        "role": "student"
+      },
+      {
+        "name": "Mr. Zaid",
+        "role": "science teacher"
+      }
+    ],
+    "setting": "a primary school courtyard in spring",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "planted_what",
+        "value": "tomato seeds",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "tool_used",
+        "value": "small green shovel",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "days_to_sprout",
+        "value": "seven days",
+        "sentence": 6
+      },
+      {
+        "id": "f4",
+        "key": "sprout_color",
+        "value": "tiny green leaves",
+        "sentence": 7
+      }
+    ],
+    "text": [
+      "In spring, the science class started an exciting project in the school garden. Teacher Mr. Zaid brought three paper bags of seeds.",
+      "Youssef chose to plant red tomato seeds in a long wooden box. He dug deep moist soil using a small green shovel.",
+      "He placed each tiny seed carefully and covered it with soft brown earth. Then he watered the soil with gentle care.",
+      "Every morning before classes began, Youssef checked on his wooden box under the bright sun.",
+      "After seven days of waiting patiently, two tiny green leaves pushed through the dark soil. Youssef called Mr. Zaid with pure excitement."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What type of seeds did Youssef plant?",
+        "correct": "tomato seeds",
+        "distractors": [
+          "apple seeds",
+          "sunflower seeds",
+          "orange seeds"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What tool did Youssef use to dig the soil?",
+        "correct": "small green shovel",
+        "distractors": [
+          "big wooden stick",
+          "iron hammer",
+          "plastic spoon"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "How many days did Youssef wait for leaves to sprout?",
+        "correct": "seven days",
+        "distractors": [
+          "twenty days",
+          "two days",
+          "thirty days"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What is the name of the science teacher?",
+        "correct": "Mr. Zaid",
+        "distractors": [
+          "Mr. Hassan",
+          "Mr. Omar",
+          "Mr. Tariq"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "In which season did the project start?",
+        "correct": "spring",
+        "distractors": [
+          "winter",
+          "autumn",
+          "summer"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why was Youssef excited at the end?",
+        "correct": "the tiny leaves sprouted",
+        "distractors": [
+          "school was over",
+          "he won a race",
+          "he ate lunch"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Where did Youssef plant the seeds?",
+        "correct": "in a wooden box",
+        "distractors": [
+          "in a metal can",
+          "on the classroom desk",
+          "inside a plastic bag"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What does this story show?",
+        "correct": "the joy of growing plants patiently",
+        "distractors": [
+          "buying vegetables at market",
+          "how to paint wood",
+          "cleaning school rooms"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 102
+  },
+  {
+    "id": "a1-little-fisherman-06",
+    "level": "A1",
+    "genre": "travel",
+    "title": "The Little Fisherman",
+    "titleAr": "الصياد الصغير",
+    "emoji": "🐟",
+    "characters": [
+      {
+        "name": "Bilal",
+        "role": "boy"
+      },
+      {
+        "name": "Father",
+        "role": "father"
+      }
+    ],
+    "setting": "the peaceful bank of the Tigris River",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "went_when",
+        "value": "early morning",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "caught_what",
+        "value": "silver fish",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "action_taken",
+        "value": "released it back into the water",
+        "sentence": 6
+      }
+    ],
+    "text": [
+      "Early on Saturday morning, Bilal and his father walked to the Tigris River. The river water was calm and blue.",
+      "His father showed Bilal how to hold the wooden fishing rod steady. They sat on two folding chairs under a willow tree.",
+      "They waited in peaceful silence while white birds flew over the sparkling water. Suddenly, Bilal felt a strong tug on his line.",
+      "He reeled slowly and pulled out a shining silver fish. The fish was small and lively in his gentle hands.",
+      "Bilal looked at the little creature softly. 'Let us return it to the river,' he said with a warm smile. They released it gently into the cool stream."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "Which river did Bilal and his father visit?",
+        "correct": "Tigris River",
+        "distractors": [
+          "Euphrates River",
+          "Nile River",
+          "Diyala River"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What kind of fish did Bilal catch?",
+        "correct": "silver fish",
+        "distractors": [
+          "huge catfish",
+          "goldfish",
+          "red crab"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What did Bilal decide to do with the fish?",
+        "correct": "released it back into the water",
+        "distractors": [
+          "cooked it for lunch",
+          "put it in a bowl",
+          "sold it to a shop"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "Where did Bilal and his father sit?",
+        "correct": "under a willow tree",
+        "distractors": [
+          "on a big boat",
+          "inside a tent",
+          "on a stone bridge"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "On which day did they go fishing?",
+        "correct": "Saturday",
+        "distractors": [
+          "Tuesday",
+          "Thursday",
+          "Sunday"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why did Bilal feel a tug?",
+        "correct": "a fish took the bait",
+        "distractors": [
+          "the wind blew hard",
+          "the rod broke",
+          "his father pulled"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What flew over the sparkling water?",
+        "correct": "white birds",
+        "distractors": [
+          "paper kites",
+          "black bats",
+          "small airplanes"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What quality does Bilal show in the story?",
+        "correct": "kindness towards living animals",
+        "distractors": [
+          "how to swim fast",
+          "fear of deep rivers",
+          "selling river fish"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 112
+  },
+  {
+    "id": "a1-red-kite-07",
+    "level": "A1",
+    "genre": "adventure",
+    "title": "The Red Kite",
+    "titleAr": "الطائرة الورقية الحمراء",
+    "emoji": "🪁",
+    "characters": [
+      {
+        "name": "Samer",
+        "role": "boy"
+      },
+      {
+        "name": "Huda",
+        "role": "sister"
+      }
+    ],
+    "setting": "a windy public park on a hill",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "kite_color",
+        "value": "red and yellow",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "stuck_where",
+        "value": "in tree branches",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "rescued_how",
+        "value": "long wooden pole",
+        "sentence": 6
+      }
+    ],
+    "text": [
+      "Samer and his little sister Huda built a bright red and yellow kite. They used light paper, sticks, and long string.",
+      "On Saturday, a cool breeze blew across the grassy park on the hill. Samer ran fast across the grass while Huda held the tail.",
+      "The wind caught the diamond kite and lifted it high into the blue sky. It danced above the tall trees like a flying bird.",
+      "Suddenly, a strong gust blew the kite sideways into the top branches of an olive tree. Huda gasped in fear.",
+      "Their uncle arrived with a long wooden pole and gently freed the kite without tearing the paper. Both children cheered in relief."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What colors was the kite?",
+        "correct": "red and yellow",
+        "distractors": [
+          "blue and green",
+          "black and white",
+          "purple and pink"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "Where did the kite get stuck?",
+        "correct": "in tree branches",
+        "distractors": [
+          "on a streetlight",
+          "in river water",
+          "on a car roof"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What did the uncle use to rescue the kite?",
+        "correct": "long wooden pole",
+        "distractors": [
+          "tall metal ladder",
+          "stone",
+          "water hose"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "Who is Huda?",
+        "correct": "Samer's little sister",
+        "distractors": [
+          "his teacher",
+          "his neighbor",
+          "his mother"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "What kind of tree did the kite land on?",
+        "correct": "olive tree",
+        "distractors": [
+          "palm tree",
+          "pine tree",
+          "apple tree"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why did the kite fly high?",
+        "correct": "the cool breeze lifted it",
+        "distractors": [
+          "it had an engine",
+          "they threw it hard",
+          "a bird carried it"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Where were the children flying the kite?",
+        "correct": "grassy park on the hill",
+        "distractors": [
+          "inside their house",
+          "on school roof",
+          "in a narrow shop"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What is this story about?",
+        "correct": "flying and saving a kite together",
+        "distractors": [
+          "buying a new toy",
+          "planting olive trees",
+          "learning how to run"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 111
+  },
+  {
+    "id": "a1-quiet-library-08",
+    "level": "A1",
+    "genre": "school",
+    "title": "The Quiet Library",
+    "titleAr": "المكتبة الهادئة",
+    "emoji": "📚",
+    "characters": [
+      {
+        "name": "Reem",
+        "role": "girl"
+      },
+      {
+        "name": "Salma",
+        "role": "librarian"
+      }
+    ],
+    "setting": "the neighborhood children's library",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "visited_with",
+        "value": "her mother",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "book_subject",
+        "value": "dolphins in the ocean",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "got_what",
+        "value": "blue library card",
+        "sentence": 5
+      }
+    ],
+    "text": [
+      "Reem walked into the neighborhood library with her mother on Tuesday afternoon. The big room was delightfully cool and quiet.",
+      "Rows of colorful books stood neatly on wooden shelves from floor to ceiling. The kind librarian Salma showed Reem the young readers corner.",
+      "Reem searched through the nature section and picked a book about dolphins in the ocean. The photographs were bright and captivating.",
+      "She sat on a soft purple cushion and read three exciting chapters. She loved how dolphins jump through blue ocean waves.",
+      "Before leaving, Salma made Reem her very first blue library card. Reem held it like a shining treasure and promised to return soon."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What animal was Reem's book about?",
+        "correct": "dolphins in the ocean",
+        "distractors": [
+          "desert camels",
+          "forest wolves",
+          "mountain eagles"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What is the name of the librarian?",
+        "correct": "Salma",
+        "distractors": [
+          "Zainab",
+          "Fatima",
+          "Noor"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What did Salma give Reem before leaving?",
+        "correct": "blue library card",
+        "distractors": [
+          "pencil box",
+          "small candy",
+          "colored bookmark"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "On what color cushion did Reem sit?",
+        "correct": "purple cushion",
+        "distractors": [
+          "red chair",
+          "wooden stool",
+          "green carpet"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "Who came to the library with Reem?",
+        "correct": "her mother",
+        "distractors": [
+          "her brother",
+          "her aunt",
+          "her classmate"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why was the library a pleasant place?",
+        "correct": "it was cool and quiet",
+        "distractors": [
+          "it had loud games",
+          "it served ice cream",
+          "it had cartoon movies"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "How many chapters did Reem read?",
+        "correct": "three",
+        "distractors": [
+          "ten",
+          "one",
+          "zero"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What is the heart of this story?",
+        "correct": "discovering the joy of reading books",
+        "distractors": [
+          "drawing ocean pictures",
+          "buying furniture",
+          "making paper cards"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 108
+  },
+  {
+    "id": "a1-sweet-dates-09",
+    "level": "A1",
+    "genre": "everyday",
+    "title": "A Box of Sweet Dates",
+    "titleAr": "صندوق التمر الحلو",
+    "emoji": "🌴",
+    "characters": [
+      {
+        "name": "Mustafa",
+        "role": "boy"
+      },
+      {
+        "name": "Uncle Raheem",
+        "role": "farmer uncle"
+      }
+    ],
+    "setting": "a family home in Baghdad during autumn harvest",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "brought_from",
+        "value": "Basra palm farm",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "shared_with",
+        "value": "three neighbors",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "tasted_like",
+        "value": "sweet honey",
+        "sentence": 6
+      }
+    ],
+    "text": [
+      "Uncle Raheem arrived from his palm farm in Basra with a heavy wooden crate. Inside were fresh golden dates picked that week.",
+      "Mustafa helped his uncle carry the crate into the cool family kitchen. His mother praised the quality of the harvest warmly.",
+      "They opened the box, revealing rows of glossy Zahdi dates shining in the light. Mustafa tasted one and found it as sweet as honey.",
+      "His mother filled four ceramic bowls and asked Mustafa to share them with three neighbors on their street.",
+      "Mustafa walked joyfully to each house delivering the fresh fruit. Every neighbor blessed their home with gratitude and broad smiles."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "Where did Uncle Raheem bring the dates from?",
+        "correct": "Basra palm farm",
+        "distractors": [
+          "Mosul garden",
+          "Baghdad market",
+          "Kirkuk shop"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What did the dates taste like?",
+        "correct": "sweet honey",
+        "distractors": [
+          "sour lemons",
+          "salty bread",
+          "bitter coffee"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "To whom did Mustafa deliver bowls of dates?",
+        "correct": "three neighbors",
+        "distractors": [
+          "school teachers",
+          "taxi drivers",
+          "park workers"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What type of dates were in the box?",
+        "correct": "Zahdi dates",
+        "distractors": [
+          "dry raisins",
+          "sour grapes",
+          "green olives"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "What material was the crate made of?",
+        "correct": "wooden crate",
+        "distractors": [
+          "plastic bag",
+          "iron box",
+          "glass bowl"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why did the neighbors smile and give blessings?",
+        "correct": "they received delicious fresh dates",
+        "distractors": [
+          "Mustafa fixed their door",
+          "they won a prize",
+          "the rain stopped"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Who helped carry the crate into the kitchen?",
+        "correct": "Mustafa",
+        "distractors": [
+          "his sister",
+          "the neighbor",
+          "the driver"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What traditional value is celebrated in this story?",
+        "correct": "sharing generous gifts with neighbors",
+        "distractors": [
+          "how to plant trees",
+          "travelling by bus",
+          "cooking heavy soup"
+        ],
+        "factId": "f2"
+      }
+    ],
+    "_wordCount": 105
+  },
+  {
+    "id": "a1-blue-bird-10",
+    "level": "A1",
+    "genre": "funny",
+    "title": "The Blue Bird's Song",
+    "titleAr": "أغنية الطائر الأزرق",
+    "emoji": "🐦",
+    "characters": [
+      {
+        "name": "Layla",
+        "role": "girl"
+      },
+      {
+        "name": "Grandmother",
+        "role": "grandmother"
+      }
+    ],
+    "setting": "a sunny balcony with flower pots",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "bird_color",
+        "value": "blue and grey",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "put_where",
+        "value": "wooden bird feeder",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "sang_when",
+        "value": "every morning at sunrise",
+        "sentence": 5
+      }
+    ],
+    "text": [
+      "A small blue and grey bird visited Layla's balcony every morning. It hopped between the red flower pots looking for crumbs.",
+      "Layla loved watching its tiny feathers and bright curious eyes. She asked her grandmother how to make the bird feel welcome.",
+      "Her grandmother built a small wooden feeder and filled it with sunflower seeds and dried breadcrumbs.",
+      "Layla placed the feeder gently beside the largest jasmine pot. Soon, the friendly bird flew down and ate happily.",
+      "Every morning at sunrise, the bird sang a cheerful melodious tune on the railing. Layla woke up with a grateful smile."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What color was the visiting bird?",
+        "correct": "blue and grey",
+        "distractors": [
+          "red and black",
+          "yellow and green",
+          "white and purple"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What food was placed in the bird feeder?",
+        "correct": "sunflower seeds and breadcrumbs",
+        "distractors": [
+          "fresh meat",
+          "warm rice",
+          "chopped onions"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "When did the bird sing its cheerful song?",
+        "correct": "every morning at sunrise",
+        "distractors": [
+          "at dark midnight",
+          "during lunch time",
+          "only when it rained"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "Where did the bird visit Layla?",
+        "correct": "on the sunny balcony",
+        "distractors": [
+          "inside the kitchen",
+          "in the school bus",
+          "in the dark basement"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "Who helped Layla build the feeder?",
+        "correct": "her grandmother",
+        "distractors": [
+          "her brother",
+          "her neighbor",
+          "her father"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why did the bird return to the balcony?",
+        "correct": "it found food and friendly care",
+        "distractors": [
+          "it was lost",
+          "the weather was cold",
+          "it was afraid of cats"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Next to what plant was the feeder placed?",
+        "correct": "jasmine pot",
+        "distractors": [
+          "cactus",
+          "rose bush",
+          "orange tree"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What is the gentle theme of this story?",
+        "correct": "caring for nature brings daily happiness",
+        "distractors": [
+          "buying expensive birds",
+          "how to build a house",
+          "cleaning balcony floors"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 98
+  }
+]

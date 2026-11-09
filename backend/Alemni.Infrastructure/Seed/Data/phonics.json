@@ -1,0 +1,2630 @@
+[
+  {
+    "kind": "Letter",
+    "category": "consonants",
+    "symbol": "P vs B",
+    "ipaOrSpelling": "/p/ vs /b/",
+    "arabicApprox": "حرف P هو ب انفجارية مهموسة بدون اهتزاز الحبال الصوتية (هواء قوي يخرج فجأة) مقابل B المجهورة ذات الاهتزاز.",
+    "mouthTipAr": "أغلق الشفتين تمامًا ثم اطردهما بهواء مفاجئ مع حبس الصوت بالحبال الصوتية. ضع منديلًا ورقيًا أمام شفتيك: يجب أن يهتز مع P ولا يتحرك مع B.",
+    "mouthDiagramType": "bilabial_p_b",
+    "exampleWords": [
+      "pen",
+      "pan",
+      "park",
+      "pig",
+      "pin",
+      "pot",
+      "pat",
+      "pie",
+      "pack",
+      "pill",
+      "peach",
+      "post"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "pin",
+        "word2": "bin",
+        "meaningAr1": "دبوس",
+        "meaningAr2": "سلة مهملات"
+      },
+      {
+        "word1": "pat",
+        "word2": "bat",
+        "meaningAr1": "ربتَ برفق",
+        "meaningAr2": "مضرب أو خفاش"
+      },
+      {
+        "word1": "pie",
+        "word2": "bye",
+        "meaningAr1": "فطيرة",
+        "meaningAr2": "مع السلامة"
+      },
+      {
+        "word1": "park",
+        "word2": "bark",
+        "meaningAr1": "حديقة",
+        "meaningAr2": "نباح"
+      },
+      {
+        "word1": "peach",
+        "word2": "beach",
+        "meaningAr1": "خوخ",
+        "meaningAr2": "شاطئ"
+      },
+      {
+        "word1": "pet",
+        "word2": "bet",
+        "meaningAr1": "حيوان أليف",
+        "meaningAr2": "رهان"
+      }
+    ],
+    "tongueTwister": "Peter Piper picked a peck of pickled peppers.",
+    "tongueTwisterAr": "بيتر بايبر التقط مكيالاً من الفلفل المخلل.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "consonants",
+    "symbol": "V vs F",
+    "ipaOrSpelling": "/v/ vs /f/",
+    "arabicApprox": "حرف V يُنطق تمامًا كالفاء الإنجليزية F لكنه مجهور (مع اهتزاز حقيقي في الحبال الصوتية يشبه طنين النحلة).",
+    "mouthTipAr": "ضع حافة الأسنان الأمامية العلوية بلطف على الشفة السفلية من الداخل، واضغط الهواء للخارج. للمس V: تحسس حنجرتك بيدك لتشعر بالاهتزاز.",
+    "mouthDiagramType": "labiodental_f_v",
+    "exampleWords": [
+      "van",
+      "voice",
+      "very",
+      "vase",
+      "view",
+      "vote",
+      "vine",
+      "vest",
+      "visit",
+      "valley",
+      "veil",
+      "vital"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "van",
+        "word2": "fan",
+        "meaningAr1": "شاحنة صغيرة",
+        "meaningAr2": "مروحة أو معجب"
+      },
+      {
+        "word1": "vine",
+        "word2": "fine",
+        "meaningAr1": "شجرة عنب",
+        "meaningAr2": "بخير أو ممتاز"
+      },
+      {
+        "word1": "view",
+        "word2": "few",
+        "meaningAr1": "منظر أو رؤية",
+        "meaningAr2": "قليل"
+      },
+      {
+        "word1": "vest",
+        "word2": "fest",
+        "meaningAr1": "سترة دون أكمام",
+        "meaningAr2": "مهرجان"
+      },
+      {
+        "word1": "vault",
+        "word2": "fault",
+        "meaningAr1": "قبو حصين",
+        "meaningAr2": "خطأ"
+      },
+      {
+        "word1": "vast",
+        "word2": "fast",
+        "meaningAr1": "شاسع وواسع",
+        "meaningAr2": "سريع"
+      }
+    ],
+    "tongueTwister": "Five frantic frogs fled from fifty fierce foxes.",
+    "tongueTwisterAr": "خمسة ضفادع مذعورة هربت من خمسين ثعلباً شرساً.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "consonants",
+    "symbol": "TH Voiced (/ð/)",
+    "ipaOrSpelling": "/ð/",
+    "arabicApprox": "مثل حرف (الذال) الفصيح تمامًا مع صوت واهتزاز في الحلق.",
+    "mouthTipAr": "أخرج طرف لسانك قليلًا جدًا بين أسنانك العلوية والسفلية، ودع الهواء يمر مع تشغيل الحبال الصوتية. لا تبدله بـ D أو Z.",
+    "mouthDiagramType": "interdental_th",
+    "exampleWords": [
+      "this",
+      "that",
+      "they",
+      "them",
+      "then",
+      "there",
+      "mother",
+      "father",
+      "brother",
+      "weather",
+      "feather",
+      "breathe"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "then",
+        "word2": "den",
+        "meaningAr1": "حينئذ / ثم",
+        "meaningAr2": "عرين"
+      },
+      {
+        "word1": "they",
+        "word2": "day",
+        "meaningAr1": "هم",
+        "meaningAr2": "يوم"
+      },
+      {
+        "word1": "there",
+        "word2": "dare",
+        "meaningAr1": "هناك",
+        "meaningAr2": "يجرؤ"
+      },
+      {
+        "word1": "breathe",
+        "word2": "breed",
+        "meaningAr1": "يتنفس",
+        "meaningAr2": "سلالة أو يربي"
+      },
+      {
+        "word1": "clothe",
+        "word2": "close",
+        "meaningAr1": "يكسو",
+        "meaningAr2": "يغلق"
+      },
+      {
+        "word1": "thy",
+        "word2": "die",
+        "meaningAr1": "لك (قديم)",
+        "meaningAr2": "يموت"
+      }
+    ],
+    "tongueTwister": "My mother and my brother gathered feather weather together.",
+    "tongueTwisterAr": "جمعت أمي وأخي ريش الطقس معاً.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "consonants",
+    "symbol": "TH Unvoiced (/θ/)",
+    "ipaOrSpelling": "/θ/",
+    "arabicApprox": "مثل حرف (الثاء) الفصيح تمامًا بدون أي اهتزاز في الحنجرة (هواء خالص).",
+    "mouthTipAr": "ضع طرف اللسان بين الأسنان العلوية والسفلية واطرد هواءً صافيًا بدون صوت حبال صوتية. تجنب تحويله إلى S أو T.",
+    "mouthDiagramType": "interdental_th",
+    "exampleWords": [
+      "think",
+      "three",
+      "thanks",
+      "mouth",
+      "path",
+      "tooth",
+      "bath",
+      "theme",
+      "thing",
+      "north",
+      "south",
+      "earth"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "think",
+        "word2": "sink",
+        "meaningAr1": "يفكر",
+        "meaningAr2": "يغرق أو مغسلة"
+      },
+      {
+        "word1": "thing",
+        "word2": "sing",
+        "meaningAr1": "شيء",
+        "meaningAr2": "يغني"
+      },
+      {
+        "word1": "thick",
+        "word2": "sick",
+        "meaningAr1": "سميك",
+        "meaningAr2": "مريض"
+      },
+      {
+        "word1": "thumb",
+        "word2": "some",
+        "meaningAr1": "إبهام",
+        "meaningAr2": "بعض"
+      },
+      {
+        "word1": "bath",
+        "word2": "bass",
+        "meaningAr1": "حمام",
+        "meaningAr2": "صوت جهير"
+      },
+      {
+        "word1": "theme",
+        "word2": "team",
+        "meaningAr1": "فكرة أو نسق",
+        "meaningAr2": "فريق"
+      }
+    ],
+    "tongueTwister": "Thirty-three thankful thieves thought through things.",
+    "tongueTwisterAr": "ثلاثة وثلاثون لصاً شاكراً فكروا في الأمور بعمق.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "consonants",
+    "symbol": "Velar Nasal (/ŋ/)",
+    "ipaOrSpelling": "/ŋ/",
+    "arabicApprox": "صوت النون الغنّة الأنفية من أقصى الحلق قبل الكاف أو القاف، مثل نهاية sing دون نطق حرف G صريح.",
+    "mouthTipAr": "ارفع أقصى اللسان ليلمس الحنك الرخو من الخلف، واجعل مجرى الهواء يخرج كاملًا عبر الأنف كغنة موسيقية. لا تنطق حرف G أبدًا.",
+    "mouthDiagramType": "velar_ng",
+    "exampleWords": [
+      "sing",
+      "ring",
+      "long",
+      "song",
+      "king",
+      "wing",
+      "bring",
+      "hang",
+      "spring",
+      "morning",
+      "running",
+      "strong"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "sing",
+        "word2": "sin",
+        "meaningAr1": "يغني",
+        "meaningAr2": "خطيئة أو ذنب"
+      },
+      {
+        "word1": "ring",
+        "word2": "rin",
+        "meaningAr1": "خاتم أو يرن",
+        "meaningAr2": "شطف"
+      },
+      {
+        "word1": "wing",
+        "word2": "win",
+        "meaningAr1": "جناح",
+        "meaningAr2": "يفوز"
+      },
+      {
+        "word1": "bang",
+        "word2": "ban",
+        "meaningAr1": "ضربة قوية",
+        "meaningAr2": "حظر"
+      },
+      {
+        "word1": "thing",
+        "word2": "thin",
+        "meaningAr1": "شيء",
+        "meaningAr2": "نحيف"
+      },
+      {
+        "word1": "king",
+        "word2": "kin",
+        "meaningAr1": "ملك",
+        "meaningAr2": "أقارب وأهل"
+      }
+    ],
+    "tongueTwister": "The young king sang a long spring song in the morning ring.",
+    "tongueTwisterAr": "غنى الملك الشاب أغنية ربيعية طويلة في حلبة الصباح.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "consonants",
+    "symbol": "Voiced Postalveolar (/ʒ/)",
+    "ipaOrSpelling": "/ʒ/",
+    "arabicApprox": "مثل الجيم الشامية المعطشة اللطيفة (مثل حرف J بالفرنسية: journal)، لا يوجد له حرف صريح بالعربية الفصحى.",
+    "mouthTipAr": "قرّب لسانك من سقف الفم خلف الأسنان تمامًا كما في نطق (ش)، لكن أخرج صوتًا جهريًا واهتزازًا رنانًا بالحبال الصوتية.",
+    "mouthDiagramType": "palato_alveolar_sh_ch",
+    "exampleWords": [
+      "vision",
+      "measure",
+      "pleasure",
+      "treasure",
+      "leisure",
+      "decision",
+      "version",
+      "asia",
+      "casual",
+      "usual",
+      "mirage",
+      "beige"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "vision",
+        "word2": "fission",
+        "meaningAr1": "رؤية",
+        "meaningAr2": "انشطار"
+      },
+      {
+        "word1": "measure",
+        "word2": "mesher",
+        "meaningAr1": "يقيس",
+        "meaningAr2": "شابك"
+      },
+      {
+        "word1": "pleasure",
+        "word2": "pledger",
+        "meaningAr1": "متعة",
+        "meaningAr2": "واعد بالعهد"
+      },
+      {
+        "word1": "beige",
+        "word2": "bay",
+        "meaningAr1": "لون بيج",
+        "meaningAr2": "خليج"
+      },
+      {
+        "word1": "allusion",
+        "word2": "illusion",
+        "meaningAr1": "تلميح",
+        "meaningAr2": "وهم"
+      }
+    ],
+    "tongueTwister": "It is a pleasure to measure casual treasure with precision.",
+    "tongueTwisterAr": "من دواعي السرور قياس الكنز غير الرسمي بدقة.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "consonants",
+    "symbol": "CH (/tʃ/) vs SH (/ʃ/)",
+    "ipaOrSpelling": "/tʃ/ vs /ʃ/",
+    "arabicApprox": "صوت (تش) الانفجاري المركب في CH مقابل صوت (الشين) الانسيابي المستمر في SH.",
+    "mouthTipAr": "في CH ابدأ بلمس طرف اللسان لمنبت الأسنان (كأنك تنطق T) ثم افصل اللسان فجأة لتخرج انفجار (ش). في SH الهواء يستمر دون حبس.",
+    "mouthDiagramType": "palato_alveolar_sh_ch",
+    "exampleWords": [
+      "chair",
+      "share",
+      "chip",
+      "ship",
+      "chop",
+      "shop",
+      "choose",
+      "shoes",
+      "cheat",
+      "sheet",
+      "catch",
+      "cash"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "chair",
+        "word2": "share",
+        "meaningAr1": "كرسي",
+        "meaningAr2": "يشارك أو حصة"
+      },
+      {
+        "word1": "chip",
+        "word2": "ship",
+        "meaningAr1": "شريحة",
+        "meaningAr2": "سفينة"
+      },
+      {
+        "word1": "chop",
+        "word2": "shop",
+        "meaningAr1": "يقطع",
+        "meaningAr2": "متجر"
+      },
+      {
+        "word1": "choose",
+        "word2": "shoes",
+        "meaningAr1": "يختار",
+        "meaningAr2": "أحذية"
+      },
+      {
+        "word1": "cheat",
+        "word2": "sheet",
+        "meaningAr1": "يغش",
+        "meaningAr2": "ملاءة أو ورقة"
+      },
+      {
+        "word1": "catch",
+        "word2": "cash",
+        "meaningAr1": "يمسك",
+        "meaningAr2": "نقد كاش"
+      }
+    ],
+    "tongueTwister": "Charlie chose cheap chips and cheerful cherry cheer.",
+    "tongueTwisterAr": "اختار تشارلي رقائق رخيصة وفرحة كرز مبهجة.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "consonants",
+    "symbol": "J (/dʒ/) vs CH (/tʃ/)",
+    "ipaOrSpelling": "/dʒ/ vs /tʃ/",
+    "arabicApprox": "صوت الجيم المشددة الإنجليزية المجهورة (judge) مقابل (تش) المهموسة (church).",
+    "mouthTipAr": "كلاهما يبدأ بحبس الهواء، لكن مع /dʒ/ تهتز الحبال الصوتية بقوة، بينما /tʃ/ هو هواء مهموس بارد بدون صوت أوتار.",
+    "mouthDiagramType": "palato_alveolar_sh_ch",
+    "exampleWords": [
+      "judge",
+      "church",
+      "joke",
+      "choke",
+      "jam",
+      "chain",
+      "jeep",
+      "cheap",
+      "gin",
+      "chin",
+      "badge",
+      "batch"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "joke",
+        "word2": "choke",
+        "meaningAr1": "نكتة",
+        "meaningAr2": "يختنق"
+      },
+      {
+        "word1": "jeep",
+        "word2": "cheap",
+        "meaningAr1": "سيارة جيب",
+        "meaningAr2": "رخيص"
+      },
+      {
+        "word1": "gin",
+        "word2": "chin",
+        "meaningAr1": "مشروب الجن",
+        "meaningAr2": "ذقن"
+      },
+      {
+        "word1": "badge",
+        "word2": "batch",
+        "meaningAr1": "شارة أو وسام",
+        "meaningAr2": "دفعة"
+      },
+      {
+        "word1": "junk",
+        "word2": "chunk",
+        "meaningAr1": "خردة",
+        "meaningAr2": "قطعة سميكة"
+      },
+      {
+        "word1": "joy",
+        "word2": "toy",
+        "meaningAr1": "فرح",
+        "meaningAr2": "لعبة"
+      }
+    ],
+    "tongueTwister": "Joyful Jack joined gentle Jenny in June jogging.",
+    "tongueTwisterAr": "انضم جاك المرح إلى جيني اللطيفة في الركض في حزيران.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "consonants",
+    "symbol": "English R (/ɹ/) vs Arabic R",
+    "ipaOrSpelling": "/ɹ/",
+    "arabicApprox": "الراء الإنجليزية الانزلاقية الخفيفة دون أي ارتعاش أو لمس طرف اللسان لسقف الحلق (عكس الراء العربية المكررة).",
+    "mouthTipAr": "اسحب لسانك للخلف واثنِ جوانبه نحو الأضراس العلوية، واجعل طرف اللسان معلقًا بالهواء دون أن يلمس سقف الحلق نهائيًا.",
+    "mouthDiagramType": "alveolar_r",
+    "exampleWords": [
+      "red",
+      "rain",
+      "road",
+      "right",
+      "river",
+      "read",
+      "room",
+      "run",
+      "ring",
+      "rose",
+      "rabbit",
+      "radio"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "red",
+        "word2": "led",
+        "meaningAr1": "أحمر",
+        "meaningAr2": "قادَ"
+      },
+      {
+        "word1": "right",
+        "word2": "light",
+        "meaningAr1": "يمين أو صحيح",
+        "meaningAr2": "ضوء أو خفيف"
+      },
+      {
+        "word1": "road",
+        "word2": "load",
+        "meaningAr1": "طريق",
+        "meaningAr2": "حمولة"
+      },
+      {
+        "word1": "row",
+        "word2": "low",
+        "meaningAr1": "صف أو يجذف",
+        "meaningAr2": "منخفض"
+      },
+      {
+        "word1": "ring",
+        "word2": "ling",
+        "meaningAr1": "خاتم",
+        "meaningAr2": "سمك اللينغ"
+      },
+      {
+        "word1": "raw",
+        "word2": "law",
+        "meaningAr1": "نيء",
+        "meaningAr2": "قانون"
+      }
+    ],
+    "tongueTwister": "Round the rugged rock the ragged rascal ran.",
+    "tongueTwisterAr": "حول الصخرة الوعرة ركض المشاكس الرث.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "consonants",
+    "symbol": "W (/w/) vs V (/v/)",
+    "ipaOrSpelling": "/w/ vs /v/",
+    "arabicApprox": "الواو الدائرية المفتوحة الشفتين (wine) مقابل الفاء المجهورة بالأسنان على الشفة السفلية (vine).",
+    "mouthTipAr": "في حرف W: ضم شفتيك كدائرة صغيرة للأمام تمامًا دون أي لمس للأسنان. في حرف V: لا تدور الشفاه بل عض شفتك السفلية برفق.",
+    "mouthDiagramType": "bilabial_w",
+    "exampleWords": [
+      "wine",
+      "vine",
+      "west",
+      "vest",
+      "wet",
+      "vet",
+      "wheel",
+      "worse",
+      "voice",
+      "water",
+      "wind",
+      "winter"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "wine",
+        "word2": "vine",
+        "meaningAr1": "نبيذ",
+        "meaningAr2": "كرمة العنب"
+      },
+      {
+        "word1": "west",
+        "word2": "vest",
+        "meaningAr1": "غرب",
+        "meaningAr2": "سترة"
+      },
+      {
+        "word1": "wet",
+        "word2": "vet",
+        "meaningAr1": "مبتل",
+        "meaningAr2": "طبيب بيطري"
+      },
+      {
+        "word1": "went",
+        "word2": "vent",
+        "meaningAr1": "ذهب",
+        "meaningAr2": "فتحة تهوية"
+      },
+      {
+        "word1": "worse",
+        "word2": "verse",
+        "meaningAr1": "أسوأ",
+        "meaningAr2": "بيت شعر"
+      },
+      {
+        "word1": "wary",
+        "word2": "vary",
+        "meaningAr1": "حذر",
+        "meaningAr2": "يتنوع"
+      }
+    ],
+    "tongueTwister": "Which witch wished which wicked wish on winter wednesday?",
+    "tongueTwisterAr": "أي ساحرة تمنت أي أمنية شريرة في أربعاء الشتاء؟",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "consonants",
+    "symbol": "S (/s/) vs Z (/z/)",
+    "ipaOrSpelling": "/s/ vs /z/",
+    "arabicApprox": "صوت السين المهموس (صافي بدون اهتزاز) مقابل صوت الزاي المجهور الذي يطن في الحلق.",
+    "mouthTipAr": "نفس موضع اللسان تمامًا خلف الأسنان العلوية؛ الفرق الوحيد هو اهتزاز الحبال الصوتية في Z مع سريان نغمي مستمر.",
+    "mouthDiagramType": "palato_alveolar_sh_ch",
+    "exampleWords": [
+      "sun",
+      "zoo",
+      "sink",
+      "zinc",
+      "seal",
+      "zeal",
+      "price",
+      "prize",
+      "ice",
+      "eyes",
+      "bus",
+      "buzz"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "price",
+        "word2": "prize",
+        "meaningAr1": "سعر",
+        "meaningAr2": "جائزة"
+      },
+      {
+        "word1": "ice",
+        "word2": "eyes",
+        "meaningAr1": "ثلج",
+        "meaningAr2": "عيون"
+      },
+      {
+        "word1": "bus",
+        "word2": "buzz",
+        "meaningAr1": "حافلة",
+        "meaningAr2": "طنين"
+      },
+      {
+        "word1": "place",
+        "word2": "plays",
+        "meaningAr1": "مكان",
+        "meaningAr2": "يلعب أو مسرحيات"
+      },
+      {
+        "word1": "loose",
+        "word2": "lose",
+        "meaningAr1": "واسع / فضفاض",
+        "meaningAr2": "يخسر"
+      },
+      {
+        "word1": "peace",
+        "word2": "peas",
+        "meaningAr1": "سلام",
+        "meaningAr2": "بازلاء"
+      }
+    ],
+    "tongueTwister": "Busy buzzing bees breeze between pleasant blooming trees.",
+    "tongueTwisterAr": "نحل طنان مشغول ينساب بين الأشجار المزهرة اللطيفة.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "consonants",
+    "symbol": "Clear L ([l]) vs Dark L ([ɫ])",
+    "ipaOrSpelling": "[l] vs [ɫ]",
+    "arabicApprox": "اللام المرققة في بداية الكلمة (light) مقابل اللام المفخمة العميقة في نهاية الكلمة وبعد حروف العلة (feel, milk).",
+    "mouthTipAr": "في Dark L ارفع مؤخرة لسانك نحو سقف الحلق الخلفي بينما يلمس طرف اللسان اللثة الأمامية، ليعطي نغمة ثقيلة ممتلئة.",
+    "mouthDiagramType": "velar_ng",
+    "exampleWords": [
+      "light",
+      "feel",
+      "cold",
+      "milk",
+      "ball",
+      "call",
+      "look",
+      "late",
+      "tall",
+      "full",
+      "school",
+      "bell"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "feel",
+        "word2": "fill",
+        "meaningAr1": "يشعر",
+        "meaningAr2": "يملأ"
+      },
+      {
+        "word1": "late",
+        "word2": "lake",
+        "meaningAr1": "متأخر",
+        "meaningAr2": "بحيرة"
+      },
+      {
+        "word1": "light",
+        "word2": "night",
+        "meaningAr1": "ضوء",
+        "meaningAr2": "ليل"
+      },
+      {
+        "word1": "tall",
+        "word2": "toll",
+        "meaningAr1": "طويل",
+        "meaningAr2": "رسوم عبور"
+      },
+      {
+        "word1": "call",
+        "word2": "coal",
+        "meaningAr1": "ينادي",
+        "meaningAr2": "فحم"
+      }
+    ],
+    "tongueTwister": "Little Luke likes licking lemon lollipops late.",
+    "tongueTwisterAr": "يحب لوك الصغير لعق مصاصات الليمون في وقت متأخر.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "Short I (/ɪ/) vs Long EE (/iː/)",
+    "ipaOrSpelling": "/ɪ/ vs /iː/",
+    "arabicApprox": "الكسرة الخفيفة السريعة المرتخية (ship, bit) مقابل الياء الممدودة المبتسمة المشدودة (sheep, beat).",
+    "mouthTipAr": "في /ɪ/: أرخِ فكك ولسانك قليلًا واجعل الصوت قصيرًا ومحايدًا. في /iː/: ابتسم بشفتيك مع شد عضلة اللسان للأعلى.",
+    "mouthDiagramType": "vowel_front_high_i",
+    "exampleWords": [
+      "ship",
+      "sheep",
+      "fit",
+      "feet",
+      "sit",
+      "seat",
+      "bit",
+      "beat",
+      "hit",
+      "heat",
+      "slip",
+      "sleep"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "ship",
+        "word2": "sheep",
+        "meaningAr1": "سفينة",
+        "meaningAr2": "خروف"
+      },
+      {
+        "word1": "fit",
+        "word2": "feet",
+        "meaningAr1": "لائق أو مناسب",
+        "meaningAr2": "أقدام"
+      },
+      {
+        "word1": "sit",
+        "word2": "seat",
+        "meaningAr1": "يجلس",
+        "meaningAr2": "مقعد"
+      },
+      {
+        "word1": "bit",
+        "word2": "beat",
+        "meaningAr1": "قطعة صغيرة",
+        "meaningAr2": "يهزم أو يضرب"
+      },
+      {
+        "word1": "slip",
+        "word2": "sleep",
+        "meaningAr1": "ينزلق",
+        "meaningAr2": "ينام"
+      },
+      {
+        "word1": "hit",
+        "word2": "heat",
+        "meaningAr1": "يضرب",
+        "meaningAr2": "حرارة"
+      }
+    ],
+    "tongueTwister": "Six sweet sheep sleep silently beside the steep ship.",
+    "tongueTwisterAr": "ستة خراف حلوة تنام بهدوء بجانب السفينة الشاهقة.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "Short U (/ʊ/) vs Long OO (/uː/)",
+    "ipaOrSpelling": "/ʊ/ vs /uː/",
+    "arabicApprox": "الضمة القصيرة الرخوة (full, look) مقابل الواو الطويلة المشدودة مع تدوير الشفاه (fool, food).",
+    "mouthTipAr": "في /ʊ/: الفم مسترخٍ والشفتان غير مشدودتين بالكامل. في /uː/: ضم الشفتين بإحكام كأنك تصفر واجعل الصوت ممتداً.",
+    "mouthDiagramType": "vowel_back_high_u",
+    "exampleWords": [
+      "full",
+      "fool",
+      "pull",
+      "pool",
+      "look",
+      "luke",
+      "foot",
+      "food",
+      "good",
+      "wood",
+      "book",
+      "cool"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "full",
+        "word2": "fool",
+        "meaningAr1": "ممتلئ",
+        "meaningAr2": "أحمق"
+      },
+      {
+        "word1": "pull",
+        "word2": "pool",
+        "meaningAr1": "يسحب",
+        "meaningAr2": "بركة سباحة"
+      },
+      {
+        "word1": "look",
+        "word2": "luke",
+        "meaningAr1": "ينظر",
+        "meaningAr2": "اسم لوقا"
+      },
+      {
+        "word1": "soot",
+        "word2": "suit",
+        "meaningAr1": "هباب الفحم",
+        "meaningAr2": "بدلة"
+      },
+      {
+        "word1": "foot",
+        "word2": "food",
+        "meaningAr1": "قدم",
+        "meaningAr2": "طعام"
+      }
+    ],
+    "tongueTwister": "The cool cook pulled good food from the wooden room.",
+    "tongueTwisterAr": "سحب الطباخ الماهر طعاماً جيداً من الغرفة الخشبية.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "Short A (/æ/) vs Short E (/e/)",
+    "ipaOrSpelling": "/æ/ vs /e/",
+    "arabicApprox": "الفتحة العريضة مع فتح الفك لأسفل (bad, cat) مقابل الفتحة المائلة المبتسمة (bed, pet).",
+    "mouthTipAr": "في /æ/: افتح فكك للأسفل بقوة واضغط اللسان لأسفل الفم. في /e/: افتح فمك نصف فتحة فقط باتساع خفيف للشفتين.",
+    "mouthDiagramType": "vowel_front_mid_ae_e",
+    "exampleWords": [
+      "bad",
+      "bed",
+      "man",
+      "men",
+      "pan",
+      "pen",
+      "sad",
+      "said",
+      "bag",
+      "beg",
+      "band",
+      "bend"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "bad",
+        "word2": "bed",
+        "meaningAr1": "سيء",
+        "meaningAr2": "سرير"
+      },
+      {
+        "word1": "man",
+        "word2": "men",
+        "meaningAr1": "رجل",
+        "meaningAr2": "رجال"
+      },
+      {
+        "word1": "pan",
+        "word2": "pen",
+        "meaningAr1": "مقلاة",
+        "meaningAr2": "قلم حبر"
+      },
+      {
+        "word1": "sad",
+        "word2": "said",
+        "meaningAr1": "حزين",
+        "meaningAr2": "قال"
+      },
+      {
+        "word1": "bag",
+        "word2": "beg",
+        "meaningAr1": "حقيبة",
+        "meaningAr2": "يتوسل أو يرجو"
+      },
+      {
+        "word1": "band",
+        "word2": "bend",
+        "meaningAr1": "فرقة أو رباط",
+        "meaningAr2": "يثني أو ينحني"
+      }
+    ],
+    "tongueTwister": "The sad man set ten red pens on the wet bed.",
+    "tongueTwisterAr": "وضع الرجل الحزين عشرة أقلام حمراء على السرير المبتل.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "Short U (/ʌ/) vs Long AH (/ɑː/)",
+    "ipaOrSpelling": "/ʌ/ vs /ɑː/",
+    "arabicApprox": "الصوت القصير المكتوم السريع (cut, cup) مقابل الألف المفخمة الممتدة من عمق الحلق (cart, park).",
+    "mouthTipAr": "في /ʌ/: افتح الفم فتحة متوسطة واجعل الصوت ينبض من منتصف الفم سريعاً. في /ɑː/: افتح الفم واسعاً وأرجع لسانك للخلف كأنك عند الطبيب.",
+    "mouthDiagramType": "vowel_back_open_o",
+    "exampleWords": [
+      "cut",
+      "cart",
+      "cup",
+      "carp",
+      "duck",
+      "dark",
+      "hut",
+      "heart",
+      "bun",
+      "barn",
+      "luck",
+      "lark"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "cut",
+        "word2": "cart",
+        "meaningAr1": "يقطع",
+        "meaningAr2": "عربة"
+      },
+      {
+        "word1": "cup",
+        "word2": "carp",
+        "meaningAr1": "كوب",
+        "meaningAr2": "سمك الشبوط"
+      },
+      {
+        "word1": "duck",
+        "word2": "dark",
+        "meaningAr1": "بطة",
+        "meaningAr2": "مظلم"
+      },
+      {
+        "word1": "hut",
+        "word2": "heart",
+        "meaningAr1": "كوخ",
+        "meaningAr2": "قلب"
+      },
+      {
+        "word1": "bun",
+        "word2": "barn",
+        "meaningAr1": "كعكة مدورة",
+        "meaningAr2": "حظيرة"
+      },
+      {
+        "word1": "luck",
+        "word2": "lark",
+        "meaningAr1": "حظ",
+        "meaningAr2": "طائر القبرة"
+      }
+    ],
+    "tongueTwister": "Dusty ducks dug under dark dirty rustic trucks.",
+    "tongueTwisterAr": "حفرت البط المغبر تحت شاحنات ريفية مظلمة وقذرة.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "Short O (/ɒ/) vs Long AW (/ɔː/)",
+    "ipaOrSpelling": "/ɒ/ vs /ɔː/",
+    "arabicApprox": "الواو القصيرة المفتوحة (cot, pot, hot) مقابل الواو الطويلة العميقة المستديرة (caught, port, sport).",
+    "mouthTipAr": "في /ɒ/: الفم مفتوح مستدير قليلًا والصوت سريع. في /ɔː/: زم الشفتين بدائرة أضيق ومد الصوت من مؤخرة الفم بعمق.",
+    "mouthDiagramType": "vowel_back_open_o",
+    "exampleWords": [
+      "cot",
+      "caught",
+      "pot",
+      "port",
+      "spot",
+      "sport",
+      "shot",
+      "short",
+      "fox",
+      "fork",
+      "hot",
+      "hall"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "cot",
+        "word2": "caught",
+        "meaningAr1": "سرير طفل متنقل",
+        "meaningAr2": "أمسك أو اصطاد"
+      },
+      {
+        "word1": "pot",
+        "word2": "port",
+        "meaningAr1": "قدر أو إناء",
+        "meaningAr2": "ميناء"
+      },
+      {
+        "word1": "spot",
+        "word2": "sport",
+        "meaningAr1": "بقعة",
+        "meaningAr2": "رياضة"
+      },
+      {
+        "word1": "shot",
+        "word2": "short",
+        "meaningAr1": "طلقة أو رمية",
+        "meaningAr2": "قصير"
+      },
+      {
+        "word1": "fox",
+        "word2": "fork",
+        "meaningAr1": "ثعلب",
+        "meaningAr2": "شوكة"
+      },
+      {
+        "word1": "not",
+        "word2": "nought",
+        "meaningAr1": "ليس / لا",
+        "meaningAr2": "صفر"
+      }
+    ],
+    "tongueTwister": "Four short sportsmen walked towards the north hall port.",
+    "tongueTwisterAr": "مشى أربعة رياضيين قصار نحو ميناء القاعة الشمالية.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "The Schwa (/ə/)",
+    "ipaOrSpelling": "/ə/",
+    "arabicApprox": "حركة العلة الأضعف والأكثر شيوعاً بالإنجليزية (شبه همسة محايدة مرتاحة: a-bout, so-fa, doc-tor).",
+    "mouthTipAr": "لا تفتح فمك ولا تشد أي عضلة! الفك مسترخٍ تمامًا واللسان في المنتصف. انطق صوتًا خافتًا سريعًا مثل تنهيدة خفيفة.",
+    "mouthDiagramType": "vowel_central_schwa",
+    "exampleWords": [
+      "about",
+      "sofa",
+      "banana",
+      "doctor",
+      "teacher",
+      "police",
+      "again",
+      "support",
+      "salad",
+      "paper",
+      "lemon",
+      "mother"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "about",
+        "word2": "bout",
+        "meaningAr1": "حول أو تقريبًا",
+        "meaningAr2": "نوبة أو جولة"
+      },
+      {
+        "word1": "sofa",
+        "word2": "so",
+        "meaningAr1": "أريكة",
+        "meaningAr2": "لذلك / جدًا"
+      },
+      {
+        "word1": "banana",
+        "word2": "banner",
+        "meaningAr1": "موزة",
+        "meaningAr2": "لافتة"
+      },
+      {
+        "word1": "police",
+        "word2": "please",
+        "meaningAr1": "شرطة",
+        "meaningAr2": "من فضلك"
+      },
+      {
+        "word1": "lemon",
+        "word2": "melon",
+        "meaningAr1": "ليمون",
+        "meaningAr2": "شمام"
+      }
+    ],
+    "tongueTwister": "A clever teacher gave a wonderful banana to another doctor.",
+    "tongueTwisterAr": "أعطى معلم ذكي موزة رائعة لطبيب آخر.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "Diphthong /eɪ/ (Face, Day)",
+    "ipaOrSpelling": "/eɪ/",
+    "arabicApprox": "صوت العلة المزدوج (إييه) يبدأ بحركة E وينزلق بنعومة نحو الكسرة الخفيفة I (face, day, wait).",
+    "mouthTipAr": "ابدأ بفتح الفم نصف فتحة كما في حرف E، ثم حرّك لسانك وفكك للأعلى قليلاً نحو صوت I في انزلاق مستمر.",
+    "mouthDiagramType": "diphthong_glide",
+    "exampleWords": [
+      "face",
+      "day",
+      "make",
+      "rain",
+      "wait",
+      "plane",
+      "game",
+      "safe",
+      "gate",
+      "cake",
+      "take",
+      "stay"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "day",
+        "word2": "die",
+        "meaningAr1": "يوم",
+        "meaningAr2": "يموت"
+      },
+      {
+        "word1": "pain",
+        "word2": "pine",
+        "meaningAr1": "ألم",
+        "meaningAr2": "شجر الصنوبر"
+      },
+      {
+        "word1": "bake",
+        "word2": "back",
+        "meaningAr1": "يخبز",
+        "meaningAr2": "ظهر أو يعود"
+      },
+      {
+        "word1": "late",
+        "word2": "let",
+        "meaningAr1": "متأخر",
+        "meaningAr2": "يدع أو يسمح"
+      },
+      {
+        "word1": "main",
+        "word2": "mine",
+        "meaningAr1": "رئيسي",
+        "meaningAr2": "ملكي أو منجم"
+      },
+      {
+        "word1": "tail",
+        "word2": "tile",
+        "meaningAr1": "ذيل",
+        "meaningAr2": "بلاطة"
+      }
+    ],
+    "tongueTwister": "Brave Dave made great cakes on the rainy day train.",
+    "tongueTwisterAr": "صنع ديف الشجاع كعكات رائعة في قطار اليوم الممطر.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "Diphthong /aɪ/ (Price, Sky)",
+    "ipaOrSpelling": "/aɪ/",
+    "arabicApprox": "صوت العلة المزدوج (آي) يبدأ بفتحة عريضة وينتهي بكسرة سريعة (my, high, price, light).",
+    "mouthTipAr": "افتح الفم واسعًا بصوت A مفتوح، ثم ارفع الفك السفلي نحو الكسرة بنعومة.",
+    "mouthDiagramType": "diphthong_glide",
+    "exampleWords": [
+      "price",
+      "high",
+      "try",
+      "bite",
+      "light",
+      "sky",
+      "time",
+      "nice",
+      "white",
+      "guide",
+      "climb",
+      "line"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "bite",
+        "word2": "bait",
+        "meaningAr1": "يعض",
+        "meaningAr2": "طعم صيد"
+      },
+      {
+        "word1": "light",
+        "word2": "late",
+        "meaningAr1": "ضوء",
+        "meaningAr2": "متأخر"
+      },
+      {
+        "word1": "ride",
+        "word2": "raid",
+        "meaningAr1": "يركب",
+        "meaningAr2": "غارة"
+      },
+      {
+        "word1": "side",
+        "word2": "said",
+        "meaningAr1": "جانب",
+        "meaningAr2": "قال"
+      },
+      {
+        "word1": "pie",
+        "word2": "pay",
+        "meaningAr1": "فطيرة",
+        "meaningAr2": "يدفع"
+      }
+    ],
+    "tongueTwister": "Nine nice knights rode high white bikes at night.",
+    "tongueTwisterAr": "تسعة فرسان لطفاء ركبوا دراجات بيضاء عالية ليلاً.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "Diphthong /ɔɪ/ (Boy, Voice)",
+    "ipaOrSpelling": "/ɔɪ/",
+    "arabicApprox": "صوت العلة المزدوج (أوي) يبدأ بضمة دائرية عميقة وينزلق نحو الكسرة (boy, coin, joy, noise).",
+    "mouthTipAr": "ابدأ بتدوير الشفتين بصوت O، ثم اسحبهما على الجانبين نحو صوت I مبتسم.",
+    "mouthDiagramType": "diphthong_glide",
+    "exampleWords": [
+      "boy",
+      "voice",
+      "coin",
+      "toy",
+      "point",
+      "noise",
+      "oil",
+      "join",
+      "choice",
+      "boil",
+      "enjoy",
+      "soil"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "boy",
+        "word2": "bye",
+        "meaningAr1": "ولد",
+        "meaningAr2": "وداعاً"
+      },
+      {
+        "word1": "toy",
+        "word2": "tie",
+        "meaningAr1": "لعبة",
+        "meaningAr2": "ربطة عنق أو يربط"
+      },
+      {
+        "word1": "coin",
+        "word2": "cone",
+        "meaningAr1": "عملة معدنية",
+        "meaningAr2": "مخروط"
+      },
+      {
+        "word1": "voice",
+        "word2": "vice",
+        "meaningAr1": "صوت بشري",
+        "meaningAr2": "رذيلة"
+      },
+      {
+        "word1": "point",
+        "word2": "paint",
+        "meaningAr1": "نقطة أو يشير",
+        "meaningAr2": "طلاء أو يدهن"
+      }
+    ],
+    "tongueTwister": "Loyal boys rejoice enjoying boiling noisy oil.",
+    "tongueTwisterAr": "الأولاد الأوفياء يبتهجون مستمتعين بالزيت المغلي الصاخب.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "Diphthong /aʊ/ (Mouth, Cow)",
+    "ipaOrSpelling": "/aʊ/",
+    "arabicApprox": "صوت العلة المزدوج (آو) يبدأ بفتحة فم واسعة وينزلق نحو ضمة واو دائرية (now, cow, house, out).",
+    "mouthTipAr": "افتح الفم واسعاً أولاً، ثم ضم شفتيك سريعاً للأمام في دائرة مغلقة.",
+    "mouthDiagramType": "diphthong_glide",
+    "exampleWords": [
+      "mouth",
+      "cow",
+      "now",
+      "out",
+      "loud",
+      "town",
+      "brown",
+      "house",
+      "round",
+      "sound",
+      "crowd",
+      "cloud"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "cow",
+        "word2": "car",
+        "meaningAr1": "بقرة",
+        "meaningAr2": "سيارة"
+      },
+      {
+        "word1": "town",
+        "word2": "tone",
+        "meaningAr1": "بلدة",
+        "meaningAr2": "نغمة"
+      },
+      {
+        "word1": "loud",
+        "word2": "lord",
+        "meaningAr1": "صوت عالٍ",
+        "meaningAr2": "لورد أو سيد"
+      },
+      {
+        "word1": "now",
+        "word2": "no",
+        "meaningAr1": "الآن",
+        "meaningAr2": "كلا / لا"
+      },
+      {
+        "word1": "cloud",
+        "word2": "clad",
+        "meaningAr1": "غيمة",
+        "meaningAr2": "مكسو"
+      }
+    ],
+    "tongueTwister": "How now brown cow bounds around the cloudy town?",
+    "tongueTwisterAr": "كيف تقفز البقرة البنية الآن حول البلدة المليئة بالغيوم؟",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "Diphthong /əʊ/ (Go, Home)",
+    "ipaOrSpelling": "/əʊ/",
+    "arabicApprox": "صوت العلة المزدوج (أُو) يبدأ بحركة محايدة وينزلق نحو ضم الشفاه برفق (go, home, bone, road).",
+    "mouthTipAr": "ابدأ بوضع الفم المحايد (شوا)، ثم استدر بالشفتين للأمام بضمة ممتدة.",
+    "mouthDiagramType": "diphthong_glide",
+    "exampleWords": [
+      "go",
+      "home",
+      "bone",
+      "road",
+      "hope",
+      "coat",
+      "stone",
+      "cold",
+      "open",
+      "gold",
+      "boat",
+      "slow"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "coat",
+        "word2": "caught",
+        "meaningAr1": "معطف",
+        "meaningAr2": "أمسك"
+      },
+      {
+        "word1": "note",
+        "word2": "not",
+        "meaningAr1": "ملاحظة أو نوتة",
+        "meaningAr2": "ليس"
+      },
+      {
+        "word1": "road",
+        "word2": "rod",
+        "meaningAr1": "طريق",
+        "meaningAr2": "قضيب أو سنارة"
+      },
+      {
+        "word1": "boat",
+        "word2": "bought",
+        "meaningAr1": "قارب",
+        "meaningAr2": "اشترى"
+      },
+      {
+        "word1": "hope",
+        "word2": "hop",
+        "meaningAr1": "أمل",
+        "meaningAr2": "يقفز على قدم"
+      }
+    ],
+    "tongueTwister": "Old slow Joe drove home below the golden snow.",
+    "tongueTwisterAr": "قاد جو القديم البطيء سيارته إلى المنزل تحت الثلج الذهبي.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "Diphthong /ɪə/ (Near, Ear)",
+    "ipaOrSpelling": "/ɪə/",
+    "arabicApprox": "صوت الانزلاق من الكسرة الخفيفة إلى الشوا المحايدة (near, here, clear, cheer).",
+    "mouthTipAr": "ابدأ بكسرة واضحة مثل I ثم أرخِ كل عضلات فمك ولسانك إلى الصوت المحايد (ə).",
+    "mouthDiagramType": "diphthong_glide",
+    "exampleWords": [
+      "near",
+      "here",
+      "ear",
+      "cheer",
+      "clear",
+      "fear",
+      "dear",
+      "hear",
+      "beer",
+      "steer",
+      "career",
+      "appear"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "beer",
+        "word2": "bear",
+        "meaningAr1": "شراب شعير",
+        "meaningAr2": "دب أو يتحمل"
+      },
+      {
+        "word1": "cheer",
+        "word2": "chair",
+        "meaningAr1": "هتاف تشجيع",
+        "meaningAr2": "كرسي"
+      },
+      {
+        "word1": "fear",
+        "word2": "fare",
+        "meaningAr1": "خوف",
+        "meaningAr2": "أجرة سفر"
+      },
+      {
+        "word1": "steer",
+        "word2": "stare",
+        "meaningAr1": "يقود أو يوجه",
+        "meaningAr2": "يحدق"
+      },
+      {
+        "word1": "peer",
+        "word2": "pear",
+        "meaningAr1": "قرين أو يختلس النظر",
+        "meaningAr2": "إجاصة"
+      }
+    ],
+    "tongueTwister": "Near dear peers hear clear cheers each year.",
+    "tongueTwisterAr": "يسمع الأقران الأعزاء القريبون هتافات واضحة كل عام.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Vowel",
+    "category": "vowels",
+    "symbol": "Diphthong /eə/ (Hair, Care)",
+    "ipaOrSpelling": "/eə/",
+    "arabicApprox": "صوت الانزلاق من الفتحة E إلى الشوا المفتوحة (hair, care, square, share).",
+    "mouthTipAr": "افتح فمك بصوت E متوسط ثم اسحب اللسان نحو وسط الفم بصوت الشوا الخافت.",
+    "mouthDiagramType": "diphthong_glide",
+    "exampleWords": [
+      "hair",
+      "care",
+      "square",
+      "share",
+      "bear",
+      "chair",
+      "fair",
+      "rare",
+      "wear",
+      "dare",
+      "pair",
+      "tear"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "hair",
+        "word2": "hear",
+        "meaningAr1": "شعر",
+        "meaningAr2": "يسمع"
+      },
+      {
+        "word1": "dare",
+        "word2": "dear",
+        "meaningAr1": "يجرؤ",
+        "meaningAr2": "عزيزي"
+      },
+      {
+        "word1": "bear",
+        "word2": "beer",
+        "meaningAr1": "دب",
+        "meaningAr2": "شراب الشعير"
+      },
+      {
+        "word1": "pair",
+        "word2": "peer",
+        "meaningAr1": "زوج من شيئين",
+        "meaningAr2": "قرين"
+      },
+      {
+        "word1": "rare",
+        "word2": "rear",
+        "meaningAr1": "نادر",
+        "meaningAr2": "خلفي"
+      }
+    ],
+    "tongueTwister": "Rare hairy bears share fair square chairs with care.",
+    "tongueTwisterAr": "تشارك الدببة المشعرة النادرة الكراسي المربعة العادلة بحذر.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "iraqi_challenges",
+    "symbol": "Cluster /sk/ (School, Sky)",
+    "ipaOrSpelling": "/sk-/",
+    "arabicApprox": "البدء بالسين فوراً بدون إقحام همزة وصل مكسورة (تجنب تماماً: إسكول، إسكاي).",
+    "mouthTipAr": "أخرج صوت الصفير (س) أولاً ومباشرة اصدم الكاف خلفه: sssss-chool دون أن تفتح شفتيك بهمزة قبلها.",
+    "mouthDiagramType": "cluster_airflow",
+    "exampleWords": [
+      "school",
+      "sky",
+      "skill",
+      "skin",
+      "skip",
+      "skate",
+      "skull",
+      "skeleton",
+      "score",
+      "scale",
+      "sketch",
+      "skirt"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "school",
+        "word2": "cool",
+        "meaningAr1": "مدرسة",
+        "meaningAr2": "رائع أو بارد"
+      },
+      {
+        "word1": "sky",
+        "word2": "guy",
+        "meaningAr1": "سماء",
+        "meaningAr2": "رجل"
+      },
+      {
+        "word1": "skill",
+        "word2": "kill",
+        "meaningAr1": "مهارة",
+        "meaningAr2": "يقتل"
+      },
+      {
+        "word1": "skin",
+        "word2": "kin",
+        "meaningAr1": "جلد أو بشرة",
+        "meaningAr2": "أقارب"
+      },
+      {
+        "word1": "skip",
+        "word2": "kip",
+        "meaningAr1": "يتخطى أو يقفز",
+        "meaningAr2": "غفوة قصيرة"
+      }
+    ],
+    "tongueTwister": "Skilled scholars skate in skies above the school.",
+    "tongueTwisterAr": "يتزلج العلماء المهرة في السماوات فوق المدرسة.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "iraqi_challenges",
+    "symbol": "Cluster /st/ (Street, Stop)",
+    "ipaOrSpelling": "/st-/",
+    "arabicApprox": "البدء بالسين والتاء معًا بدون حرف علة مسبق (تجنب: إستريت، إستوب).",
+    "mouthTipAr": "ضع لسانك خلف الأسنان وابدأ بالصفير S ثم اغلق على التاء فوراً: sss-top مباشرة دون انقطاع أو كسر قبله.",
+    "mouthDiagramType": "cluster_airflow",
+    "exampleWords": [
+      "stop",
+      "street",
+      "star",
+      "stand",
+      "step",
+      "stone",
+      "story",
+      "student",
+      "strong",
+      "stick",
+      "stay",
+      "store"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "stop",
+        "word2": "top",
+        "meaningAr1": "توقف",
+        "meaningAr2": "قمة أو أعلى"
+      },
+      {
+        "word1": "star",
+        "word2": "tar",
+        "meaningAr1": "نجم",
+        "meaningAr2": "قطران"
+      },
+      {
+        "word1": "step",
+        "word2": "tip",
+        "meaningAr1": "خطوة",
+        "meaningAr2": "نصيحة أو طرف"
+      },
+      {
+        "word1": "stick",
+        "word2": "tick",
+        "meaningAr1": "عصا",
+        "meaningAr2": "علامة صح"
+      },
+      {
+        "word1": "stand",
+        "word2": "tan",
+        "meaningAr1": "يقف",
+        "meaningAr2": "سمرة الشمس"
+      }
+    ],
+    "tongueTwister": "Students stand on stone steps beside the street store.",
+    "tongueTwisterAr": "يقف الطلاب على الدرج الحجري بجانب متجر الشارع.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "iraqi_challenges",
+    "symbol": "Cluster /sp/ (Sport, Speak)",
+    "ipaOrSpelling": "/sp-/",
+    "arabicApprox": "البدء بـ S متبوعة بـ P خفيفة بدون همزة كسرية (تجنب: إسبورت، إسبايدر).",
+    "mouthTipAr": "صوت صفير S طويل قليلًا يلتحم بانفجار P بالشفتين: sss-peak بدون إدخال أي صوت علة أبدًا في البداية.",
+    "mouthDiagramType": "cluster_airflow",
+    "exampleWords": [
+      "sport",
+      "speak",
+      "speed",
+      "spoon",
+      "space",
+      "spend",
+      "spark",
+      "spot",
+      "spring",
+      "spider",
+      "special",
+      "split"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "speak",
+        "word2": "peak",
+        "meaningAr1": "يتحدث",
+        "meaningAr2": "قمة الجبل"
+      },
+      {
+        "word1": "sport",
+        "word2": "port",
+        "meaningAr1": "رياضة",
+        "meaningAr2": "ميناء"
+      },
+      {
+        "word1": "space",
+        "word2": "pace",
+        "meaningAr1": "فضاء أو مساحة",
+        "meaningAr2": "خطوة أو وتيرة"
+      },
+      {
+        "word1": "speed",
+        "word2": "feed",
+        "meaningAr1": "سرعة",
+        "meaningAr2": "يطعم"
+      },
+      {
+        "word1": "spoon",
+        "word2": "boon",
+        "meaningAr1": "ملعقة",
+        "meaningAr2": "نعمة أو منفعة"
+      }
+    ],
+    "tongueTwister": "Special speakers speak speed in space with sparks.",
+    "tongueTwisterAr": "يتحدث المتحدثون المميزون بسرعة في الفضاء مع الشرر.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "iraqi_challenges",
+    "symbol": "3-Consonant Clusters (/str-, spr-, spl-/)",
+    "ipaOrSpelling": "/str-/, /spr-/, /spl-/",
+    "arabicApprox": "نطق ثلاثة أحرف ساكنة متتالية بانسياب دون إضافة أي كسرة أو ألف في البداية أو بين الحروف.",
+    "mouthTipAr": "اجعل اللسان يتحرك بمرونة فائقة: صفير S ثم فورا T أو P ثم الراء الانزلاقية R: s-t-r-eet دون توقف تنفسي.",
+    "mouthDiagramType": "cluster_airflow",
+    "exampleWords": [
+      "stream",
+      "spring",
+      "street",
+      "strong",
+      "strike",
+      "split",
+      "spread",
+      "splash",
+      "strict",
+      "straight",
+      "straw",
+      "stripe"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "stream",
+        "word2": "dream",
+        "meaningAr1": "مجرى مائي",
+        "meaningAr2": "حلم"
+      },
+      {
+        "word1": "spring",
+        "word2": "ring",
+        "meaningAr1": "ربيع أو نبع",
+        "meaningAr2": "خاتم أو يرن"
+      },
+      {
+        "word1": "street",
+        "word2": "treat",
+        "meaningAr1": "شارع",
+        "meaningAr2": "يعامل أو مكافأة"
+      },
+      {
+        "word1": "strong",
+        "word2": "wrong",
+        "meaningAr1": "قوي",
+        "meaningAr2": "خاطئ"
+      },
+      {
+        "word1": "split",
+        "word2": "spit",
+        "meaningAr1": "يقسم أو يشطر",
+        "meaningAr2": "يبصق"
+      }
+    ],
+    "tongueTwister": "Strong spring streams spread straight down the street.",
+    "tongueTwisterAr": "جداول الربيع القوية تنتشر مباشرة على طول الشارع.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "iraqi_challenges",
+    "symbol": "Silent K (kn-)",
+    "ipaOrSpelling": "/n/ (K is silent)",
+    "arabicApprox": "حرف K الصامت تماماً عندما يأتي بعده N في بداية الكلمة (knife, knight, know تنطق نوناً فقط).",
+    "mouthTipAr": "تجاهل حرف K كلياً! ابدأ النطق فوراً بحرف النون N مع لمس طرف اللسان لسقف الحلق الأمامي.",
+    "mouthDiagramType": "silent_cross",
+    "exampleWords": [
+      "knife",
+      "knight",
+      "knee",
+      "knock",
+      "know",
+      "knot",
+      "knitting",
+      "kneel",
+      "knack",
+      "knuckle",
+      "knob",
+      "knowledge"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "knight",
+        "word2": "night",
+        "meaningAr1": "فارس",
+        "meaningAr2": "ليل"
+      },
+      {
+        "word1": "knot",
+        "word2": "not",
+        "meaningAr1": "عقدة حبل",
+        "meaningAr2": "ليس / لا"
+      },
+      {
+        "word1": "know",
+        "word2": "no",
+        "meaningAr1": "يعرف",
+        "meaningAr2": "كلا"
+      },
+      {
+        "word1": "knee",
+        "word2": "bee",
+        "meaningAr1": "ركبة",
+        "meaningAr2": "نحلة"
+      },
+      {
+        "word1": "knife",
+        "word2": "life",
+        "meaningAr1": "سكين",
+        "meaningAr2": "حياة"
+      }
+    ],
+    "tongueTwister": "The noble knight knew that knives knock on knees at night.",
+    "tongueTwisterAr": "علم الفارس النبيل أن السكاكين تدق على الركب ليلاً.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "iraqi_challenges",
+    "symbol": "Silent W (wr-)",
+    "ipaOrSpelling": "/ɹ/ (W is silent)",
+    "arabicApprox": "حرف W الصامت في بداية الكلمات قبل حرف R (write, wrong تنطق راءً إنجليزية فقط دون واو).",
+    "mouthTipAr": "لا تضم شفتيك بحرف W! ابدأ الكلمة فوراً بالراء الإنجليزية الانزلاقية R بسحب اللسان للخلف.",
+    "mouthDiagramType": "silent_cross",
+    "exampleWords": [
+      "write",
+      "wrong",
+      "wrist",
+      "wrap",
+      "wreck",
+      "wreath",
+      "wrestle",
+      "writer",
+      "written",
+      "wrinkle",
+      "wring",
+      "wren"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "write",
+        "word2": "right",
+        "meaningAr1": "يكتب",
+        "meaningAr2": "يمين أو صحيح"
+      },
+      {
+        "word1": "wrong",
+        "word2": "rung",
+        "meaningAr1": "خطأ",
+        "meaningAr2": "درجة السلم"
+      },
+      {
+        "word1": "wrist",
+        "word2": "mist",
+        "meaningAr1": "معصم اليد",
+        "meaningAr2": "ضباب خفيف"
+      },
+      {
+        "word1": "wrap",
+        "word2": "rap",
+        "meaningAr1": "يغلف",
+        "meaningAr2": "موسيقى الراب أو نقر"
+      },
+      {
+        "word1": "wreck",
+        "word2": "neck",
+        "meaningAr1": "حطام",
+        "meaningAr2": "رقبة"
+      }
+    ],
+    "tongueTwister": "The writer wrote wrong words with a wrinkled wrist.",
+    "tongueTwisterAr": "كتب الكاتب كلمات خاطئة بمعصم مجعد.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "iraqi_challenges",
+    "symbol": "Silent B (-mb, bt)",
+    "ipaOrSpelling": "Silent B",
+    "arabicApprox": "حرف B صامت تماماً بعد الميم في نهاية الكلمة أو قبل T (climb, lamb, doubt تنطق دون باء).",
+    "mouthTipAr": "في نهاية كلمات مثل climb وcomb توقف عند صوت الميم M وأبقِ شفتيك مغلقتين دون فتح باء انفجارية.",
+    "mouthDiagramType": "silent_cross",
+    "exampleWords": [
+      "climb",
+      "lamb",
+      "thumb",
+      "bomb",
+      "comb",
+      "debt",
+      "doubt",
+      "tomb",
+      "numb",
+      "crumb",
+      "subtle",
+      "limb"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "climb",
+        "word2": "claim",
+        "meaningAr1": "يتسلق",
+        "meaningAr2": "يدّعي"
+      },
+      {
+        "word1": "lamb",
+        "word2": "lamp",
+        "meaningAr1": "حمل صغير",
+        "meaningAr2": "مصباح"
+      },
+      {
+        "word1": "thumb",
+        "word2": "thump",
+        "meaningAr1": "إبهام",
+        "meaningAr2": "صدمة أو خبطة"
+      },
+      {
+        "word1": "doubt",
+        "word2": "dot",
+        "meaningAr1": "شك",
+        "meaningAr2": "نقطة"
+      },
+      {
+        "word1": "debt",
+        "word2": "bet",
+        "meaningAr1": "دَيْن",
+        "meaningAr2": "رهان"
+      }
+    ],
+    "tongueTwister": "He climbed the tomb with a numb thumb without doubt.",
+    "tongueTwisterAr": "تسلق المقبرة بإبهام مخدر وبدون شك.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "iraqi_challenges",
+    "symbol": "Silent L (-alk, -alm, -alf)",
+    "ipaOrSpelling": "Silent L",
+    "arabicApprox": "حرف اللام الصامت قبل K أو M أو F (walk, talk, calm, half تنطق ووك، تووك، كاام، هاف).",
+    "mouthTipAr": "لا تلمس بلسانك سقف الحلق أبدًا في walk أو talk! انتقل مباشرة من حركة العلة الطويلة إلى حرف الكاف أو الميم.",
+    "mouthDiagramType": "silent_cross",
+    "exampleWords": [
+      "walk",
+      "talk",
+      "calm",
+      "palm",
+      "half",
+      "chalk",
+      "folk",
+      "salmon",
+      "could",
+      "would",
+      "should",
+      "balm"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "walk",
+        "word2": "wok",
+        "meaningAr1": "يمشي",
+        "meaningAr2": "مقلاة ووك صينية"
+      },
+      {
+        "word1": "talk",
+        "word2": "tock",
+        "meaningAr1": "يتحدث",
+        "meaningAr2": "دقة الساعة"
+      },
+      {
+        "word1": "calm",
+        "word2": "come",
+        "meaningAr1": "هادئ",
+        "meaningAr2": "يأتي"
+      },
+      {
+        "word1": "half",
+        "word2": "have",
+        "meaningAr1": "نصف",
+        "meaningAr2": "يملك"
+      },
+      {
+        "word1": "palm",
+        "word2": "pam",
+        "meaningAr1": "نخلة أو كف اليد",
+        "meaningAr2": "اسم بام"
+      }
+    ],
+    "tongueTwister": "We walked and talked calmly with chalk under the palm tree.",
+    "tongueTwisterAr": "مشينا وتحدثنا بهدوء مع الطباشير تحت شجرة النخيل.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "iraqi_challenges",
+    "symbol": "Silent S (Island, Aisle)",
+    "ipaOrSpelling": "Silent S",
+    "arabicApprox": "حرف السين الصامت في كلمات شائعة مثل island (تُنطق آيلاند وليس إسلاند) و aisle.",
+    "mouthTipAr": "احذف صوت السين تمامًا عند القراءة؛ الكلمة تبدأ بصوت Diphthong /aɪ/ ثم اللام مباشرة.",
+    "mouthDiagramType": "silent_cross",
+    "exampleWords": [
+      "island",
+      "aisle",
+      "isle",
+      "islander",
+      "debris",
+      "viscount",
+      "patio",
+      "bourgeois",
+      "chamois",
+      "rendezvous"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "island",
+        "word2": "highland",
+        "meaningAr1": "جزيرة",
+        "meaningAr2": "أرض مرتفعة"
+      },
+      {
+        "word1": "aisle",
+        "word2": "file",
+        "meaningAr1": "ممر بين المقاعد",
+        "meaningAr2": "ملف"
+      },
+      {
+        "word1": "isle",
+        "word2": "tile",
+        "meaningAr1": "جزيرة صغيرة",
+        "meaningAr2": "بلاطة"
+      }
+    ],
+    "tongueTwister": "An islander walked down the aisle of the quiet isle.",
+    "tongueTwisterAr": "مشى ساكن الجزيرة في ممر الجزيرة الهادئة.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "iraqi_challenges",
+    "symbol": "English H vs Arabic Haa / Khaa",
+    "ipaOrSpelling": "/h/",
+    "arabicApprox": "الهاء الإنجليزية الناعمة الخفيفة (مثل تنهيدة هواء دافئ على زجاج النظارة)، خالية تماماً من احتكاك الحاء (ح) أو الخاء (خ).",
+    "mouthTipAr": "افتح حلقك كأنك تتنهد بلطف بهواء دافئ دون أي احتكاك في مجرى الحلق. تجنب تحويل hotel أو hope إلى حوتيل أو خوتيل.",
+    "mouthDiagramType": "cluster_airflow",
+    "exampleWords": [
+      "hat",
+      "hotel",
+      "hope",
+      "house",
+      "hand",
+      "happy",
+      "heart",
+      "help",
+      "head",
+      "home",
+      "heat",
+      "hold"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "hat",
+        "word2": "at",
+        "meaningAr1": "قبعة",
+        "meaningAr2": "في / عند"
+      },
+      {
+        "word1": "heart",
+        "word2": "art",
+        "meaningAr1": "قلب",
+        "meaningAr2": "فن"
+      },
+      {
+        "word1": "hold",
+        "word2": "old",
+        "meaningAr1": "يمسك أو يحمل",
+        "meaningAr2": "قديم"
+      },
+      {
+        "word1": "hand",
+        "word2": "and",
+        "meaningAr1": "يد",
+        "meaningAr2": "و (حرف عطف)"
+      },
+      {
+        "word1": "heat",
+        "word2": "eat",
+        "meaningAr1": "حرارة",
+        "meaningAr2": "يأكل"
+      }
+    ],
+    "tongueTwister": "Happy Harry has huge heavy hats in his hotel home.",
+    "tongueTwisterAr": "يمتلك هاري السعيد قبعات ضخمة ثقيلة في منزله الفندقي.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "iraqi_challenges",
+    "symbol": "Final Consonant Clusters (-kts, -sps, -sts)",
+    "ipaOrSpelling": "/kts/, /sps/, /sts/",
+    "arabicApprox": "نطق تسلسل الحروف الساكنة في نهاية الكلمات (facts, tests, asks) دون إسقاط الصوت الأخير.",
+    "mouthTipAr": "لا تسقط صوت S أو T في النهاية: في facts انطق K ثم T ثم S بدقة متتابعة سريعة وواضحة.",
+    "mouthDiagramType": "cluster_airflow",
+    "exampleWords": [
+      "facts",
+      "tests",
+      "desks",
+      "asks",
+      "lists",
+      "tasks",
+      "guests",
+      "costs",
+      "acts",
+      "posts",
+      "rests",
+      "trusts"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "test",
+        "word2": "tests",
+        "meaningAr1": "اختبار واحد",
+        "meaningAr2": "اختبارات"
+      },
+      {
+        "word1": "fact",
+        "word2": "facts",
+        "meaningAr1": "حقيقة واحدة",
+        "meaningAr2": "حقائق"
+      },
+      {
+        "word1": "desk",
+        "word2": "desks",
+        "meaningAr1": "مكتب واحد",
+        "meaningAr2": "مكاتب"
+      },
+      {
+        "word1": "task",
+        "word2": "tasks",
+        "meaningAr1": "مهمة واحدة",
+        "meaningAr2": "مهام"
+      },
+      {
+        "word1": "list",
+        "word2": "lists",
+        "meaningAr1": "قائمة واحدة",
+        "meaningAr2": "قوائم"
+      }
+    ],
+    "tongueTwister": "Six strict guests tested facts and tasks at their desks.",
+    "tongueTwisterAr": "ستة ضيوف صارمين اختبروا الحقائق والمهام عند مكاتبهم.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "endings_stress",
+    "symbol": "Past -ed as /t/",
+    "ipaOrSpelling": "-ed = /t/",
+    "arabicApprox": "نهاية الفعل الماضي -ed تُنطق كحرف (T) مهموس إذا انتهى الفعل بصوت غير جهري (مثل: p, k, f, s, sh, ch).",
+    "mouthTipAr": "لا تقل 'walk-ed' بمقطعين! أضف صوت T حاد مباشرة إلى نهاية الفعل: walk + t = walked.",
+    "mouthDiagramType": "cluster_airflow",
+    "exampleWords": [
+      "walked",
+      "stopped",
+      "cooked",
+      "helped",
+      "missed",
+      "watched",
+      "washed",
+      "laughed",
+      "fixed",
+      "talked",
+      "jumped",
+      "kissed"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "walked",
+        "word2": "walk",
+        "meaningAr1": "مشى (ماضٍ)",
+        "meaningAr2": "يمشي (مضارع)"
+      },
+      {
+        "word1": "stopped",
+        "word2": "stop",
+        "meaningAr1": "توقف (ماضٍ)",
+        "meaningAr2": "يتوقف"
+      },
+      {
+        "word1": "cooked",
+        "word2": "cook",
+        "meaningAr1": "طبخ (ماضٍ)",
+        "meaningAr2": "يطبخ"
+      },
+      {
+        "word1": "helped",
+        "word2": "help",
+        "meaningAr1": "ساعد (ماضٍ)",
+        "meaningAr2": "يساعد"
+      },
+      {
+        "word1": "missed",
+        "word2": "miss",
+        "meaningAr1": "اشتاق أو فوّت",
+        "meaningAr2": "يشتاق"
+      }
+    ],
+    "tongueTwister": "Jack walked and stopped and watched as the cook fixed dishes.",
+    "tongueTwisterAr": "مشى جاك وتوقف وشاهد بينما أصلح الطباخ الأطباق.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "endings_stress",
+    "symbol": "Past -ed as /d/",
+    "ipaOrSpelling": "-ed = /d/",
+    "arabicApprox": "نهاية الفعل الماضي -ed تُنطق كحرف (D) جهري إذا انتهى الفعل بصوت جهري أو حرف علة (played, cleaned, loved).",
+    "mouthTipAr": "اجعل الصوت مقطعاً واحداً مجهوراً يهتز في الحلق: play + d = played دون إضافة كسرة بينهما.",
+    "mouthDiagramType": "cluster_airflow",
+    "exampleWords": [
+      "played",
+      "cleaned",
+      "called",
+      "lived",
+      "loved",
+      "opened",
+      "closed",
+      "stayed",
+      "moved",
+      "showed",
+      "trained",
+      "listened"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "played",
+        "word2": "play",
+        "meaningAr1": "لعب (ماضٍ)",
+        "meaningAr2": "يلعب"
+      },
+      {
+        "word1": "cleaned",
+        "word2": "clean",
+        "meaningAr1": "نظف (ماضٍ)",
+        "meaningAr2": "ينظف"
+      },
+      {
+        "word1": "called",
+        "word2": "call",
+        "meaningAr1": "اتصل (ماضٍ)",
+        "meaningAr2": "يتصل"
+      },
+      {
+        "word1": "loved",
+        "word2": "love",
+        "meaningAr1": "أحب (ماضٍ)",
+        "meaningAr2": "يحب"
+      },
+      {
+        "word1": "opened",
+        "word2": "open",
+        "meaningAr1": "فتح (ماضٍ)",
+        "meaningAr2": "يفتح"
+      }
+    ],
+    "tongueTwister": "They played and called and cleaned the room where they lived.",
+    "tongueTwisterAr": "لعبوا واتصلوا ونظفوا الغرفة التي عاشوا فيها.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "endings_stress",
+    "symbol": "Past -ed as /ɪd/",
+    "ipaOrSpelling": "-ed = /ɪd/",
+    "arabicApprox": "نهاية الماضي تُنطق كمقطع كامل إضافي (إِد) فقط وفقط إذا انتهى الفعل بحرف T أو D (wanted, needed, waited).",
+    "mouthTipAr": "أضف مقطعاً صوتياً إضافياً واضحاً: want (مقطع واحد) تصبح want-ed (مقطعان).",
+    "mouthDiagramType": "cluster_airflow",
+    "exampleWords": [
+      "wanted",
+      "needed",
+      "waited",
+      "decided",
+      "visited",
+      "started",
+      "invited",
+      "painted",
+      "shouted",
+      "ended",
+      "created",
+      "tested"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "wanted",
+        "word2": "want",
+        "meaningAr1": "أراد (ماضٍ)",
+        "meaningAr2": "يريد"
+      },
+      {
+        "word1": "needed",
+        "word2": "need",
+        "meaningAr1": "احتاج (ماضٍ)",
+        "meaningAr2": "يحتاج"
+      },
+      {
+        "word1": "waited",
+        "word2": "wait",
+        "meaningAr1": "انتظر (ماضٍ)",
+        "meaningAr2": "ينتظر"
+      },
+      {
+        "word1": "painted",
+        "word2": "paint",
+        "meaningAr1": "رسم أو طلى",
+        "meaningAr2": "يرسم"
+      },
+      {
+        "word1": "visited",
+        "word2": "visit",
+        "meaningAr1": "زار (ماضٍ)",
+        "meaningAr2": "يزور"
+      }
+    ],
+    "tongueTwister": "We wanted and waited and decided to start painting.",
+    "tongueTwisterAr": "أردنا وانتظرنا وقررنا البدء في الرسم.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "endings_stress",
+    "symbol": "Suffix -s as /s/",
+    "ipaOrSpelling": "-s = /s/",
+    "arabicApprox": "إس الجمع أو المضارع تُنطق كحرف (S) صافٍ إذا كان الحرف الأخير مهموساً (p, t, k, f, th: cats, books, cups).",
+    "mouthTipAr": "أخرج صفير S نقي وخفيف بعد الحرف الأخير دون أي صوت اهتزاز بالحبال الصوتية.",
+    "mouthDiagramType": "palato_alveolar_sh_ch",
+    "exampleWords": [
+      "cats",
+      "books",
+      "cups",
+      "hats",
+      "maps",
+      "cliffs",
+      "myths",
+      "walks",
+      "stops",
+      "cooks",
+      "lights",
+      "trips"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "cats",
+        "word2": "cat",
+        "meaningAr1": "قطط (جمع)",
+        "meaningAr2": "قطة (مفرد)"
+      },
+      {
+        "word1": "books",
+        "word2": "book",
+        "meaningAr1": "كتب",
+        "meaningAr2": "كتاب"
+      },
+      {
+        "word1": "cups",
+        "word2": "cup",
+        "meaningAr1": "أكواب",
+        "meaningAr2": "كوب"
+      },
+      {
+        "word1": "hats",
+        "word2": "hat",
+        "meaningAr1": "قبعات",
+        "meaningAr2": "قبعة"
+      },
+      {
+        "word1": "maps",
+        "word2": "map",
+        "meaningAr1": "خرائط",
+        "meaningAr2": "خريطة"
+      }
+    ],
+    "tongueTwister": "Six brisk cats jump on desks with books and maps.",
+    "tongueTwisterAr": "ست قطط نشيطة تقفز على المكاتب مع الكتب والخرائط.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "endings_stress",
+    "symbol": "Suffix -s as /z/",
+    "ipaOrSpelling": "-s = /z/",
+    "arabicApprox": "إس الجمع أو المضارع تُنطق كحرف (Z) جهري إذا انتهت الكلمة بصوت جهري أو علة (dogs, rooms, days, plays).",
+    "mouthTipAr": "دع الحبال الصوتية تهتز مثل طنين النحل في نهاية الكلمة: dog-zzz وليس dog-sss.",
+    "mouthDiagramType": "palato_alveolar_sh_ch",
+    "exampleWords": [
+      "dogs",
+      "pens",
+      "rooms",
+      "days",
+      "trees",
+      "cars",
+      "dreams",
+      "plays",
+      "songs",
+      "friends",
+      "stars",
+      "doors"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "dogs",
+        "word2": "dog",
+        "meaningAr1": "كلاب (جمع)",
+        "meaningAr2": "كلب (مفرد)"
+      },
+      {
+        "word1": "pens",
+        "word2": "pen",
+        "meaningAr1": "أقلام",
+        "meaningAr2": "قلم"
+      },
+      {
+        "word1": "rooms",
+        "word2": "room",
+        "meaningAr1": "غرف",
+        "meaningAr2": "غرفة"
+      },
+      {
+        "word1": "days",
+        "word2": "day",
+        "meaningAr1": "أيام",
+        "meaningAr2": "يوم"
+      },
+      {
+        "word1": "trees",
+        "word2": "tree",
+        "meaningAr1": "أشجار",
+        "meaningAr2": "شجرة"
+      }
+    ],
+    "tongueTwister": "Five friendly dogs spend sunny days beside tall green trees.",
+    "tongueTwisterAr": "خمسة كلاب ودودة تقضي أياماً مشمسة بجانب أشجار خضراء طويلة.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "endings_stress",
+    "symbol": "Suffix -s as /ɪz/",
+    "ipaOrSpelling": "-s = /ɪz/",
+    "arabicApprox": "تُنطق كمقطع إضافي (إِز) بعد الأصوات الصفيرية (s, z, sh, ch, x, ge: buses, boxes, watches, changes).",
+    "mouthTipAr": "أضف مقطعاً كاملاً إضافياً في النطق ليصبح bus (مقطع واحد) -> bus-es (مقطعان).",
+    "mouthDiagramType": "palato_alveolar_sh_ch",
+    "exampleWords": [
+      "buses",
+      "boxes",
+      "watches",
+      "dishes",
+      "places",
+      "sizes",
+      "changes",
+      "bridges",
+      "glasses",
+      "classes",
+      "pages",
+      "judges"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "buses",
+        "word2": "bus",
+        "meaningAr1": "حافلات (جمع)",
+        "meaningAr2": "حافلة (مفرد)"
+      },
+      {
+        "word1": "boxes",
+        "word2": "box",
+        "meaningAr1": "صناديق",
+        "meaningAr2": "صندوق"
+      },
+      {
+        "word1": "watches",
+        "word2": "watch",
+        "meaningAr1": "ساعات يد",
+        "meaningAr2": "ساعة يد"
+      },
+      {
+        "word1": "places",
+        "word2": "place",
+        "meaningAr1": "أماكن",
+        "meaningAr2": "مكان"
+      },
+      {
+        "word1": "sizes",
+        "word2": "size",
+        "meaningAr1": "مقاسات",
+        "meaningAr2": "مقاس"
+      }
+    ],
+    "tongueTwister": "Brisk judges wash boxes and watches across many places.",
+    "tongueTwisterAr": "يغسل القضاة النشيطون الصناديق والساعات عبر العديد من الأماكن.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "endings_stress",
+    "symbol": "Noun vs Verb Stress Shift",
+    "ipaOrSpelling": "RE-cord vs re-CORD",
+    "arabicApprox": "تغيير مكان النبرة (الضغط الصوتي) يغير المعنى تماماً: التشديد في المقطع الأول للاسم، والمقطع الثاني للفعل.",
+    "mouthTipAr": "في الاسم: انطق المقطع الأول بصوت أعلى وأطول وأوضح (RE-cord = سِجِل). في الفعل: شدد المقطع الثاني (re-CORD = يُسجّل).",
+    "mouthDiagramType": "stress_high",
+    "exampleWords": [
+      "record",
+      "present",
+      "object",
+      "project",
+      "desert",
+      "conduct",
+      "contract",
+      "import",
+      "export",
+      "produce",
+      "rebel",
+      "suspect"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "record",
+        "word2": "recorder",
+        "meaningAr1": "سجل أو رقم قياسي",
+        "meaningAr2": "جهاز تسجيل"
+      },
+      {
+        "word1": "present",
+        "word2": "presence",
+        "meaningAr1": "هدية أو حاضر",
+        "meaningAr2": "وجود أو حضور"
+      },
+      {
+        "word1": "object",
+        "word2": "objective",
+        "meaningAr1": "شيء أو مجسم",
+        "meaningAr2": "هدف أو موضوعي"
+      },
+      {
+        "word1": "project",
+        "word2": "projection",
+        "meaningAr1": "مشروع",
+        "meaningAr2": "إسقاط أو تقدير"
+      },
+      {
+        "word1": "desert",
+        "word2": "dessert",
+        "meaningAr1": "صحراء (تشديد أول)",
+        "meaningAr2": "حلوى بعد الأكل (تشديد ثانٍ)"
+      }
+    ],
+    "tongueTwister": "Please present the present project without raising an object.",
+    "tongueTwisterAr": "يرجى تقديم المشروع الحالي دون إثارة أي اعتراض.",
+    "audioUrl": null
+  },
+  {
+    "kind": "Sound",
+    "category": "endings_stress",
+    "symbol": "Multi-Syllable Stress Patterns",
+    "ipaOrSpelling": "PHOtograph vs phoTOgraphy",
+    "arabicApprox": "انتقال النبرة الصوتية بين المقاطع عند إضافة لواحق الاشتقاق يغير أصوات حروف العلة كلياً إلى شوا.",
+    "mouthTipAr": "المقطع المشدد يكون أعلى وأوضح وأطول؛ أما المقاطع غير المشددة فتتحول إلى شوا خافتة وسريعة.",
+    "mouthDiagramType": "stress_high",
+    "exampleWords": [
+      "photograph",
+      "photography",
+      "photographic",
+      "economy",
+      "economic",
+      "educate",
+      "education",
+      "family",
+      "familiar",
+      "politics",
+      "political",
+      "musician"
+    ],
+    "minimalPairs": [
+      {
+        "word1": "photograph",
+        "word2": "photography",
+        "meaningAr1": "صورة فوتوغرافية (تشديد أول)",
+        "meaningAr2": "فن التصوير (تشديد ثانٍ)"
+      },
+      {
+        "word1": "economy",
+        "word2": "economic",
+        "meaningAr1": "اقتصاد (تشديد ثانٍ)",
+        "meaningAr2": "اقتصادي (تشديد ثالث)"
+      },
+      {
+        "word1": "educate",
+        "word2": "education",
+        "meaningAr1": "يعلم (تشديد أول)",
+        "meaningAr2": "تعليم (تشديد ثالث)"
+      },
+      {
+        "word1": "family",
+        "word2": "familiar",
+        "meaningAr1": "عائلة (تشديد أول)",
+        "meaningAr2": "مألوف (تشديد ثانٍ)"
+      },
+      {
+        "word1": "politics",
+        "word2": "political",
+        "meaningAr1": "سياسة (تشديد أول)",
+        "meaningAr2": "سياسي (تشديد ثانٍ)"
+      }
+    ],
+    "tongueTwister": "Economic photographers take photographic family records.",
+    "tongueTwisterAr": "يلتقط المصورون الاقتصاديون سجلات عائلية فوتوغرافية.",
+    "audioUrl": null
+  }
+]

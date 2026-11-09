@@ -1,0 +1,701 @@
+{
+  "A1": {
+    "blocks": [
+      {
+        "en": "My name is {name}. I am {age} years old.",
+        "ar": "اسمي {name}. عمري {age} عامًا.",
+        "slots": {
+          "name": [
+            {
+              "en": "Sara",
+              "ar": "سارة"
+            },
+            {
+              "en": "Omar",
+              "ar": "عمر"
+            },
+            {
+              "en": "Lina",
+              "ar": "لينا"
+            },
+            {
+              "en": "Ali",
+              "ar": "علي"
+            },
+            {
+              "en": "Noor",
+              "ar": "نور"
+            },
+            {
+              "en": "Maya",
+              "ar": "مايا"
+            },
+            {
+              "en": "Yousef",
+              "ar": "يوسف"
+            }
+          ],
+          "age": [
+            {
+              "en": "twelve",
+              "ar": "اثنا عشر"
+            },
+            {
+              "en": "fifteen",
+              "ar": "خمسة عشر"
+            },
+            {
+              "en": "twenty",
+              "ar": "عشرون"
+            },
+            {
+              "en": "fourteen",
+              "ar": "أربعة عشر"
+            },
+            {
+              "en": "seventeen",
+              "ar": "سبعة عشر"
+            }
+          ]
+        }
+      },
+      {
+        "en": "Every morning, I {vp} {place}.",
+        "ar": "كل صباح، {vp} {place}.",
+        "slots": {
+          "vp": [
+            {
+              "en": "drink coffee",
+              "ar": "أشرب القهوة"
+            },
+            {
+              "en": "eat breakfast",
+              "ar": "أتناول الفطور"
+            },
+            {
+              "en": "read a book",
+              "ar": "أقرأ كتابًا"
+            },
+            {
+              "en": "study English",
+              "ar": "أدرس الإنجليزية"
+            },
+            {
+              "en": "clean my room",
+              "ar": "أنظف غرفتي"
+            },
+            {
+              "en": "watch the news",
+              "ar": "أشاهد الأخبار"
+            },
+            {
+              "en": "cook lunch",
+              "ar": "أطبخ الغداء"
+            }
+          ],
+          "place": [
+            {
+              "en": "at home",
+              "ar": "في البيت"
+            },
+            {
+              "en": "in the kitchen",
+              "ar": "في المطبخ"
+            },
+            {
+              "en": "near the window",
+              "ar": "قرب النافذة"
+            },
+            {
+              "en": "in my room",
+              "ar": "في غرفتي"
+            }
+          ]
+        }
+      },
+      {
+        "en": "I usually feel {adj} after that.",
+        "ar": "عادةً أشعر بأنني {adj} بعد ذلك.",
+        "slots": {
+          "adj": [
+            {
+              "en": "happy",
+              "ar": "سعيد"
+            },
+            {
+              "en": "tired",
+              "ar": "متعب"
+            },
+            {
+              "en": "hungry",
+              "ar": "جائع"
+            },
+            {
+              "en": "ready",
+              "ar": "مستعد"
+            },
+            {
+              "en": "calm",
+              "ar": "هادئ"
+            }
+          ]
+        }
+      },
+      {
+        "en": "Then I go to {place2} with {person}.",
+        "ar": "ثم أذهب إلى {place2} مع {person}.",
+        "slots": {
+          "place2": [
+            {
+              "en": "school",
+              "ar": "المدرسة"
+            },
+            {
+              "en": "work",
+              "ar": "العمل"
+            },
+            {
+              "en": "the market",
+              "ar": "السوق"
+            },
+            {
+              "en": "the park",
+              "ar": "الحديقة"
+            },
+            {
+              "en": "the gym",
+              "ar": "النادي"
+            }
+          ],
+          "person": [
+            {
+              "en": "my friend",
+              "ar": "صديقي"
+            },
+            {
+              "en": "my sister",
+              "ar": "أختي"
+            },
+            {
+              "en": "my father",
+              "ar": "أبي"
+            },
+            {
+              "en": "my brother",
+              "ar": "أخي"
+            },
+            {
+              "en": "my mother",
+              "ar": "أمي"
+            }
+          ]
+        }
+      },
+      {
+        "en": "In the evening, I {evening}.",
+        "ar": "في المساء، {evening}.",
+        "slots": {
+          "evening": [
+            {
+              "en": "rest at home",
+              "ar": "أستريح في البيت"
+            },
+            {
+              "en": "call my family",
+              "ar": "أتصل بعائلتي"
+            },
+            {
+              "en": "plan the next day",
+              "ar": "أخطط لليوم التالي"
+            },
+            {
+              "en": "read a short story",
+              "ar": "أقرأ قصة قصيرة"
+            }
+          ]
+        }
+      },
+      {
+        "en": "I like this day because it is {adj2}.",
+        "ar": "أحب هذا اليوم لأنه {adj2}.",
+        "slots": {
+          "adj2": [
+            {
+              "en": "simple and quiet",
+              "ar": "بسيط وهادئ"
+            },
+            {
+              "en": "useful",
+              "ar": "مفيد"
+            },
+            {
+              "en": "full of small things",
+              "ar": "مليء بالأشياء الصغيرة"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "A2": {
+    "blocks": [
+      {
+        "en": "Last {day}, I {vp} with {person}.",
+        "ar": "يوم {day} الماضي، {vp} مع {person}.",
+        "slots": {
+          "day": [
+            {
+              "en": "Friday",
+              "ar": "الجمعة"
+            },
+            {
+              "en": "Saturday",
+              "ar": "السبت"
+            },
+            {
+              "en": "Sunday",
+              "ar": "الأحد"
+            }
+          ],
+          "vp": [
+            {
+              "en": "visited a museum",
+              "ar": "زرت متحفًا"
+            },
+            {
+              "en": "walked in the old market",
+              "ar": "تمشيت في السوق القديم"
+            },
+            {
+              "en": "had lunch in a small restaurant",
+              "ar": "تناولت الغداء في مطعم صغير"
+            },
+            {
+              "en": "met an old friend",
+              "ar": "التقيت صديقًا قديمًا"
+            },
+            {
+              "en": "traveled to another city",
+              "ar": "سافرت إلى مدينة أخرى"
+            }
+          ],
+          "person": [
+            {
+              "en": "my brother",
+              "ar": "أخي"
+            },
+            {
+              "en": "my cousin",
+              "ar": "ابن عمي"
+            },
+            {
+              "en": "my best friend",
+              "ar": "أفضل صديقي"
+            },
+            {
+              "en": "my sister",
+              "ar": "أختي"
+            }
+          ]
+        }
+      },
+      {
+        "en": "We {vp2} for about two hours.",
+        "ar": "{vp2} لنحو ساعتين.",
+        "slots": {
+          "vp2": [
+            {
+              "en": "walked around the river",
+              "ar": "تمشينا حول النهر"
+            },
+            {
+              "en": "talked about our school days",
+              "ar": "تحدثنا عن أيام المدرسة"
+            },
+            {
+              "en": "looked at old pictures",
+              "ar": "نظرنا إلى صور قديمة"
+            },
+            {
+              "en": "sat in a quiet cafe",
+              "ar": "جلسنا في مقهى هادئ"
+            }
+          ]
+        }
+      },
+      {
+        "en": "The weather was {weather}, but we did not mind.",
+        "ar": "كان الطقس {weather}، لكننا لم نمانع.",
+        "slots": {
+          "weather": [
+            {
+              "en": "cold",
+              "ar": "باردًا"
+            },
+            {
+              "en": "hot",
+              "ar": "حارًا"
+            },
+            {
+              "en": "windy",
+              "ar": "عاصفًا"
+            },
+            {
+              "en": "perfect",
+              "ar": "مثاليًا"
+            }
+          ]
+        }
+      },
+      {
+        "en": "After that, we {vp3}.",
+        "ar": "بعد ذلك، {vp3}.",
+        "slots": {
+          "vp3": [
+            {
+              "en": "ate a delicious dinner",
+              "ar": "تناولنا عشاءً لذيذًا"
+            },
+            {
+              "en": "bought a small gift for my mother",
+              "ar": "اشترينا هدية صغيرة لأمي"
+            },
+            {
+              "en": "took a bus back home",
+              "ar": "أخذنا باصًا للعودة إلى البيت"
+            },
+            {
+              "en": "watched the sunset",
+              "ar": "شاهدنا غروب الشمس"
+            }
+          ]
+        }
+      },
+      {
+        "en": "I arrived home at {time} and felt {feeling}.",
+        "ar": "وصلت إلى البيت في {time} وشعرت بأنني {feeling}.",
+        "slots": {
+          "time": [
+            {
+              "en": "eight o'clock",
+              "ar": "الثامنة"
+            },
+            {
+              "en": "nine o'clock",
+              "ar": "التاسعة"
+            },
+            {
+              "en": "half past ten",
+              "ar": "العاشرة والنصف"
+            },
+            {
+              "en": "midnight",
+              "ar": "منتصف الليل"
+            }
+          ],
+          "feeling": [
+            {
+              "en": "exhausted but happy",
+              "ar": "مرهق لكن سعيد"
+            },
+            {
+              "en": "calm",
+              "ar": "هادئ"
+            },
+            {
+              "en": "ready for a new week",
+              "ar": "مستعد لأسبوع جديد"
+            }
+          ]
+        }
+      },
+      {
+        "en": "It was a simple day, but I will remember it for a long time.",
+        "ar": "كان يومًا بسيطًا، لكنني سأتذكره طويلًا.",
+        "slots": {}
+      }
+    ]
+  },
+  "B1": {
+    "blocks": [
+      {
+        "en": "For the last few years, I have {vp}.",
+        "ar": "خلال السنوات القليلة الماضية، {vp}.",
+        "slots": {
+          "vp": [
+            {
+              "en": "tried to learn something new",
+              "ar": "حاولت تعلّم شيء جديد"
+            },
+            {
+              "en": "worked on my English every day",
+              "ar": "عملت على إنجليزيتي كل يوم"
+            },
+            {
+              "en": "wanted to change one small habit",
+              "ar": "أردت تغيير عادة صغيرة"
+            },
+            {
+              "en": "been thinking about my future",
+              "ar": "كنت أفكر في مستقبلي"
+            }
+          ]
+        }
+      },
+      {
+        "en": "At first, I {past} and made several mistakes.",
+        "ar": "في البداية، {past} وارتكبت عدة أخطاء.",
+        "slots": {
+          "past": [
+            {
+              "en": "felt nervous",
+              "ar": "شعرت بالتوتر"
+            },
+            {
+              "en": "moved too quickly",
+              "ar": "تحركت بسرعة زائدة"
+            },
+            {
+              "en": "did not know where to start",
+              "ar": "لم أعرف من أين أبدأ"
+            }
+          ]
+        }
+      },
+      {
+        "en": "However, I {vp2} because {reason}.",
+        "ar": "غير أنني {vp2} لأن {reason}.",
+        "slots": {
+          "vp2": [
+            {
+              "en": "kept going",
+              "ar": "واصلت"
+            },
+            {
+              "en": "asked for help",
+              "ar": "طلبت المساعدة"
+            },
+            {
+              "en": "changed my method",
+              "ar": "غيّرت طريقتي"
+            },
+            {
+              "en": "started with small steps",
+              "ar": "بدأت بخطوات صغيرة"
+            }
+          ],
+          "reason": [
+            {
+              "en": "I wanted real progress",
+              "ar": "أردت تقدمًا حقيقيًا"
+            },
+            {
+              "en": "I had a clear goal",
+              "ar": "كان لديّ هدف واضح"
+            },
+            {
+              "en": "I did not want to give up",
+              "ar": "لم أرد الاستسلام"
+            }
+          ]
+        }
+      },
+      {
+        "en": "What helped me most was {thing}.",
+        "ar": "أكثر ما ساعدني هو {thing}.",
+        "slots": {
+          "thing": [
+            {
+              "en": "daily practice",
+              "ar": "التدريب اليومي"
+            },
+            {
+              "en": "a patient friend",
+              "ar": "صديق صبور"
+            },
+            {
+              "en": "listening every morning",
+              "ar": "الاستماع كل صباح"
+            },
+            {
+              "en": "writing down new words",
+              "ar": "كتابة الكلمات الجديدة"
+            }
+          ]
+        }
+      },
+      {
+        "en": "Now I {vp3}, and I feel {adj}.",
+        "ar": "الآن {vp3}، وأشعر بأنني {adj}.",
+        "slots": {
+          "vp3": [
+            {
+              "en": "speak with more confidence",
+              "ar": "أتحدث بثقة أكبر"
+            },
+            {
+              "en": "understand films without subtitles",
+              "ar": "أفهم الأفلام دون ترجمة"
+            },
+            {
+              "en": "enjoy the process",
+              "ar": "أستمتع بالعملية"
+            },
+            {
+              "en": "read a little every night",
+              "ar": "أقرأ قليلًا كل ليلة"
+            }
+          ],
+          "adj": [
+            {
+              "en": "more confident",
+              "ar": "أكثر ثقة"
+            },
+            {
+              "en": "proud of the progress",
+              "ar": "فخور بالتقدم"
+            },
+            {
+              "en": "less afraid of mistakes",
+              "ar": "أقل خوفًا من الأخطاء"
+            }
+          ]
+        }
+      },
+      {
+        "en": "Progress is slow, but it is real.",
+        "ar": "التقدم بطيء، لكنه حقيقي.",
+        "slots": {}
+      }
+    ]
+  },
+  "B2": {
+    "blocks": [
+      {
+        "en": "It is often said that {claim}.",
+        "ar": "يُقال غالبًا إن {claim}.",
+        "slots": {
+          "claim": [
+            {
+              "en": "technology has made our lives easier",
+              "ar": "التقنية جعلت حياتنا أسهل"
+            },
+            {
+              "en": "hard work always leads to success",
+              "ar": "العمل الجاد يؤدي دائمًا إلى النجاح"
+            },
+            {
+              "en": "cities should be designed for cars",
+              "ar": "المدن يجب أن تُصمم للسيارات"
+            },
+            {
+              "en": "learning a language requires talent",
+              "ar": "تعلّم اللغة يتطلب موهبة"
+            }
+          ]
+        }
+      },
+      {
+        "en": "While this may be true in some cases, {counter}.",
+        "ar": "ورغم أن هذا قد يكون صحيحًا في بعض الحالات، فإن {counter}.",
+        "slots": {
+          "counter": [
+            {
+              "en": "it ignores the hidden costs",
+              "ar": "هذا يتجاهل التكاليف الخفية"
+            },
+            {
+              "en": "the reality is more complicated",
+              "ar": "الواقع أكثر تعقيدًا"
+            },
+            {
+              "en": "the evidence tells a different story",
+              "ar": "الأدلة تحكي قصة مختلفة"
+            },
+            {
+              "en": "it is not true for everyone",
+              "ar": "هذا لا ينطبق على الجميع"
+            }
+          ]
+        }
+      },
+      {
+        "en": "In my experience, {example}.",
+        "ar": "في تجربتي، {example}.",
+        "slots": {
+          "example": [
+            {
+              "en": "small habits matter more than big plans",
+              "ar": "العادات الصغيرة أهم من الخطط الكبيرة"
+            },
+            {
+              "en": "people change when they see a real benefit",
+              "ar": "الناس يتغيرون عندما يرون فائدة حقيقية"
+            },
+            {
+              "en": "the cheapest option is rarely the best",
+              "ar": "الخيار الأرخص نادرًا ما يكون الأفضل"
+            },
+            {
+              "en": "time is the resource we ignore most",
+              "ar": "الوقت هو المورد الذي نهمله أكثر"
+            }
+          ]
+        }
+      },
+      {
+        "en": "The main reason is that {reason}.",
+        "ar": "السبب الرئيسي هو أن {reason}.",
+        "slots": {
+          "reason": [
+            {
+              "en": "short-term comfort hides long-term costs",
+              "ar": "الراحة قصيرة الأمد تخفي تكاليف طويلة الأمد"
+            },
+            {
+              "en": "we rarely measure what we lose",
+              "ar": "نادرًا ما نقيس ما نخسره"
+            },
+            {
+              "en": "change requires patience",
+              "ar": "التغيير يتطلب صبرًا"
+            },
+            {
+              "en": "good decisions need clear evidence",
+              "ar": "القرارات الجيدة تحتاج أدلة واضحة"
+            }
+          ]
+        }
+      },
+      {
+        "en": "Therefore, I would argue that {conclusion}.",
+        "ar": "لذلك، أرى أن {conclusion}.",
+        "slots": {
+          "conclusion": [
+            {
+              "en": "we should ask better questions",
+              "ar": "علينا طرح أسئلة أفضل"
+            },
+            {
+              "en": "a balanced approach is wiser than a strict one",
+              "ar": "النهج المتوازن أحكم من المتشدد"
+            },
+            {
+              "en": "the debate should focus on fairness",
+              "ar": "يجب أن يركز النقاش على الإنصاف"
+            },
+            {
+              "en": "small changes are better than none",
+              "ar": "التغييرات الصغيرة أفضل من لا شيء"
+            }
+          ]
+        }
+      },
+      {
+        "en": "The question is not whether to change, but how.",
+        "ar": "السؤال ليس هل نتغير، بل كيف نتغير.",
+        "slots": {}
+      }
+    ]
+  }
+}

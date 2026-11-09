@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Alemni.Api/Alemni.Api.csproj" />
+  <Project Path="Alemni.Application/Alemni.Application.csproj" />
+  <Project Path="Alemni.Domain/Alemni.Domain.csproj" />
+  <Project Path="Alemni.Infrastructure/Alemni.Infrastructure.csproj" />
+  <Project Path="Alemni.Tests/Alemni.Tests.csproj" />
+</Solution>

@@ -1,0 +1,170 @@
+{
+  "A1": [
+    {
+      "en": "Hello, my name is Sara.",
+      "ar": "مرحبًا، اسمي سارة.",
+      "tip": "انطق th في «the» بوضع طرف اللسان بين الأسنان."
+    },
+    {
+      "en": "I would like a cup of tea, please.",
+      "ar": "أريد كوب شاي من فضلك.",
+      "tip": "«would like» أنعم من «want» وأكثر أدبًا."
+    },
+    {
+      "en": "How much is this?",
+      "ar": "كم سعر هذا؟",
+      "tip": "ارفع نبرة الصوت في نهاية السؤال."
+    },
+    {
+      "en": "Where is the bus station?",
+      "ar": "أين محطة الباص؟",
+      "tip": "لا تنطق حرف e في «station»، بل /ˈsteɪ.ʃən/."
+    },
+    {
+      "en": "Thank you very much.",
+      "ar": "شكرًا جزيلًا.",
+      "tip": "انطق th في «Thank» بصوت مهموس."
+    },
+    {
+      "en": "I don't understand.",
+      "ar": "أنا لا أفهم.",
+      "tip": "«don't» تنطق /doʊnt/ بحرف t خفيف."
+    },
+    {
+      "en": "Can I have the menu, please?",
+      "ar": "هل يمكنني الحصول على قائمة الطعام من فضلك؟",
+      "tip": "«Can I» تنطق متصلة: /kəˈnaɪ/."
+    },
+    {
+      "en": "See you tomorrow.",
+      "ar": "أراك غدًا.",
+      "tip": "«tomorrow» التشديد على المقطع الثاني: /təˈmɒr.oʊ/."
+    }
+  ],
+  "A2": [
+    {
+      "en": "Could you speak more slowly, please?",
+      "ar": "هل يمكنك أن تتحدث بشكل أبطأ من فضلك؟",
+      "tip": "«Could you» تنطق /kʊdʒuː/ متصلة."
+    },
+    {
+      "en": "I went to the market yesterday.",
+      "ar": "ذهبت إلى السوق أمس.",
+      "tip": "«went» فعل ماضٍ شاذ، لا تضف له ed."
+    },
+    {
+      "en": "What time does the train leave?",
+      "ar": "في أي ساعة يغادر القطار؟",
+      "tip": "في السؤال نستخدم does ثم الفعل بصيغة أساسية."
+    },
+    {
+      "en": "I'm looking for a small restaurant.",
+      "ar": "أبحث عن مطعم صغير.",
+      "tip": "«looking for» تنطق متصلة /ˈlʊk.ɪŋ.fɔːr/."
+    },
+    {
+      "en": "Can I pay by card?",
+      "ar": "هل يمكنني الدفع بالبطاقة؟",
+      "tip": "حرف a في «pay» طويل: /peɪ/."
+    },
+    {
+      "en": "I have been waiting for ten minutes.",
+      "ar": "أنتظر منذ عشر دقائق.",
+      "tip": "«been» تنطق /biːn/ وليست /ben/."
+    },
+    {
+      "en": "This is my first time here.",
+      "ar": "هذه أول مرة لي هنا.",
+      "tip": "«first» تنطق /fɜːrst/ بدون إشباع."
+    },
+    {
+      "en": "Would you like to join us?",
+      "ar": "هل تود الانضمام إلينا؟",
+      "tip": "«join» تنطق /dʒɔɪn/ بصوت j مثل «ج»."
+    }
+  ],
+  "B1": [
+    {
+      "en": "In my opinion, learning a language takes daily practice.",
+      "ar": "في رأيي، تعلّم اللغة يتطلب تدريبًا يوميًا.",
+      "tip": "«opinion» التشديد على المقطع الثاني: /əˈpɪn.jən/."
+    },
+    {
+      "en": "I would rather stay at home tonight.",
+      "ar": "أفضل البقاء في البيت الليلة.",
+      "tip": "«would rather» يتبعها فعل بصيغته الأساسية."
+    },
+    {
+      "en": "Could you explain that again, please?",
+      "ar": "هل يمكنك شرح ذلك مرة أخرى من فضلك؟",
+      "tip": "«explain» التشديد على المقطع الثاني."
+    },
+    {
+      "en": "If I had more time, I would travel more.",
+      "ar": "لو كان لديّ وقت أكثر، لسافرت أكثر.",
+      "tip": "هذه حالة شرطية غير واقعية: had + would."
+    },
+    {
+      "en": "I'm not sure I agree with that.",
+      "ar": "لست متأكدًا أنني أوافق على ذلك.",
+      "tip": "«agree with» للتأييد، و«agree to» للموافقة على اقتراح."
+    },
+    {
+      "en": "The meeting has been postponed until Monday.",
+      "ar": "تم تأجيل الاجتماع حتى الاثنين.",
+      "tip": "«postponed» التشديد على المقطع الثاني."
+    },
+    {
+      "en": "I've been trying to improve my pronunciation.",
+      "ar": "أحاول تحسين نطقي.",
+      "tip": "«pronunciation» بلا حرف o بعد n: /prəˌnʌn.siˈeɪ.ʃən/."
+    },
+    {
+      "en": "That is a good point, but I see it differently.",
+      "ar": "هذه نقطة جيدة، لكنني أراها بشكل مختلف.",
+      "tip": "استخدم «but» بنبرة هادئة في النقاش."
+    }
+  ],
+  "B2": [
+    {
+      "en": "I'd argue that the benefits outweigh the risks.",
+      "ar": "أرى أن الفوائد تفوق المخاطر.",
+      "tip": "«outweigh» التشديد على المقطع الأول."
+    },
+    {
+      "en": "Had I known earlier, I would have acted differently.",
+      "ar": "لو عرفت مبكرًا، لتصرفت بشكل مختلف.",
+      "tip": "«Had I known» بديل رسمي لـ «If I had known»."
+    },
+    {
+      "en": "There is little evidence to support that claim.",
+      "ar": "هناك أدلة قليلة تدعم ذلك الادعاء.",
+      "tip": "«evidence» غير معدودة: لا تقل evidences."
+    },
+    {
+      "en": "To what extent do you agree with this statement?",
+      "ar": "إلى أي مدى توافق على هذا التصريح؟",
+      "tip": "«extent» تنطق /ɪkˈstent/."
+    },
+    {
+      "en": "The project was completed despite considerable difficulties.",
+      "ar": "أُنجز المشروع على الرغم من صعوبات كبيرة.",
+      "tip": "«despite» يتبعها اسم أو -ing، وليس جملة كاملة."
+    },
+    {
+      "en": "It is worth considering the long-term consequences.",
+      "ar": "يجدر التفكير في العواقب طويلة الأمد.",
+      "tip": "«worth» يتبعها -ing: worth considering."
+    },
+    {
+      "en": "The evidence does not necessarily support that conclusion.",
+      "ar": "الأدلة لا تدعم بالضرورة ذلك الاستنتاج.",
+      "tip": "«necessarily» التشديد على المقطع الثالث."
+    },
+    {
+      "en": "We need to weigh the costs against the benefits.",
+      "ar": "علينا موازنة التكاليف مقابل الفوائد.",
+      "tip": "«weigh» تنطق /weɪ/ بحرف g صامت."
+    }
+  ]
+}

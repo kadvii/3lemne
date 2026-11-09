@@ -1,0 +1,32 @@
+# Build and IDE files
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+**/.idea/
+*.user
+*.suo
+*.log
+
+# Sensitive config files
+**/.env
+**/appsettings.Production.json
+
+# Node & Frontend
+**/node_modules/
+**/dist/
+**/.vite/
+
+# Flutter / Dart
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/build/
+
+# OS specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+

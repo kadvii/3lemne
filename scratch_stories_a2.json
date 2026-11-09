@@ -1,0 +1,1504 @@
+[
+  {
+    "id": "a2-train-to-basra-01",
+    "level": "A2",
+    "genre": "travel",
+    "title": "The Night Train to Basra",
+    "titleAr": "قطار الليل إلى البصرة",
+    "emoji": "🚂",
+    "characters": [
+      {
+        "name": "Omar",
+        "role": "young traveler"
+      },
+      {
+        "name": "Abu Tariq",
+        "role": "grandfather"
+      },
+      {
+        "name": "Conductor",
+        "role": "ticket inspector"
+      }
+    ],
+    "setting": "the overnight train from Baghdad International Station to Basra",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "departure_time",
+        "value": "nine in the evening",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "luggage_item",
+        "value": "heavy leather suitcase",
+        "sentence": 2
+      },
+      {
+        "id": "f3",
+        "key": "snack_shared",
+        "value": "roasted walnuts and cardamon tea",
+        "sentence": 5
+      },
+      {
+        "id": "f4",
+        "key": "arrival_view",
+        "value": "green palm groves and sunrise over the marshes",
+        "sentence": 7
+      }
+    ],
+    "text": [
+      "At exactly nine in the evening, the heavy diesel engine blew its deep brass horn at Baghdad Central Station. Omar stepped onto the polished carriage carrying his grandfather's vintage leather suitcase.",
+      "Abu Tariq settled comfortably into the navy velvet seat beside the window. He had taken this southern route every winter since his youth, but for twelve-year-old Omar, this journey felt like a grand adventure across history.",
+      "As the train click-clacked through the dark sleeping plains of Babylon, the friendly conductor inspected their blue paper tickets with a warm nod.",
+      "Abu Tariq opened a small metal tin and offered Omar roasted walnuts and fragrant cardamom tea poured from a stainless thermos.",
+      "Omar listened intently to grandfather's stories about ancient river docks while gazing at distant station lights flicking past like fallen stars.",
+      "When morning light finally broke, the golden sun painted endless palm groves and shimmering marsh canals. Omar rubbed his tired eyes, feeling the magical pulse of Basra welcoming them with open arms."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What time did the train depart from Baghdad?",
+        "correct": "nine in the evening",
+        "distractors": [
+          "midnight",
+          "seven in the morning",
+          "six in the afternoon"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What item was Omar carrying onto the carriage?",
+        "correct": "heavy leather suitcase",
+        "distractors": [
+          "heavy wooden box",
+          "large canvas bag",
+          "small plastic basket"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What snack did Abu Tariq share with Omar?",
+        "correct": "roasted walnuts and cardamon tea",
+        "distractors": [
+          "apple pie and cold milk",
+          "salty crackers and water",
+          "fresh dates and orange juice"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What landscape welcomed them as morning broke?",
+        "correct": "green palm groves and sunrise over the marshes",
+        "distractors": [
+          "tall snowy mountains",
+          "busy airport runways",
+          "empty gravel desert"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "What historic region did the train pass through in the night?",
+        "correct": "Babylon",
+        "distractors": [
+          "Nineveh",
+          "Samarra",
+          "Hatrah"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why was the journey special for Omar?",
+        "correct": "it was his first grand adventure south",
+        "distractors": [
+          "he had no school forever",
+          "he wanted to drive the engine",
+          "he was meeting a movie star"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Who inspected their tickets on the train?",
+        "correct": "friendly conductor",
+        "distractors": [
+          "station police officer",
+          "hotel clerk",
+          "Abu Tariq"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What is the heart of this travel story?",
+        "correct": "a memorable bonding journey between grandson and grandfather",
+        "distractors": [
+          "how diesel train engines work",
+          "buying leather suitcases",
+          "repairing broken railway tracks"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 167
+  },
+  {
+    "id": "a2-broken-teacup-02",
+    "level": "A2",
+    "genre": "funny",
+    "title": "The Secret of the Turquoise Cup",
+    "titleAr": "سر الفنجان الفيروزي",
+    "emoji": "☕",
+    "characters": [
+      {
+        "name": "Dunya",
+        "role": "daughter"
+      },
+      {
+        "name": "Um Dunya",
+        "role": "mother"
+      },
+      {
+        "name": "Uncle Falah",
+        "role": "craftsman"
+      }
+    ],
+    "setting": "a cheerful family house in Karrada",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "heirloom_object",
+        "value": "antique turquoise teacup",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "accident_cause",
+        "value": "chasing an escaped kitten",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "repair_technique",
+        "value": "golden Japanese pottery glue",
+        "sentence": 5
+      },
+      {
+        "id": "f4",
+        "key": "mother_reaction",
+        "value": "praised the golden veins as beautiful art",
+        "sentence": 7
+      }
+    ],
+    "text": [
+      "In the center of the display cabinet sat an antique turquoise teacup inherited from Dunya's great-grandmother. It had delicate gold rims and painted Persian roses that caught the midday light.",
+      "One Friday morning while mother was shopping at the local market, Dunya was playing indoors with her lively Persian kitten.",
+      "The playful kitten jumped suddenly onto the side table, and Dunya dashed forward to catch it. Her elbow bumped the wooden shelf, and the turquoise cup fell onto the soft wool rug, splitting into two clean halves.",
+      "Heart pounding with panic, Dunya carefully picked up the pieces and hurried down the street to Uncle Falah's craft workshop.",
+      "Uncle Falah examined the pieces with a twinkle in his eye. He used a traditional resin mixed with real gold dust to mend the seam seamlessly.",
+      "When mother returned and noticed the teacup back on its saucer, she gasped in delight at the shining golden lines. 'This looks even more precious than before,' she whispered, while Dunya let out a long sigh of quiet relief."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What color was the antique heirloom cup?",
+        "correct": "antique turquoise teacup",
+        "distractors": [
+          "plain white teacup",
+          "dark brown mug",
+          "silver goblet"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What caused the teacup to fall from the shelf?",
+        "correct": "chasing an escaped kitten",
+        "distractors": [
+          "a sudden earthquake",
+          "washing it with hot water",
+          "a strong wind from the window"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "Who repaired the broken teacup?",
+        "correct": "Uncle Falah",
+        "distractors": [
+          "Abu Ali",
+          "the school teacher",
+          "her older sister"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What did the craftsman mix with resin to fix the cup?",
+        "correct": "golden Japanese pottery glue",
+        "distractors": [
+          "black tar",
+          "cheap white paste",
+          "clear tape"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "Where did the teacup land when it fell?",
+        "correct": "on the soft wool rug",
+        "distractors": [
+          "on the cold tile floor",
+          "inside a bucket of water",
+          "on a metal tray"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why did mother praise the repaired teacup?",
+        "correct": "praised the golden veins as beautiful art",
+        "distractors": [
+          "she thought it was a new gift",
+          "she disliked the old turquoise color",
+          "she wanted to sell it"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Where did the family live in Baghdad?",
+        "correct": "Karrada",
+        "distractors": [
+          "Mansour",
+          "Adhamiya",
+          "Dora"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What is the uplifting moral of this story?",
+        "correct": "honesty and creative repair can turn mistakes into art",
+        "distractors": [
+          "never keep pets inside a house",
+          "expensive cups should be locked away",
+          "how to buy antique furniture"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 173
+  },
+  {
+    "id": "a2-football-alley-03",
+    "level": "A2",
+    "genre": "everyday",
+    "title": "The Final Goal in the Alley",
+    "titleAr": "الهدف الأخير في الزقاق",
+    "emoji": "⚽",
+    "characters": [
+      {
+        "name": "Karrar",
+        "role": "young goalkeeper"
+      },
+      {
+        "name": "Haider",
+        "role": "forward player"
+      },
+      {
+        "name": "Abu Samir",
+        "role": "elderly neighbor"
+      }
+    ],
+    "setting": "a paved residential alleyway in old Najaf",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "goalposts_made_of",
+        "value": "two pairs of old sneakers",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "match_score",
+        "value": "tied at three goals each",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "heroic_action",
+        "value": "dived to block a rocket shot",
+        "sentence": 6
+      },
+      {
+        "id": "f4",
+        "key": "neighbor_gift",
+        "value": "cold lemon syrup bottles",
+        "sentence": 7
+      }
+    ],
+    "text": [
+      "Every warm afternoon, the narrow alleyway behind the mosque echoed with the energetic shouts of neighborhood kids. Karrar pulled on his worn fabric gloves, proud to defend the northern goal.",
+      "Because they had no real metal nets, the boys placed two pairs of old sneakers on the cobblestones to mark each goalpost precisely.",
+      "The championship game between the Tigers and the Falcons had dragged on for nearly an hour under the setting sun. Dust swirled as players dribbled past brick archways and cheered loudly.",
+      "With only two minutes remaining on their watch, the score stood completely tied at three goals each. Haider broke through the defense with lightning speed and struck a ferocious rocket shot towards the top corner.",
+      "Karrar pushed off his heels with all his might and dived horizontally across the stones, punching the ball away with his fingertips before it crossed the line.",
+      "The spectators erupted in cheers, including elderly Abu Samir watching from his balcony. The kind old man lowered a basket containing bottles of cold lemon syrup to celebrate their spectacular sportsmanship."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What did the boys use to mark the goalposts?",
+        "correct": "two pairs of old sneakers",
+        "distractors": [
+          "wooden chairs",
+          "iron pipes",
+          "plastic buckets"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What was the score before the final minutes?",
+        "correct": "tied at three goals each",
+        "distractors": [
+          "five to zero",
+          "one to zero",
+          "tied at ten each"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "How did Karrar stop the dangerous shot?",
+        "correct": "dived to block a rocket shot",
+        "distractors": [
+          "kicked it with his foot",
+          "caught it with his chest",
+          "let it bounce off the wall"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What refreshing treat did Abu Samir lower in a basket?",
+        "correct": "cold lemon syrup bottles",
+        "distractors": [
+          "hot tea glasses",
+          "fresh bread rolls",
+          "ice cream cones"
+        ],
+        "factId": "f4"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "What team did Karrar play for as goalkeeper?",
+        "correct": "the northern goal",
+        "distractors": [
+          "the national team",
+          "the school varsity",
+          "the professional club"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why did the alley erupt in cheers?",
+        "correct": "Karrar made an impossible save",
+        "distractors": [
+          "the ball popped",
+          "rain started falling",
+          "the game was cancelled"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Who struck the ferocious final shot?",
+        "correct": "Haider",
+        "distractors": [
+          "Omar",
+          "Abu Samir",
+          "Karrar"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What atmosphere is depicted in this story?",
+        "correct": "vibrant neighborhood friendship and passionate street sports",
+        "distractors": [
+          "fear of noisy children",
+          "studying for exam season",
+          "repairing old alley walls"
+        ],
+        "factId": "f4"
+      }
+    ],
+    "_wordCount": 177
+  },
+  {
+    "id": "a2-secret-market-04",
+    "level": "A2",
+    "genre": "mystery",
+    "title": "The Copper Key of Souq al-Safafeer",
+    "titleAr": "مفتاح النحاس في سوق الصفافير",
+    "emoji": "🗝️",
+    "characters": [
+      {
+        "name": "Khalid",
+        "role": "young apprentice"
+      },
+      {
+        "name": "Master Ridha",
+        "role": "coppersmith"
+      }
+    ],
+    "setting": "the historic coppersmiths market in Baghdad",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "craft_tool",
+        "value": "small rounded iron hammer",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "found_object",
+        "value": "ornate heavy copper key",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "opened_what",
+        "value": "carved chest containing ancient calligraphy stamps",
+        "sentence": 6
+      }
+    ],
+    "text": [
+      "The rhythm of hammers striking glowing metal echoed through the covered arches of Souq al-Safafeer. Fourteen-year-old Khalid swept the copper shavings from the flagstone workshop floor with disciplined pride.",
+      "His master, elderly Master Ridha, had been shaping elegant brass teapots and copper platters for over fifty years. Khalid watched his wrinkled hands strike precise geometric stars with a small rounded hammer.",
+      "While cleaning a dusty storage loft behind centuries-old brass cauldrons, Khalid noticed a loose brick in the back wall. He wiggled it gently until it slid free into his hands.",
+      "Behind the brick rested an ornate heavy copper key wrapped in decayed velvet cloth. Its handle was shaped like an engraved palm frond.",
+      "Khalid respectfully carried the mysterious key down to Master Ridha, whose eyes widened with astonishment. 'This belonged to my great-uncle's forgotten lockbox,' Master Ridha whispered with trembling emotion.",
+      "Together they fitted the key into an iron-banded chest under the workbench. The lock turned with a satisfying click, revealing a complete collection of exquisite bronze calligraphy stamps from the Abbasid era."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "In which famous market does the story take place?",
+        "correct": "Souq al-Safafeer",
+        "distractors": [
+          "Shorja Market",
+          "Mutanabbi Street",
+          "Fish Market"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What did Khalid discover behind the loose brick?",
+        "correct": "ornate heavy copper key",
+        "distractors": [
+          "bag of gold coins",
+          "ancient sword",
+          "pair of glasses"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What was inside the iron-banded chest?",
+        "correct": "carved chest containing ancient calligraphy stamps",
+        "distractors": [
+          "copper nails",
+          "old dried dates",
+          "silver tea sets"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "How long had Master Ridha been shaping metalware?",
+        "correct": "over fifty years",
+        "distractors": [
+          "two years",
+          "ten years",
+          "twenty years"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "What design was engraved on the handle of the key?",
+        "correct": "palm frond",
+        "distractors": [
+          "soaring eagle",
+          "crescent moon",
+          "swimming fish"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why was Master Ridha deeply moved?",
+        "correct": "the key unlocked an heirloom forgotten for decades",
+        "distractors": [
+          "he lost his money",
+          "he had to close his shop",
+          "the hammer was broken"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What historical era did the calligraphy stamps belong to?",
+        "correct": "Abbasid era",
+        "distractors": [
+          "Ottoman era",
+          "Babylonian era",
+          "Sumerian era"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What does the apprentice discover through diligence?",
+        "correct": "a hidden piece of cultural heritage preserved across generations",
+        "distractors": [
+          "how to polish copper quickly",
+          "where to buy cheap tools",
+          "cleaning market floors"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 180
+  },
+  {
+    "id": "a2-cooking-dolma-05",
+    "level": "A2",
+    "genre": "family",
+    "title": "Rolling Dolma on Friday",
+    "titleAr": "لف الدولمة يوم الجمعة",
+    "emoji": "🍲",
+    "characters": [
+      {
+        "name": "Fatima",
+        "role": "granddaughter"
+      },
+      {
+        "name": "Jaddah Um Ammar",
+        "role": "grandmother"
+      }
+    ],
+    "setting": "a spacious kitchen overlooking a courtyard garden",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "ingredients_used",
+        "value": "grape leaves, rice, minced lamb, and pomegranate molasses",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "bottom_layer",
+        "value": "tender broad beans and lamb ribs",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "family_ritual",
+        "value": "flipping the huge pot upside down onto a silver tray",
+        "sentence": 6
+      }
+    ],
+    "text": [
+      "Friday lunch in the household was an unshakeable sacred tradition celebrated by three generations. Fatima tied her floral apron proudly as she joined Jaddah Um Ammar at the long wooden kitchen table.",
+      "Spread before them were fragrant silver bowls of spiced short-grain rice, minced lamb, fresh dill, and dark sour pomegranate molasses. Beside them soaked stacks of tender green grape leaves and hollowed vegetables.",
+      "Jaddah taught Fatima the gentle art of rolling: not too tight so the rice had room to expand, but firm enough that the roll would never unravel during the long simmering boil.",
+      "At the bottom of the colossal black pot, they laid thick slices of lamb ribs and fresh green broad beans to prevent burning and impart extraordinary depth of flavor.",
+      "For two hours, the intoxicating steam filled every corridor of the house, drawing hungry cousins and uncles into the dining hall with watering mouths.",
+      "When the clock struck one, grandmother performed the legendary flip, turning the giant pot upside down onto a massive circular silver tray with a glorious sizzling roar."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What special ingredient added a sour depth to the dolma filling?",
+        "correct": "grape leaves, rice, minced lamb, and pomegranate molasses",
+        "distractors": [
+          "lemon yogurt",
+          "sugar syrup",
+          "hot chili pepper"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What was placed at the bottom of the pot to protect the rolls?",
+        "correct": "tender broad beans and lamb ribs",
+        "distractors": [
+          "bread slices and onions",
+          "potatoes and tomatoes",
+          "gravel stones"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "How did grandmother serve the finished dolma to the family?",
+        "correct": "flipping the huge pot upside down onto a silver tray",
+        "distractors": [
+          "serving small bowls with spoons",
+          "packing it in plastic lunchboxes",
+          "baking it in individual cups"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "How long did the dolma simmer on the stove?",
+        "correct": "two hours",
+        "distractors": [
+          "ten minutes",
+          "five hours",
+          "half an hour"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why must grape leaves not be rolled too tightly?",
+        "correct": "so the rice has room to expand",
+        "distractors": [
+          "to keep the leaves green",
+          "to save rice filling",
+          "to cook faster"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "On which day did the extended family gather for this feast?",
+        "correct": "Friday",
+        "distractors": [
+          "Wednesday",
+          "Sunday",
+          "Monday"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What kind of vegetables did they hollow out to stuff?",
+        "correct": "hollowed vegetables and grape leaves",
+        "distractors": [
+          "only cabbage",
+          "pumpkins and watermelons",
+          "corn and carrots"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What does the culinary tradition symbolize in this narrative?",
+        "correct": "family unity, heritage, and the joy of shared home-cooked meals",
+        "distractors": [
+          "fast restaurant catering",
+          "how to buy cheaper meat",
+          "modern electric kitchen gadgets"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 177
+  },
+  {
+    "id": "a2-artist-mutanabbi-06",
+    "level": "A2",
+    "genre": "everyday",
+    "title": "The Painter of Al-Mutanabbi",
+    "titleAr": "رسام شارع المتنبي",
+    "emoji": "🎨",
+    "characters": [
+      {
+        "name": "Haider",
+        "role": "young art student"
+      },
+      {
+        "name": "Master Jawad",
+        "role": "landscape painter"
+      }
+    ],
+    "setting": "Al-Mutanabbi book street on a bustling Friday morning",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "painted_subject",
+        "value": "old wooden balconies called shanasheel",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "paint_type",
+        "value": "vibrant water colors",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "artistic_advice",
+        "value": "paint the light, not just the wood",
+        "sentence": 5
+      }
+    ],
+    "text": [
+      "Every Friday morning, Al-Mutanabbi Street transformed into an open-air river of readers, poets, and intellectual book collectors. Haider loved wandering among the sidewalk stalls stacked high with yellowing volumes.",
+      "Near the entrance of Shabandar Cafe sat Master Jawad on a folding stool, painting the intricate wooden shanasheel balconies that hung gracefully over the crowded street.",
+      "Haider stood quietly behind the easel, mesmerized by how the master blended burnt orange, umber, and deep cerulean blue with effortless swiftness.",
+      "The watercolors flowed across the rough paper like living water, capturing both the dusty heat and the eternal dignity of Baghdad's architectural soul.",
+      "Master Jawad turned with a kind glint in his spectacles and handed Haider a slender camel-hair brush. 'Paint the light that kisses the wood, my son, not just the wooden beams,' he advised with gentle wisdom.",
+      "Haider dipped the tip into golden ochre and added three delicate brushstrokes to the sunlit windowsill. That simple lesson transformed how he saw the historic city forever."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "What architectural feature was Master Jawad painting?",
+        "correct": "old wooden balconies called shanasheel",
+        "distractors": [
+          "modern glass skyscrapers",
+          "concrete bridges",
+          "iron factory gates"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "Near which historic cafe was the painter seated?",
+        "correct": "Shabandar Cafe",
+        "distractors": [
+          "Barlaman Cafe",
+          "Brazilian Cafe",
+          "River Cafe"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What medium of paint was Master Jawad using?",
+        "correct": "vibrant water colors",
+        "distractors": [
+          "heavy spray paint",
+          "black charcoal sticks",
+          "thick wall plaster"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What core artistic advice did the master give Haider?",
+        "correct": "paint the light, not just the wood",
+        "distractors": [
+          "paint as fast as possible",
+          "never use bright colors",
+          "only copy photographs"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "What kind of brush did the master hand to Haider?",
+        "correct": "slender camel-hair brush",
+        "distractors": [
+          "rough floor brush",
+          "plastic sponge",
+          "metal palette knife"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why was the street filled with people on Friday?",
+        "correct": "it was the weekly book and cultural market",
+        "distractors": [
+          "a marathon race was happening",
+          "shops were giving free clothes",
+          "a political parade passed"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What color pigment did Haider apply to the windowsill?",
+        "correct": "golden ochre",
+        "distractors": [
+          "pitch black",
+          "bright pink",
+          "silver glitter"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What is the inspiring theme of this story?",
+        "correct": "learning to appreciate and capture the historic beauty of one's homeland",
+        "distractors": [
+          "selling books for high profit",
+          "how to build wooden balconies",
+          "drinking tea in crowded cafes"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 166
+  },
+  {
+    "id": "a2-first-camping-07",
+    "level": "A2",
+    "genre": "adventure",
+    "title": "Night Beneath the Northern Stars",
+    "titleAr": "ليلة تحت نجوم الشمال",
+    "emoji": "⛺",
+    "characters": [
+      {
+        "name": "Ziad",
+        "role": "camper"
+      },
+      {
+        "name": "Faris",
+        "role": "cousin"
+      },
+      {
+        "name": "Uncle Sardar",
+        "role": "guide"
+      }
+    ],
+    "setting": "a pine valley near the mountains of Sulaymaniyah",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "campsite_location",
+        "value": "pine-scented mountain meadow",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "dinner_cooked",
+        "value": "skewers of spiced kebab over wood coals",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "nocturnal_visitor",
+        "value": "a timid mountain fox with a bushy tail",
+        "sentence": 5
+      }
+    ],
+    "text": [
+      "High in the pine-scented mountains of Sulaymaniyah, Ziad and his cousin Faris set up their blue two-man tent beside a bubbling mountain stream. The summer air was refreshingly crisp compared to the blazing plains below.",
+      "Their uncle Sardar gathered dry pine branches and aromatic wild herbs to build a clean campfire on the stone clearing.",
+      "For dinner, they grilled skewers of spiced lamb kebab over glowing charcoal embers, wrapping the juicy meat in warm flatbread with fresh mint.",
+      "As darkness settled over the peaks, the sky transformed into a dazzling carpet of thousands of brilliant diamond stars unpolluted by city glare.",
+      "While they sat quietly sipping herbal thyme tea, a curious mountain fox with a thick bushy tail trotted near the edge of the firelight. It sniffed cautiously before vanishing back into the fragrant cedar woods.",
+      "Ziad zipped his sleeping bag that night with awe in his heart, listening to the peaceful song of the water rushing towards the valley."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "Where did the boys pitch their camping tent?",
+        "correct": "pine-scented mountain meadow",
+        "distractors": [
+          "dry desert dune",
+          "crowded city center",
+          "commercial seaport"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What did they grill over the campfire for dinner?",
+        "correct": "skewers of spiced kebab over wood coals",
+        "distractors": [
+          "canned baked beans",
+          "fried fish and chips",
+          "boiled eggs"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What nocturnal animal visited the edge of their campsite?",
+        "correct": "a timid mountain fox with a bushy tail",
+        "distractors": [
+          "a giant brown bear",
+          "a stray dog",
+          "a horned deer"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What did they drink by the firelight?",
+        "correct": "herbal thyme tea",
+        "distractors": [
+          "cold orange soda",
+          "sweet milk",
+          "salty yogurt"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why were the stars so remarkably visible?",
+        "correct": "the mountain air was unpolluted by city glare",
+        "distractors": [
+          "they had a telescope",
+          "a spotlight was pointed up",
+          "the moon was dark red"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "In which northern province was the campsite located?",
+        "correct": "Sulaymaniyah",
+        "distractors": [
+          "Basra",
+          "Anbar",
+          "Muthanna"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Who guided the boys and built the safe campfire?",
+        "correct": "Uncle Sardar",
+        "distractors": [
+          "a forest ranger",
+          "the school bus driver",
+          "Faris"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What feeling does the camping adventure convey?",
+        "correct": "peaceful wonder and respect for untouched nature",
+        "distractors": [
+          "fear of wild predators",
+          "how to buy camping gear",
+          "complaining about cold weather"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 162
+  },
+  {
+    "id": "a2-surprise-cake-08",
+    "level": "A2",
+    "genre": "family",
+    "title": "The Secret Birthday Sponge",
+    "titleAr": "كعكة عيد الميلاد السرية",
+    "emoji": "🎂",
+    "characters": [
+      {
+        "name": "Sarah",
+        "role": "young baker"
+      },
+      {
+        "name": "Rami",
+        "role": "brother"
+      },
+      {
+        "name": "Auntie Nadia",
+        "role": "aunt"
+      }
+    ],
+    "setting": "a kitchen in Mansour during mother's absence",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "celebrated_person",
+        "value": "mother's fortieth birthday",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "cake_flavor",
+        "value": "vanilla sponge filled with fresh strawberries and pistachio cream",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "secret_code",
+        "value": "two phone rings to warn when mother's car arrived",
+        "sentence": 5
+      }
+    ],
+    "text": [
+      "Mother was attending an important professional morning seminar across the bustling city, giving Sarah and her younger brother Rami three quiet, uninterrupted hours to orchestrate her memorable surprise fortieth birthday party.",
+      "With Auntie Nadia carefully supervising by the hot kitchen oven, Sarah beat fresh eggs and fine sugar into a fluffy golden cloud, measuring pure vanilla essence with remarkably steady hands.",
+      "Together they baked a delicate vanilla sponge cake, slicing it horizontally to spread delicious homemade strawberry jam and rich whipped pistachio cream between the fragrant layers.",
+      "Rami decorated the top with forty miniature white candles and thoughtfully arranged fresh bouquets of sweet white jasmine blossoms across the welcoming dining room table.",
+      "According to their clever secret plan, Auntie Nadia's phone rang twice—the agreed signal that mother's silver car had finally entered the driveway outside.",
+      "When mother gently opened the front door, the entire house was dark until candles flickered and everyone sang in joyful unison. Tears of touched joy sparkled in mother's surprised eyes as she hugged them warmly."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "Whose birthday were the siblings celebrating?",
+        "correct": "mother's fortieth birthday",
+        "distractors": [
+          "grandmother's seventieth",
+          "Rami's tenth",
+          "Auntie Nadia's fiftieth"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What filling was layered inside the sponge cake?",
+        "correct": "vanilla sponge filled with fresh strawberries and pistachio cream",
+        "distractors": [
+          "dark chocolate ganache",
+          "sour lemon curd",
+          "peanut butter"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "What signal warned them that mother's car had arrived?",
+        "correct": "two phone rings to warn when mother's car arrived",
+        "distractors": [
+          "a loud car horn",
+          "a text message",
+          "the dog barking"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "How many candles were placed on top of the cake?",
+        "correct": "forty",
+        "distractors": [
+          "ten",
+          "twenty",
+          "fifty"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q5",
+        "type": "detail",
+        "q": "What flowers were used to decorate the dining table?",
+        "correct": "jasmine blossoms",
+        "distractors": [
+          "red roses",
+          "sunflowers",
+          "daisies"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "cause",
+        "q": "Why were the children able to bake without mother seeing?",
+        "correct": "mother was attending a seminar across town",
+        "distractors": [
+          "mother was asleep upstairs",
+          "they baked at the restaurant",
+          "mother was on vacation abroad"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "Who supervised the hot oven safely?",
+        "correct": "Auntie Nadia",
+        "distractors": [
+          "the neighbor",
+          "Rami",
+          "the grandmother"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What sentiment drives the family's secret project?",
+        "correct": "loving gratitude and thoughtful celebration for a dedicated mother",
+        "distractors": [
+          "how to start a home bakery",
+          "competing for best birthday present",
+          "baking competitions"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 138
+  },
+  {
+    "id": "a2-stray-puppy-09",
+    "level": "A2",
+    "genre": "everyday",
+    "title": "A Rainy Rescue in Al-Mansour",
+    "titleAr": "إنقاذ تحت المطر في المنصور",
+    "emoji": "🐶",
+    "characters": [
+      {
+        "name": "Ameen",
+        "role": "schoolboy"
+      },
+      {
+        "name": "Dr. Haidar",
+        "role": "veterinarian"
+      },
+      {
+        "name": "Barfi",
+        "role": "rescued puppy"
+      }
+    ],
+    "setting": "a rain-soaked residential sidewalk",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "found_condition",
+        "value": "shivering inside an empty cardboard box",
+        "sentence": 2
+      },
+      {
+        "id": "f2",
+        "key": "medical_check",
+        "value": "warm bath, antibiotic ointment, and vaccines",
+        "sentence": 4
+      },
+      {
+        "id": "f3",
+        "key": "chosen_name",
+        "value": "Barfi because of snow-white paws",
+        "sentence": 6
+      }
+    ],
+    "text": [
+      "Heavy rainwater swirled along the wide curbs of Al-Mansour as young Ameen walked home from school, holding a broad black umbrella against the cold autumn storm.",
+      "Near a row of neighborhood recycling bins, he suddenly heard a faint whimpering sound echoing in the alley. Peering into a sodden cardboard box, he discovered a tiny golden puppy soaked and shivering uncontrollably in the damp chill.",
+      "Without any hesitation, Ameen wrapped his warm woolen winter scarf around the frightened creature and cradled it safely against his chest.",
+      "Instead of heading home immediately, he carried the puppy straight to Dr. Haidar's friendly veterinary clinic two blocks away. The kind vet bathed the pup in warm soapy water, treated a scratched paw, and gave it essential vitamins and soothing food.",
+      "Ameen's parents, initially hesitant about caring for house pets, immediately melted upon seeing the gentle golden ball sleeping peacefully on their living room rug.",
+      "They lovingly named him Barfi after his snow-white paws, welcoming him into the family as Ameen's faithful lifelong companion."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "Where was the shivering puppy discovered?",
+        "correct": "shivering inside an empty cardboard box",
+        "distractors": [
+          "under a parked car",
+          "inside a drain pipe",
+          "in the school yard"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "What did Ameen wrap the puppy with to keep it warm?",
+        "correct": "warm woolen scarf",
+        "distractors": [
+          "plastic bag",
+          "school notebook",
+          "rain jacket"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "Who provided immediate medical care to the puppy?",
+        "correct": "Dr. Haidar",
+        "distractors": [
+          "Ameen's mother",
+          "the school nurse",
+          "the shopkeeper"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "Why did they name the puppy Barfi?",
+        "correct": "Barfi because of snow-white paws",
+        "distractors": [
+          "because he was very loud",
+          "after a movie character",
+          "because he loved eating bread"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why did Ameen's parents allow the dog to stay?",
+        "correct": "they were touched by the gentle pup's innocence and Ameen's kindness",
+        "distractors": [
+          "they needed a guard dog",
+          "they won it in a contest",
+          "a friend forced them"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "What color was the puppy's fur?",
+        "correct": "tiny golden puppy with white paws",
+        "distractors": [
+          "jet black",
+          "gray and spotted",
+          "brown and black"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "In which Baghdad neighborhood did the rescue occur?",
+        "correct": "Al-Mansour",
+        "distractors": [
+          "Zayouna",
+          "Adhamiya",
+          "Yarmouk"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What noble quality does Ameen embody in this story?",
+        "correct": "compassion for helpless animals and immediate responsibility",
+        "distractors": [
+          "how to avoid rainstorms",
+          "buying expensive pet toys",
+          "training show dogs"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 143
+  },
+  {
+    "id": "a2-carpenters-clock-10",
+    "level": "A2",
+    "genre": "mystery",
+    "title": "The Clockmaker of Al-Rasheed",
+    "titleAr": "ساعاتي شارع الرشيد",
+    "emoji": "🕰️",
+    "characters": [
+      {
+        "name": "Jawad",
+        "role": "young horology enthusiast"
+      },
+      {
+        "name": "Amo Jalil",
+        "role": "master clockmaker"
+      }
+    ],
+    "setting": "a narrow century-old repair workshop ticking with hundreds of timepieces",
+    "facts": [
+      {
+        "id": "f1",
+        "key": "workshop_atmosphere",
+        "value": "hundreds of ticking gears and pendulum chimes",
+        "sentence": 1
+      },
+      {
+        "id": "f2",
+        "key": "broken_antique",
+        "value": "Swiss grandfather clock with wooden carved birds",
+        "sentence": 3
+      },
+      {
+        "id": "f3",
+        "key": "missing_piece",
+        "value": "tiny hand-filed brass escapement gear",
+        "sentence": 5
+      }
+    ],
+    "text": [
+      "Stepping into Amo Jalil's workshop on historic Al-Rasheed Street was like entering a magical living cathedral of time. The warm air hummed softly with hundreds of synchronized antique pendulums, intricate brass gears, and gentle rhythmic chimes.",
+      "Fifteen-year-old Jawad spent his quiet afternoons observing how the elderly horologist peered intently through a magnifying monocle, oiling delicate jewels with needle-fine precision.",
+      "One day, a valuable Swiss grandfather clock from the 1920s was brought in; its carved wooden birds had stood completely frozen at four o'clock for over thirty long years.",
+      "Every other repairer across the governorate had declared the clock irreparable due to an obsolete broken escapement wheel that was no longer manufactured.",
+      "Instead of giving up, Amo Jalil guided Jawad's hands at the micro-lathe, carving a replacement gear out of solid raw brass tooth by tooth with immense patience.",
+      "When the pendulum swung and the wooden birds chirped their musical chime precisely at five o'clock, Jawad understood that patience can resurrect history."
+    ],
+    "questionPool": [
+      {
+        "id": "q1",
+        "type": "detail",
+        "q": "On which historic street was the clock workshop located?",
+        "correct": "Al-Rasheed Street",
+        "distractors": [
+          "Kifah Street",
+          "Palestine Street",
+          "Saadoun Street"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q2",
+        "type": "detail",
+        "q": "At what time had the antique Swiss clock been frozen for thirty years?",
+        "correct": "four o'clock",
+        "distractors": [
+          "midnight",
+          "twelve o'clock",
+          "eight o'clock"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q3",
+        "type": "detail",
+        "q": "How did they solve the problem of the obsolete missing part?",
+        "correct": "tiny hand-filed brass escapement gear",
+        "distractors": [
+          "glued it with plastic",
+          "ordered a digital motor",
+          "removed the birds"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q4",
+        "type": "detail",
+        "q": "What special tool did Amo Jalil use to examine tiny parts?",
+        "correct": "magnifying monocle",
+        "distractors": [
+          "sunglasses",
+          "microscope camera",
+          "reading lamp"
+        ],
+        "factId": "f1"
+      },
+      {
+        "id": "q5",
+        "type": "cause",
+        "q": "Why had other repairers failed to fix the clock?",
+        "correct": "the replacement gear was obsolete and unavailable",
+        "distractors": [
+          "the wooden case was burnt",
+          "they had no key",
+          "the clock was cursed"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q6",
+        "type": "detail",
+        "q": "What decorated the antique Swiss clock?",
+        "correct": "wooden carved birds",
+        "distractors": [
+          "bronze lions",
+          "golden stars",
+          "painted flowers"
+        ],
+        "factId": "f2"
+      },
+      {
+        "id": "q7",
+        "type": "detail",
+        "q": "What metal was used to carve the new gear?",
+        "correct": "solid raw brass",
+        "distractors": [
+          "soft aluminum",
+          "cast iron",
+          "pure silver"
+        ],
+        "factId": "f3"
+      },
+      {
+        "id": "q8",
+        "type": "main_idea",
+        "q": "What timeless philosophy does the craft master teach?",
+        "correct": "patience, mastery, and dedication can restore the past to life",
+        "distractors": [
+          "digital watches are better",
+          "how to buy cheap clocks",
+          "working quickly to earn money"
+        ],
+        "factId": "f3"
+      }
+    ],
+    "_wordCount": 143
+  }
+]

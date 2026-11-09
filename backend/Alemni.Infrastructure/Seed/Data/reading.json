@@ -1,0 +1,1726 @@
+[
+  {
+    "id": "a1-morning",
+    "level": "A1",
+    "title": "My Daily Morning",
+    "titleAr": "صباحي اليومي",
+    "paragraphs": [
+      {
+        "sentences": [
+          "My name is Sara, and I live in Baghdad with my family.",
+          "Every morning, I wake up at six o'clock before everyone else.",
+          "I wash my face with fresh cold water and brush my teeth carefully.",
+          "Then, I help my mother make warm black tea and fresh bread in our kitchen."
+        ],
+        "translation": [
+          "اسمي سارة، وأعيش في بغداد مع عائلتي.",
+          "كل صباح، أستيقظ عند الساعة السادسة قبل الجميع.",
+          "أغسل وجهي بالماء البارد المنعش وأنظف أسناني بالفرشاة بعناية.",
+          "ثم أساعد أمي في إعداد الشاي الأسود الدافئ والخبز الطازج في مطبخنا."
+        ]
+      },
+      {
+        "sentences": [
+          "At seven o'clock, my father and my brother Ali sit at the table.",
+          "We eat white cheese, sweet honey, and boiled eggs together.",
+          "Ali drinks fresh milk because he wants to grow strong and tall.",
+          "My father always smiles and tells us good stories before he leaves for his shop."
+        ],
+        "translation": [
+          "في الساعة السابعة، يجلس والدي وأخي علي على المائدة.",
+          "نأكل الجبن الأبيض والعسل الحلو والبيض المسلوق معًا.",
+          "يشرب علي الحليب الطازج لأنه يريد أن يكبر قويًا وطويل القامة.",
+          "يبتسم والدي دائمًا ويخبرنا بقصص جميلة قبل أن يغادر إلى متجره."
+        ]
+      },
+      {
+        "sentences": [
+          "After breakfast, I put my notebooks, pens, and books into my blue bag.",
+          "I walk to school with my best friend Lina under the morning sun.",
+          "The school bell rings at eight o'clock, and our teacher enters the bright classroom.",
+          "I feel very happy because every morning brings a new chance to learn and play."
+        ],
+        "translation": [
+          "بعد الفطور، أضع دفاتري وأقلامي وكتبي في حقيبتي الزرقاء.",
+          "أمشي إلى المدرسة مع صديقتي المفضلة لينا تحت شمس الصباح.",
+          "يرن جرس المدرسة في الساعة الثامنة، وتدخل معلمتنا إلى الصف المشرق.",
+          "أشعر بالسعادة الكبيرة لأن كل صباح يحمل فرصة جديدة للتعلم واللعب."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "detail",
+        "q": "في أي ساعة تستيقظ سارة كل صباح؟",
+        "qEn": null,
+        "options": [
+          "السادسة",
+          "ال作出ابعة",
+          "الثامنة",
+          "التاسعة"
+        ],
+        "answer": 0,
+        "evidence": 1,
+        "explanationAr": "تذكر سارة بوضوح في الجملة الثانية: Every morning, I wake up at six o'clock."
+      },
+      {
+        "type": "detail",
+        "q": "ماذا يشرب أخوها علي على مائدة الإفطار؟",
+        "qEn": null,
+        "options": [
+          "الحليب الطازج",
+          "عصير البرتقال",
+          "القهوة السوداء",
+          "الشاي فقط"
+        ],
+        "answer": 0,
+        "evidence": 6,
+        "explanationAr": "تذكر الفقرة الثانية: Ali drinks fresh milk because he wants to grow strong."
+      },
+      {
+        "type": "inference",
+        "q": "كيف تذهب سارة إلى مدرستها؟",
+        "qEn": null,
+        "options": [
+          "مشيًا على الأقدام مع صديقتها",
+          "بالحافلة الصفراء",
+          "بسيارة والدها",
+          "بالقطار السريع"
+        ],
+        "answer": 0,
+        "evidence": 9,
+        "explanationAr": "تذكر الفقرة الثالثة: I walk to school with my best friend Lina."
+      },
+      {
+        "type": "main_idea",
+        "q": "ما هي الفكرة الأساسية من هذه القطعة؟",
+        "qEn": null,
+        "options": [
+          "روتين صباحي منظم وسعيد لطالبة مع عائلتها",
+          "صعوبة الاستيقاظ باكرًا في الشتاء",
+          "كيفية طهي الطعام العراقي",
+          "مباراة كرة قدم في المدرسة"
+        ],
+        "answer": 0,
+        "evidence": 11,
+        "explanationAr": "النص يصف بتفاصيل مترابطة بداية يوم سارة من الاستيقاظ حتى الوصول للمدرسة بروح إيجابية."
+      }
+    ]
+  },
+  {
+    "id": "a1-market",
+    "level": "A1",
+    "title": "At the Local Market",
+    "titleAr": "في السوق المحلي",
+    "paragraphs": [
+      {
+        "sentences": [
+          "On Saturday morning, Omar visits the popular local market with his uncle Ahmed.",
+          "The narrow streets are full of cheerful people, bright colors, and wonderful smells.",
+          "Sellers loudly call out to describe their delicious sweet fruit and fresh vegetables.",
+          "Omar carries a large brown basket to hold everything they plan to buy today."
+        ],
+        "translation": [
+          "في صباح يوم السبت، يزور عمر السوق المحلي الشعبي برفقة عمه أحمد.",
+          "الشوارع الضيقة مليئة بالناس المبتسمين والألوان الزاهية والروائح الرائعة.",
+          "ينادي الباعة بصوت عالٍ ليصفوا فواكههم الحلوة اللذيذة وخضرواتهم الطازجة.",
+          "يحمل عمر سلة بنية كبيرة ليضع فيها كل ما يخططون لشرائه اليوم."
+        ]
+      },
+      {
+        "sentences": [
+          "First, they stop near a big fruit stall covered with clean green cloth.",
+          "Uncle Ahmed chooses five red apples, four yellow bananas, and three sweet oranges.",
+          "The kind seller smiles warmly and gives Omar a small ripe fig to taste.",
+          "Omar thanks the man politely because the fig is very sweet and juicy."
+        ],
+        "translation": [
+          "أولاً، يتوقفان قرب كشك فواكه كبير مغطى بقماش أخضر نظيف.",
+          "يختار العم أحمد خمس تفاحات حمراء، وأربع موزات صفراء، وثلاث برتقالات حلوة.",
+          "يبتسم البائع اللطيف بدفء ويعطي عمر تينة ناضجة صغيرة ليتذوقها.",
+          "يشكر عمر الرجل بأدب لأن التينة كانت حلوة جدًا ومليئة بالعصير."
+        ]
+      },
+      {
+        "sentences": [
+          "Next, they walk to the bakery at the end of the busy market lane.",
+          "A friendly baker takes hot golden samoon out of a traditional clay oven.",
+          "They purchase ten warm pieces, and Omar happily holds the warm paper bag.",
+          "Shopping at the market is always fun because everyone is friendly, helpful, and kind."
+        ],
+        "translation": [
+          "بعد ذلك، يسيران نحو المخبز في نهاية زقاق السوق المزدحم.",
+          "يُخرج خباز ودود صمونًا ذهبيًا ساخنًا من تنور طيني تقليدي.",
+          "يشتريان عشر قطع دافئة، ويحمل عمر الكيس الورقي الدافئ بسعادة.",
+          "التسوق في السوق ممتع دائمًا لأن الجميع ودودون ومتعاونون ولطفاء."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "detail",
+        "q": "في أي يوم يذهب عمر إلى السوق؟",
+        "qEn": null,
+        "options": [
+          "السبت",
+          "الجمعة",
+          "الإثنين",
+          "الأربعاء"
+        ],
+        "answer": 0,
+        "evidence": 0,
+        "explanationAr": "تبدأ القصة بـ: On Saturday morning, Omar visits the popular local market."
+      },
+      {
+        "type": "detail",
+        "q": "ماذا أهدى بائع الفواكه لعمر ليتذوقه؟",
+        "qEn": null,
+        "options": [
+          "تينة صغيرة ناضجة",
+          "تفاحة خضراء",
+          "قطعة حلوى",
+          "عنقود عنب"
+        ],
+        "answer": 0,
+        "evidence": 6,
+        "explanationAr": "تذكر الجملة: gives Omar a small ripe fig to taste."
+      },
+      {
+        "type": "detail",
+        "q": "ماذا اشترى العم أحمد من المخبز؟",
+        "qEn": null,
+        "options": [
+          "عشر قطع صمون ساخن",
+          "كعكة شوكولاتة",
+          "فطائر جبن",
+          "خبز توست أبيض"
+        ],
+        "answer": 0,
+        "evidence": 10,
+        "explanationAr": "توضح الفقرة الثالثة: They purchase ten warm pieces [of samoon]."
+      },
+      {
+        "type": "main_idea",
+        "q": "ما هو الانطباع العام لعمر عن زيارة السوق؟",
+        "qEn": null,
+        "options": [
+          "تجربة ممتعة ومريحة مع أناس طيبين",
+          "مكان مزعج وممل يفضل تجنبه",
+          "رحلة صعبة ومكلفة للغاية",
+          "مكان مظلم وخالٍ من المارة"
+        ],
+        "answer": 0,
+        "evidence": 11,
+        "explanationAr": "تختتم القصة بـ: Shopping at the market is always fun because everyone is friendly."
+      }
+    ]
+  },
+  {
+    "id": "a1-school",
+    "level": "A1",
+    "title": "My New School Day",
+    "titleAr": "يومي المدرسي الجديد",
+    "paragraphs": [
+      {
+        "sentences": [
+          "Today is the first day of the new autumn school semester.",
+          "Hassan wakes up early, wears his neat uniform, and polishes his black shoes.",
+          "His mother gives him a cheese sandwich and a shiny red apple.",
+          "Hassan feels excited because he missed his loyal classmates and kind teachers."
+        ],
+        "translation": [
+          "اليوم هو أول أيام الفصل الدراسي الخريفي الجديد.",
+          "يستيقظ حسن مبكرًا، ويرتدي زيه المرتب، ويلمع حذاءه الأسود.",
+          "تعطيه والدته شطيرة جبن وتفاحة حمراء لامعة.",
+          "يشعر حسن بالحماس الشديد لأنه اشتاق لزملائه الأوفياء ومعلميه الطيبين."
+        ]
+      },
+      {
+        "sentences": [
+          "At the school gate, students greet each other with loud cheerful laughter.",
+          "In the first lesson, Mr. Kareem teaches English vocabulary using colorful cards.",
+          "Every student practices pronouncing words like library, science, and pencil correctly.",
+          "Hassan answers two questions correctly and receives warm praise from his teacher."
+        ],
+        "translation": [
+          "عند بوابة المدرسة، يحيي الطلاب بعضهم بضحكات مبهجة وعالية.",
+          "في الدرس الأول، يدرّس الأستاذ كريم مفردات اللغة الإنجليزية باستخدام بطاقات ملونة.",
+          "يتدرب كل طالب على نطق كلمات مثل مكتبة، علوم، وقلم رصاص بشكل صحيح.",
+          "يجيب حسن على سؤالين بشكل سليم وينال ثناءً دافئًا من معلمه."
+        ]
+      },
+      {
+        "sentences": [
+          "During break time, Hassan runs to the school playground with his close friends.",
+          "They play football on the field and share sandwiches under shady palm trees.",
+          "When the final bell rings, Hassan returns home full of proud joy.",
+          "He tells his parents about his wonderful day before finishing his homework."
+        ],
+        "translation": [
+          "خلال وقت الاستراحة، يركض حسن إلى باحة المدرسة مع أصدقائه المقربين.",
+          "يلعبون كرة القدم في الملعب ويتشاركون الشطائر تحت أشجار النخيل الظليلة.",
+          "عندما يرن الجرس الأخير، يعود حسن إلى البيت مفعمًا بفرح الفخر.",
+          "يخبر والديه عن يومه الرائع قبل أن ينهي واجباته المدرسية."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "detail",
+        "q": "ماذا أعطت الأم لحسن لوجبة الغداء؟",
+        "qEn": null,
+        "options": [
+          "شطيرة جبن وتفاحة حمراء",
+          "علبة بسكويت وعصير",
+          "طبق حساء دافئ",
+          "قطعة بيتزا"
+        ],
+        "answer": 0,
+        "evidence": 2,
+        "explanationAr": "تذكر الجملة الثالثة: His mother gives him a cheese sandwich and a shiny red apple."
+      },
+      {
+        "type": "detail",
+        "q": "ما هي المادة التي درّسها الأستاذ كريم في الحصة الأولى؟",
+        "qEn": null,
+        "options": [
+          "اللغة الإنجليزية",
+          "الرياضيات",
+          "التاريخ",
+          "الرسم"
+        ],
+        "answer": 0,
+        "evidence": 5,
+        "explanationAr": "تذكر الفقرة الثانية: Mr. Kareem teaches English vocabulary using colorful picture cards."
+      },
+      {
+        "type": "detail",
+        "q": "ماذا فعل الطلاب خلال وقت الاستراحة؟",
+        "qEn": null,
+        "options": [
+          "لعبوا كرة القدم وتشاركوا الطعام تحت النخيل",
+          "قرؤوا كتبًا في المكتبة بهدوء",
+          "بقوا نائمين في الفصل",
+          "غادروا المدرسة إلى منازلهم"
+        ],
+        "answer": 0,
+        "evidence": 9,
+        "explanationAr": "توضح الفقرة الثالثة: They play football on the field and share their sandwiches."
+      },
+      {
+        "type": "main_idea",
+        "q": "ما الرسالة الأساسية التي تبرزها القصة؟",
+        "qEn": null,
+        "options": [
+          "حب المدرسة والشغف بالتعلم مع الأصدقاء",
+          "صعوبة المناهج الدراسية الحديثة",
+          "أهمية ممارسة الرياضة وحدها",
+          "كيفية شراء الزي المدرسي"
+        ],
+        "answer": 0,
+        "evidence": 11,
+        "explanationAr": "تُظهر القصة يومًا دراسيًا مفعمًا بالنشاط الإيجابي والتفوق والشعور بالسعادة والفخر."
+      }
+    ]
+  },
+  {
+    "id": "a2-family-dinner",
+    "level": "A2",
+    "title": "Friday Family Gathering",
+    "titleAr": "اجتماع العائلة يوم الجمعة",
+    "paragraphs": [
+      {
+        "sentences": [
+          "Friday is the most important day of the week for Mustafa and his relatives.",
+          "In Iraq, families usually gather at the grandparents' house to share delicious food and warm memories.",
+          "Early in the morning, grandmother prepares a magnificent pot of Iraqi Dolma with vine leaves, zucchini, and tender meat.",
+          "The house fills with an inviting herbal aroma that makes everyone anticipate lunch with intense excitement."
+        ],
+        "translation": [
+          "يوم الجمعة هو أهم أيام الأسبوع بالنسبة لمصطفى وأقاربه.",
+          "في العراق، تجتمع العائلات عادة في بيت الجدين لمشاركة الطعام الشهي والذكريات الدافئة.",
+          "في الصباح الباكر، تعد الجدة قدرًا فخمًا من الدولمة العراقية بأوراق العنب والكوسا واللحم الطري.",
+          "يمتلئ البيت برائحة عشبية شهية تجعل الجميع يترقبون الغداء بحماس شديد."
+        ]
+      },
+      {
+        "sentences": [
+          "By noon, uncles, aunts, and young cousins arrive from different parts of the city.",
+          "The children greet the grandfather respectfully, kissing his hand as a sign of deep honor.",
+          "He smiles, gently pats their shoulders, and hands each of them coins or colorful sweets.",
+          "Soon, the living room resonates with noisy laughter, passionate stories, and energetic childhood games."
+        ],
+        "translation": [
+          "بحلول الظهيرة، يصل الأعمام والعمات وأبناء العمومة من مناطق مختلفة من المدينة.",
+          "يحيي الأطفال جدهم باحترام، ويقبلون يده تعبيرًا عن التقدير العميق.",
+          "يبتسم الجد، ويربت بلطف على أكتافهم، ويعطي كل واحد منهم نقودًا معدنية أو حلوى ملونة.",
+          "وسرعان ما تصدح غرفة المعيشة بالضحك الصاخب والقصص الحماسية وألعاب الطفولة المليئة بالحيوية."
+        ]
+      },
+      {
+        "sentences": [
+          "When lunch is served, everyone sits together on comfortable woven carpets around a gigantic tray.",
+          "They eat warm dolma, roasted chicken, fresh cucumbers, and fragrant green mint leaves.",
+          "Uncle Tariq recounts funny historical incidents from his university days in Mosul twenty years ago.",
+          "Mustafa listens intently, admiring how stories connect older generations with curious young listeners."
+        ],
+        "translation": [
+          "عند تقديم الغداء، يجلس الجميع معًا على سجاد منسوج ومريح حول صينية عملاقة.",
+          "يأكلون الدولمة الدافئة والدجاج المشوي والخيار الطازج وأوراق النعناع الأخضر العطرة.",
+          "يروي العم طارق مواقف تاريخية مضحكة من أيام دراسته الجامعية في الموصل قبل عشرين عامًا.",
+          "يصغي مصطفى باهتمام، معجبًا بكيفية ربط القصص بين الأجيال الأكبر والمستمعين الصغار الفضوليين."
+        ]
+      },
+      {
+        "sentences": [
+          "After finishing the rich meal, grandmother serves traditional cardamom tea in small curved glass cups called Istikan.",
+          "The adults slowly sip their hot amber tea while debating current events and family plans.",
+          "Meanwhile, the cousins play competitive board games in the sunny courtyard until sunset.",
+          "Mustafa feels thankful for these weekly gatherings because genuine family bonds bring peace and lasting strength."
+        ],
+        "translation": [
+          "بعد الانتهاء من الوجبة الدسمة، تقدم الجدة شاي الهيل التقليدي في كؤوس زجاجية صغيرة تسمى استكان.",
+          "يرتشف الكبار شايهم الحار ببطء بينما يتناقشون حول الأحداث الحالية وخطط العائلة.",
+          "وفي هذه الأثناء، يلعب أبناء العم ألعاب طاولة تنافسية في الفناء المشمس حتى غروب الشمس.",
+          "يشعر مصطفى بالامتنان لهذه اللقاءات الأسبوعية لأن الروابط الأسرية الحقيقية تمنح الطمأنينة والقوة الدائمة."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "detail",
+        "q": "أين تجتمع عائلة مصطفى يوم الجمعة عادة؟",
+        "qEn": null,
+        "options": [
+          "في بيت الجدين",
+          "في مطعم سياحي",
+          "في حديقة عامة",
+          "في منزل العم طارق"
+        ],
+        "answer": 0,
+        "evidence": 1,
+        "explanationAr": "تذكر الجملة الثانية: families usually gather at the grandparents' house."
+      },
+      {
+        "type": "detail",
+        "q": "ما هي الوجبة الرئيسية التقليدية التي أعدتها الجدة؟",
+        "qEn": null,
+        "options": [
+          "الدولمة العراقية",
+          "السمك المسكوف",
+          "البرياني باللحم",
+          "حساء العدس"
+        ],
+        "answer": 0,
+        "evidence": 2,
+        "explanationAr": "توضح الفقرة الأولى: grandmother prepares a magnificent pot of Iraqi Dolma."
+      },
+      {
+        "type": "detail",
+        "q": "عن ماذا تحدث العم طارق خلال الغداء؟",
+        "qEn": null,
+        "options": [
+          "مواقف مضحكة من دراسته الجامعية في الموصل",
+          "مباراة كرة قدم سابقة",
+          "خطط شراء سيارة جديدة",
+          "سفرة صيفية إلى الخارج"
+        ],
+        "answer": 0,
+        "evidence": 10,
+        "explanationAr": "تذكر الجملة: Uncle Tariq recounts funny historical incidents from his university days in Mosul."
+      },
+      {
+        "type": "vocabulary",
+        "q": "ماذا يُقصد بكلمة (Istikan) المذكورة في النص؟",
+        "qEn": null,
+        "options": [
+          "كأس زجاجي صغير تقليدي لتقديم الشاي",
+          "نوع من التوابل العطرية",
+          "حلوى عراقية قديمة",
+          "إبريق شاي فضي"
+        ],
+        "answer": 0,
+        "evidence": 12,
+        "explanationAr": "يوضح النص: cardamom tea in small curved glass cups called Istikan."
+      },
+      {
+        "type": "main_idea",
+        "q": "ما هي القيمة الأهم التي يؤكد عليها الكاتب في ختام القطعة؟",
+        "qEn": null,
+        "options": [
+          "أهمية الروابط الأسرية في منح الطمأنينة والدعم المعنوي",
+          "ضرورة شرب الشاي بعد الوجبات الدسمة",
+          "أفضلية السكن في بيوت الجدود الكبيرة",
+          "قواعد لعب ألعاب الطاولة التنافسية"
+        ],
+        "answer": 0,
+        "evidence": 15,
+        "explanationAr": "تختتم القصة بـ: genuine family bonds bring peace and lasting strength."
+      }
+    ]
+  },
+  {
+    "id": "a2-sports-club",
+    "level": "A2",
+    "title": "Joining the Sports Club",
+    "titleAr": "الانضمام للنادي الرياضي",
+    "paragraphs": [
+      {
+        "sentences": [
+          "Last month, Bilal noticed that he was spending too many inactive hours looking at computer screens.",
+          "He often felt sluggish, tired, and lacked the stamina required for daily outdoor activities.",
+          "Therefore, his elder cousin suggested that they both register at the neighborhood youth sports academy.",
+          "Bilal felt nervous at first because he had never trained regularly inside a structured athletic facility before."
+        ],
+        "translation": [
+          "الشهر الماضي، لاحظ بلال أنه يقضي ساعات طويلة خاملة وهو ينظر إلى شاشات الحاسوب.",
+          "كان يشعر غالبًا بالكسل والتعب ويفتقر إلى القدرة على التحمل اللازمة للأنشطة اليومية في الهواء الطلق.",
+          "لذا، اقترح ابن عمه الأكبر أن يسجلا معًا في أكاديمية الشباب الرياضية في الحي.",
+          "شعر بلال بالتوتر في البداية لأنه لم يتدرب بانتظام داخل منشأة رياضية منظمة من قبل."
+        ]
+      },
+      {
+        "sentences": [
+          "On their initial day, Coach Zaid welcomed the newcomers and explained the essential training safety regulations.",
+          "He emphasized that consistency, adequate hydration, and balanced nutrition matter far more than excessive speed or heavy weights.",
+          "First, they completed ten minutes of dynamic stretching to warm up muscles and prevent unnecessary joint injury.",
+          "Then, the coach divided the young trainees into small groups to practice passing drills and defensive coordination."
+        ],
+        "translation": [
+          "في يومهما الأول، رحب المدرب زيد بالوافدين الجدد وشرح تعليمات السلامة التدريبية الأساسية.",
+          "وأكد أن الاستمرارية والترطيب الكافي والتغذية المتوازنة أهم بكثير من السرعة المفرطة أو الأوزان الثقيلة.",
+          "أولاً، أكملوا عشر دقائق من الإطالات الديناميكية لتحمية العضلات وتجنب إصابات المفاصل غير الضرورية.",
+          "ثم قسّم المدرب المتدربين الشباب إلى مجموعات صغيرة للتدرب على مهارات التمرير والتنسيق الدفاعي."
+        ]
+      },
+      {
+        "sentences": [
+          "Although Bilal felt exhausted after thirty minutes of continuous running, his teammates cheered him enthusiastically.",
+          "Whenever someone made a silly mistake, the coach offered patient correction rather than harsh criticism.",
+          "By the end of the session, Bilal succeeded in scoring a wonderful goal during the final training match.",
+          "His confidence skyrocketed as his new friends clapped and congratulated him with warm, genuine smiles."
+        ],
+        "translation": [
+          "ورغم أن بلال شعر بالإرهاق بعد ثلاثين دقيقة من الجري المتواصل، إلا أن زملاءه شجعوه بحماس كبير.",
+          "وكلما ارتكب شخص ما خطأ بسيطًا، كان المدرب يقدم تصحيحًا صبورًا بدلاً من النقد القاسي.",
+          "ومع نهاية الحصة، نجح بلال في تسجيل هدف رائع خلال المباراة التدريبية الأخيرة.",
+          "وارتفعت ثقته بنفسه عاليًا حين صفق له أصدقاؤه الجدد وهنأوه بابتسامات دافئة وصادقة."
+        ]
+      },
+      {
+        "sentences": [
+          "Now, Bilal attends the club three afternoons every single week with discipline and genuine joy.",
+          "He sleeps much better at night, concentrates easily during school classes, and feels physically energetic all day.",
+          "Physical exercise not only sculpted his body but also taught him patience, resilience, and true teamwork.",
+          "He encourages all his classmates to leave sedentary digital habits and experience the transformative benefits of athletic discipline."
+        ],
+        "translation": [
+          "الآن، يحضر بلال إلى النادي ثلاثة أيام بعد الظهر كل أسبوع بانضباط وفرح حقيقي.",
+          "صار ينام أفضل بكثير في الليل، ويركز بسهولة خلال الحصص المدرسية، ويشعر بالنشاط الجسدي طوال اليوم.",
+          "التمارين البدنية لم تصقل جسده فحسب، بل علمته الصبر والمرونة والعمل الجماعي الحقيقي.",
+          "وهو يشجع جميع زملائه في الصف على ترك العادات الرقمية الخاملة وتجربة الفوائد المذهلة للانضباط الرياضي."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "detail",
+        "q": "لماذا قرر بلال التسجيل في النادي الرياضي؟",
+        "qEn": null,
+        "options": [
+          "لأنه كان يقضي ساعات خاملة طويلة أمام الشاشات ويشعر بالكسل",
+          "لأنه أراد أن يصبح لاعبًا محترفًا في أوروبا",
+          "بسبب طلب مباشر من مديرة مدرسته",
+          "لأنه كان يبحث عن وظيفة مدرب بدني"
+        ],
+        "answer": 0,
+        "evidence": 0,
+        "explanationAr": "توضح الجملتان الأولى والثانية أنه كان يقضي ساعات طويلة بلا نشاط ويشعر بالتعب."
+      },
+      {
+        "type": "detail",
+        "q": "ما النصيحة التي ركز عليها المدرب زيد في اليوم الأول؟",
+        "qEn": null,
+        "options": [
+          "الاستمرارية والتغذية وشرب الماء أهم من السرعة المفرطة",
+          "ضرورة رفع أوزان ثقيلة جدًا منذ البداية",
+          "تجنب التحدث مع بقية الزملاء في الملعب",
+          "التدريب لمدة خمس ساعات متواصلة يوميًا"
+        ],
+        "answer": 0,
+        "evidence": 5,
+        "explanationAr": "تذكر الفقرة الثانية: consistency, adequate hydration, and balanced nutrition matter far more."
+      },
+      {
+        "type": "detail",
+        "q": "ما الإنجاز الذي حققه بلال في نهاية الحصة الأولى؟",
+        "qEn": null,
+        "options": [
+          "تسجيل هدف رائع في المباراة التدريبية الختامية",
+          "الفوز بكأس البطولة المحلية",
+          "تحطيم الرقم القياسي في الجري السريع",
+          "الحصول على شارة قائد الفريق"
+        ],
+        "answer": 0,
+        "evidence": 10,
+        "explanationAr": "تذكر الفقرة الثالثة: Bilal succeeded in scoring a wonderful goal during the final training match."
+      },
+      {
+        "type": "inference",
+        "q": "كم مرة في الأسبوع يتدرب بلال حاليًا في النادي؟",
+        "qEn": null,
+        "options": [
+          "ثلاث مرات أسبوعيًا",
+          "مرة واحدة فقط في عطلة الأسبوع",
+          "كل يوم بدون أي راحة",
+          "مرتين في الشهر"
+        ],
+        "answer": 0,
+        "evidence": 12,
+        "explanationAr": "تذكر الفقرة الرابعة بوضوح: Bilal attends the club three afternoons every single week."
+      },
+      {
+        "type": "main_idea",
+        "q": "ما هي الفكرة الشاملة التي تنقلها تجربة بلال؟",
+        "qEn": null,
+        "options": [
+          "الرياضة المنتظمة تعزز الصحة البدنية والنفسية وتكسب مهارات العمل الجماعي",
+          "الرياضة تضيع وقت الدراسة والواجبات",
+          "ألعاب الفيديو أفضل للصحة من التمارين الشاقة",
+          "التدريب بدون مدرب أفضل وأسرع للنتائج"
+        ],
+        "answer": 0,
+        "evidence": 14,
+        "explanationAr": "توضح الفقرة الأخيرة أن الرياضة حسنت نومه وتركيزه وعلمته الصبر وروح الفريق."
+      }
+    ]
+  },
+  {
+    "id": "a2-travel-erbil",
+    "level": "A2",
+    "title": "A Road Trip to Erbil",
+    "titleAr": "رحلة برية إلى أربيل",
+    "paragraphs": [
+      {
+        "sentences": [
+          "During the pleasant spring holiday, Youssef and his family arranged an exciting northern road trip.",
+          "They packed warm jackets, cameras, and delicious snacks before departing from Baghdad in their family vehicle.",
+          "As the vehicle traveled along the highway, flat southern landscapes gradually transformed into rolling green hills.",
+          "Youssef watched ancient historical monuments and picturesque small villages glide past his car window with sheer delight."
+        ],
+        "translation": [
+          "خلال عطلة الربيع اللطيفة، رتب يوسف وعائلته رحلة برية شمالية مشوقة.",
+          "حزموا سترات دافئة وكاميرات ووجبات خفيفة لذيذة قبل المغادرة من بغداد في سيارة العائلة.",
+          "ومع سير السيارة على الطريق السريع، تحولت المناظر الطبيعية الجنوبية المنبسطة تدريجيًا إلى تلال خضراء متموجة.",
+          "راقب يوسف المعالم التاريخية القديمة والقرى الصغيرة الجميلة وهي تمر بجوار نافذة السيارة بفرح خالص."
+        ]
+      },
+      {
+        "sentences": [
+          "After five scenic hours of driving, the ancient historic Citadel of Erbil emerged on the northern horizon.",
+          "The towering brick fortress stands majestically atop a circular mound overlooking the buzzing city center.",
+          "They strolled through traditional textile alleys inside Qaysari Bazaar, where merchants sold handmade rugs and natural honey.",
+          "The pleasant aroma of roasted pistachios and freshly brewed cardamom coffee permeated the crowded covered corridors."
+        ],
+        "translation": [
+          "وبعد خمس ساعات من القيادة عبر مناظر خلابة، ظهرت قلعة أربيل التاريخية القديمة في الأفق الشمالي.",
+          "تقف القلعة المبنية من الطوب بشموخ فوق تل دائري يطل على مركز المدينة النابض بالحياة.",
+          "تجولوا في أزقة المنسوجات التقليدية داخل سوق القيصرية، حيث كان التجار يبيعون السجاد اليدوي والعسل الطبيعي.",
+          "كانت الرائحة العطرة للفستق المحمص وقهوة الهيل الطازجة تتخلل الممرات المسقوفة المزدحمة."
+        ]
+      },
+      {
+        "sentences": [
+          "The following afternoon, the family ventured toward the mountainous district of Gali Ali Bag.",
+          "Spectacular cascading waterfalls tumbled over limestone cliffs, producing cool misty clouds and soothing musical sounds.",
+          "Youssef dipped his fingers into the freezing crystalline stream and laughed when small fish darted past him.",
+          "They enjoyed a delightful picnic lunch on wooden benches while admiring towering peaks covered in wild spring flowers."
+        ],
+        "translation": [
+          "في بعد ظهر اليوم التالي، انطلقت العائلة نحو منطقة شلال كلي علي بك الجبلية.",
+          "كانت الشلالات المائية الرائعة تتدفق فوق المنحدرات الكلسية، صانعة سحبًا رذاذية باردة وأصواتًا موسيقية مهدئة.",
+          "غمس يوسف أصابعه في الجدول الصافي شديد البرودة وضحك حين مرت أسماك صغيرة مسرعة بجواره.",
+          "استمتعوا بنزهة غداء ممتعة على مقاعد خشبية وهم يتأملون القمم الشاهقة المغطاة بزهور الربيع البرية."
+        ]
+      },
+      {
+        "sentences": [
+          "On their return journey home, everyone talked happily about their favorite memories from the mountainous northern province.",
+          "Youssef captured hundreds of colorful photographs to share with his school peers and proud grandparents.",
+          "Traveling across different regions of their country broadened his perspective and deepened his appreciation for local diversity.",
+          "He resolved to read more geography books and explore other cultural landmarks during future seasonal holidays."
+        ],
+        "translation": [
+          "وفي طريق العودة إلى الديار، تحدث الجميع بسعادة عن ذكرياتهم المفضلة في المحافظة الشمالية الجبلية.",
+          "التقط يوسف مئات الصور الملونة ليشاركها مع زملائه في المدرسة وجديه الفخورين.",
+          "إن السفر عبر مناطق بلاده المختلفة وسّع مداركه وعمّق تقديره للتنوع المحلي الغني.",
+          "وعقد العزم على قراءة المزيد من كتب الجغرافيا واستكشاف معالم ثقافية أخرى خلال العطلات الموسمية القادمة."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "detail",
+        "q": "في أي فصل من فصول السنة قامت العائلة بهذه الرحلة؟",
+        "qEn": null,
+        "options": [
+          "فصل الربيع",
+          "منتصف الصيف الحار",
+          "فصل الشتاء الثلجي",
+          "أواخر الخريف"
+        ],
+        "answer": 0,
+        "evidence": 0,
+        "explanationAr": "تذكر الجملة الأولى: During the pleasant spring holiday, Youssef and his family arranged an exciting trip."
+      },
+      {
+        "type": "detail",
+        "q": "ما هو المعلم التاريخي البارز الذي زاروه داخل مدينة أربيل؟",
+        "qEn": null,
+        "options": [
+          "قلعة أربيل وسوق القيصرية",
+          "منارة الحدباء",
+          "آثار بابل القديمة",
+          "المتحف الوطني"
+        ],
+        "answer": 0,
+        "evidence": 4,
+        "explanationAr": "توضح الفقرة الثانية زيارة قلعة أربيل (Citadel) وسوق القيصرية."
+      },
+      {
+        "type": "detail",
+        "q": "ما المعلم الطبيعي الذي زارته العائلة في اليوم الثاني؟",
+        "qEn": null,
+        "options": [
+          "شلالات كلي علي بك",
+          "بحيرة الحبانية",
+          "أهوار الجبايش",
+          "جبل سنجار"
+        ],
+        "answer": 0,
+        "evidence": 8,
+        "explanationAr": "تذكر الفقرة الثالثة: the family ventured toward the mountainous district of Gali Ali Bag."
+      },
+      {
+        "type": "inference",
+        "q": "ماذا فعل يوسف للاحتفاظ بذكريات الرحلة ومشاركتها مع أصدقائه؟",
+        "qEn": null,
+        "options": [
+          "التقط مئات الصور الفوتوغرافية الملونة",
+          "اشترى سجادًا يدويًا لكل زميل",
+          "كتب مقالاً طويلاً في صحيفة محلية",
+          "رسم خريطة جغرافية للمدينة"
+        ],
+        "answer": 0,
+        "evidence": 13,
+        "explanationAr": "تذكر الفقرة الرابعة: Youssef captured hundreds of colorful photographs to share with his school peers."
+      },
+      {
+        "type": "main_idea",
+        "q": "ما هو الأثر الثقافي لهذه الرحلة على يوسف؟",
+        "qEn": null,
+        "options": [
+          "توسيع آفاقه وتعميق تقديره للتنوع الجغرافي والثقافي لبلده",
+          "الشعور بالتعب والندم على مغادرة منزله",
+          "الرغبة في التوقف عن دراسة الجغرافيا",
+          "تفضيل الجلوس أمام التلفاز على السفر"
+        ],
+        "answer": 0,
+        "evidence": 14,
+        "explanationAr": "توضح الجملة قبل الأخيرة أن الرحلة وسعت مداركه وعمقت تقديره للتنوع في بلده."
+      }
+    ]
+  },
+  {
+    "id": "b1-tech-learning",
+    "level": "B1",
+    "title": "How Technology Changed Education",
+    "titleAr": "كيف غيّرت التكنولوجيا التعليم",
+    "paragraphs": [
+      {
+        "sentences": [
+          "Over the past two decades, technological advances have radically transformed the global educational landscape.",
+          "Classrooms that once relied exclusively on physical paper textbooks and chalkboards now incorporate interactive touchscreens, digital tablets, and cloud-based platforms.",
+          "For modern learners, the acquisition of knowledge is no longer restricted to rigid school hours or localized library archives.",
+          "Instead, comprehensive academic repositories, high-definition video tutorials, and scholarly articles are accessible with a single click from almost anywhere."
+        ],
+        "translation": [
+          "على مدار العقدين الماضيين، أحدثت التطورات التكنولوجية تحولاً جذرياً في المشهد التعليمي العالمي.",
+          "فالفصول الدراسية التي كانت تعتمد حصرياً على الكتب الورقية وألواح الطباشير باتت تدمج الشاشات التفاعلية والأجهزة اللوحية والمنصات السحابية.",
+          "وبالنسبة للمتعلم المعاصر، لم يعد اكتساب المعرفة محصوراً بساعات الدوام المدرسي الصارمة أو أرشيفات المكتبات المحلية.",
+          "بل أصبحت المستودعات الأكاديمية الشاملة والدروس المصورة عالية الدقة والمقالات العلمية متاحة بنقرة زر واحدة من أي مكان تقريباً."
+        ]
+      },
+      {
+        "sentences": [
+          "In multilingual environments, digital language applications offer remarkable adaptive exercises customized to each student's personal proficiency level.",
+          "Sophisticated algorithms analyze pronunciation errors, track grammatical retention, and generate intelligent review schedules using spaced repetition techniques.",
+          "Consequently, language learners can practice conversational English with interactive simulated dialogues without the agonizing fear of social embarrassment.",
+          "This individualized feedback loop fosters immense self-confidence and accelerates linguistic development substantially faster than conventional classroom lecture formats alone."
+        ],
+        "translation": [
+          "وفي البيئات متعددة اللغات، تقدم التطبيقات الرقمية لتعليم اللغات تمارين تكيفية مذهلة ومخصصة لمستوى إتقان كل طالب.",
+          "وتقوم الخوارزميات المتقدمة بتحليل أخطاء النطق، وتتبع استيعاب القواعد، وتوليد جداول مراجعة ذكية باستخدام تقنيات التكرار المتباعد.",
+          "ونتيجة لذلك، يستطيع متعلمو اللغات ممارسة المحادثة الإنجليزية عبر حوارات تفاعلية محاكاة دون خوف قلق من الإحراج الاجتماعي.",
+          "وتغذي حلقة الملاحظات الفردية هذه ثقة هائلة بالنفس وتسارع التطور اللغوي بشكل أسرع بكثير من أسلوب المحاضرات التقليدي وحده."
+        ]
+      },
+      {
+        "sentences": [
+          "Furthermore, modern connectivity enables fruitful cross-border collaborative initiatives among international classrooms.",
+          "A teenage high school student in Baghdad can comfortably collaborate on an environmental science experiment with peers in London or Tokyo.",
+          "Through collaborative cloud documents and real-time videoconferencing, youth exchange cultural viewpoints, cultivate empathy, and sharpen crucial global communication skills.",
+          "Such collective projects illustrate that digital tools can dismantle historical geographic barriers and construct supportive global learning communities."
+        ],
+        "translation": [
+          "علاوة على ذلك، يتيح الاتصال الحديث مبادرات تعاونية مثمرة عبر الحدود بين فصول دراسية دولية مختلفة.",
+          "إذ يمكن لطالب مراهق في بغداد أن يتعاون بارتياح في تجربة علوم بيئية مع أقرانه في لندن أو طوكيو.",
+          "ومن خلال المستندات السحابية المشتركة ومؤتمرات الفيديو المباشرة، يتبادل الشباب وجهات النظر الثقافية، ويعززون التعاطف، ويصقلون مهارات التواصل العالمي الضرورية.",
+          "وتثبت هذه المشاريع الجماعية أن الأدوات الرقمية قادرة على تفكيك الحواجز الجغرافية التاريخية وبناء مجتمعات تعلم عالمية متضامنة."
+        ]
+      },
+      {
+        "sentences": [
+          "Nevertheless, the digital revolution introduces several critical challenges that educators and parents must address prudently.",
+          "Excessive screen exposure frequently leads to visual strain, disrupted sleep architecture, and reduced physical stamina among younger demographics.",
+          "Moreover, the constant barrage of social media alerts and entertaining multimedia creates severe attentional fragmentation, rendering sustained reading difficult.",
+          "Therefore, cultivating digital self-discipline and conscious screen boundaries is just as vital as gaining technical literacy itself."
+        ],
+        "translation": [
+          "ومع ذلك، تفرض الثورة الرقمية العديد من التحديات الحرجة التي يتعين على المربين وأولياء الأمور التعامل معها بحكمة.",
+          "فالتعرض المفرط للشاشات يؤدي كثيرًا إلى إجهاد بصري واضطراب في نمط النوم وتراجع في اللياقة البدنية لدى الفئات العمرية الأصغر.",
+          "فضلاً عن ذلك، يسبب السيل المستمر من تنبيهات التواصل الاجتماعي والمحتوى الترفيهي تشتتًا انتباهيًا شديدًا، مما يجعل القراءة المتواصلة صعبة.",
+          "ولهذا السبب، فإن غرس الانضباط الذاتي الرقمي ووضع حدود واعية للشاشات يضاهي في أهميته اكتساب المهارات التقنية ذاتها."
+        ]
+      },
+      {
+        "sentences": [
+          "In conclusion, educational technology is most potent when viewed as an empowering supplement rather than an outright replacement for human instructors.",
+          "The empathetic guidance, ethical mentorship, and inspirational passion of a dedicated teacher remain utterly irreplaceable by automated code.",
+          "By thoughtfully harmonizing innovative digital platforms with compassionate face-to-face instruction, societies can formulate balanced educational ecosystems for emerging generations.",
+          "Students who master this dynamic equilibrium will become resilient lifelong learners ready to thrive in an increasingly complex world."
+        ],
+        "translation": [
+          "في الختام، تبلغ التكنولوجيا التعليمية أوج قوتها عندما تُعتبر رافدًا تمكينيًا وليست بديلاً كليًا عن المعلمين البشر.",
+          "إذ يبقى التوجيه المفعم بالتعاطف والإرشاد الأخلاقي والشغف الملهم للمعلم المخلص أمورًا لا يمكن لأي شفرة برمجية أن تحل محلها.",
+          "ومن خلال المواءمة المدروسة بين المنصات الرقمية المبتكرة والتعليم الحضوري المليء بالإنسانية، تستطيع المجتمعات صياغة نظم تعليمية متوازنة للأجيال الصاعدة.",
+          "والطلاب الذين يتقنون هذا التوازن الحيوي سيتحولون إلى متعلمين مدى الحياة يتمتعون بالمرونة ومستعدين للازدهار في عالم متزايد التعقيد."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "main_idea",
+        "q": "ما هي الفكرة الرئيسية الشاملة للقطعة؟",
+        "qEn": "What is the primary central idea of the passage?",
+        "options": [
+          "Technology enhances education immensely when balanced with human teaching guidance",
+          "Digital devices have completely eliminated the need for human school teachers",
+          "Reading physical paper books is entirely useless in the modern digital age",
+          "Social media applications are the superior method for mastering foreign languages"
+        ],
+        "answer": 0,
+        "evidence": 16,
+        "explanationAr": "تؤكد الفقرة الأخيرة أن التكنولوجيا مكمل ممتاز يعزز التعليم، لكن التوجيه الإنساني للمعلم يظل أساسيًا ولا غنى عنه."
+      },
+      {
+        "type": "detail",
+        "q": "كيف تساعد تطبيقات اللغات الرقمية المتعلمين على تجاوز الحرج الاجتماعي؟",
+        "qEn": "According to the text, how do digital language apps help learners overcome social embarrassment?",
+        "options": [
+          "By providing simulated conversational dialogues with intelligent automated feedback",
+          "By completely forcing students to take spoken exams in front of large audiences",
+          "By totally removing all grammar rules and spelling requirements from exercises",
+          "By requiring students to travel abroad before practicing basic dialogue skills"
+        ],
+        "answer": 0,
+        "evidence": 6,
+        "explanationAr": "توضح الفقرة الثانية: learners can practice conversational English with interactive simulated dialogues without fear of social embarrassment."
+      },
+      {
+        "type": "detail",
+        "q": "ما التحدي الذي تسببه التنبيهات المستمرة لوسائل التواصل الاجتماعي وفقًا للفقرة الرابعة؟",
+        "qEn": "What challenge is caused by constant social media alerts according to the fourth paragraph?",
+        "options": [
+          "Attentional fragmentation that makes prolonged sustained reading difficult",
+          "Immediate and irreversible loss of technical computer knowledge",
+          "A dramatic decrease in total household internet connection speeds",
+          "Total inability to send electronic mail messages to international peers"
+        ],
+        "answer": 0,
+        "evidence": 14,
+        "explanationAr": "تذكر الجملة الرابعة عشرة: creates severe attentional fragmentation, rendering sustained reading difficult."
+      },
+      {
+        "type": "vocabulary",
+        "q": "ما المعنى الأقرب لكلمة (equilibrium) الواردة في السطر الأخير؟",
+        "qEn": "In the final sentence, what does the word 'equilibrium' most closely mean?",
+        "options": [
+          "A state of healthy balance and harmony between different elements",
+          "A rapid mechanical movement across digital television screens",
+          "An extreme economic shortage of electronic handheld devices",
+          "A loud celebratory musical sound at the conclusion of exams"
+        ],
+        "answer": 0,
+        "evidence": 19,
+        "explanationAr": "تشير كلمة equilibrium إلى حالة التوازن الصحي والتناغم بين المنصات الرقمية والتعليم المباشر."
+      },
+      {
+        "type": "inference",
+        "q": "ما الذي يمكن استنتاجه حول دور المعلم البشري في المستقبل؟",
+        "qEn": "What can be inferred about the role of human teachers in future education?",
+        "options": [
+          "Their mentorship, empathy, and moral support remain indispensable",
+          "They will be completely substituted by automated computer programs",
+          "Their primary responsibility will be limited to grading paper exams",
+          "They will only teach history and completely abandon science disciplines"
+        ],
+        "answer": 0,
+        "evidence": 17,
+        "explanationAr": "يوضح النص صراحة: The empathetic guidance, ethical mentorship, and inspirational passion of a dedicated teacher remain utterly irreplaceable."
+      }
+    ]
+  },
+  {
+    "id": "b1-career-choice",
+    "level": "B1",
+    "title": "Choosing a Modern Career",
+    "titleAr": "اختيار مسار وظيفي حديث",
+    "paragraphs": [
+      {
+        "sentences": [
+          "Selecting an occupational trajectory in today's rapidly shifting economic climate represents a profound turning point for young graduates.",
+          "For past generations, professional pathways were frequently rigid, linear, and heavily dictated by domestic tradition or parental expectation.",
+          "A person typically entered a particular public firm or traditional craft in their early twenties and remained in that exact post until retirement.",
+          "In stark contrast, contemporary employment ecosystems require adaptive thinking, transferable competencies, and unceasing personal reinvention."
+        ],
+        "translation": [
+          "يمثل اختيار المسار المهني في ظل المناخ الاقتصادي المتسارع اليوم نقطة تحول محورية في حياة الخريجين الشباب.",
+          "فبالنسبة للأجيال السابقة، كانت المسارات المهنية تتسم غالباً بالجمود والخطية وتخضع لتأثير التقاليد الأسرية وتوقعات الوالدين.",
+          "إذ كان الفرد يلتحق عادة بمؤسسة حكومية أو حرفة تقليدية في أوائل العشرينات من عمره ويستمر في المنصب ذاته حتى سن التقاعد.",
+          "وعلى النقيض تماماً، تتطلب بيئات العمل المعاصرة تفكيراً مرناً، ومهارات قابلة للنقل، وقدرة مستمرة على تجديد الذات."
+        ]
+      },
+      {
+        "sentences": [
+          "First and foremost, aspiring professionals must conduct rigorous self-assessment to discover their genuine interests, intrinsic values, and personal aptitudes.",
+          "Passion alone is rarely sufficient if it is disconnected from genuine market utility and specialized technical capabilities.",
+          "Someone who adores graphic storytelling, for instance, might combine visual artistic talent with modern software development to pursue UI design.",
+          "By strategically discovering the productive intersection between genuine enthusiasm and concrete market demand, candidates establish sustainable professional advantage."
+        ],
+        "translation": [
+          "أولاً وقبل كل شيء، يجب على المهنيين الطامحين إجراء تقييم ذاتي دقيق لاكتشاف اهتماماتهم الحقيقية وقيمهم الجوهرية واستعداداتهم الشخصية.",
+          "فالشغف وحده نادراً ما يكون كافياً إذا كان منفصلاً عن المنفعة السوقية الحقيقية والقدرات التقنية التخصصية.",
+          "فعلى سبيل المثال، يمكن لمن يعشق السرد البصري دمج الموهبة الفنية مع هندسة البرمجيات المعاصرة للعمل في تصميم واجهات المستخدم.",
+          "ومن خلال الاكتشاف الاستراتيجي لنقطة الالتقاء المثمرة بين الحماس الصادق والطلب السوقي الملموس، يؤسس المرشحون ميزة مهنية مستدامة."
+        ]
+      },
+      {
+        "sentences": [
+          "Furthermore, soft interpersonal skills have acquired unprecedented significance alongside rigorous technical credentials across every organizational sector.",
+          "Employers routinely seek team players who communicate ideas clearly, resolve diplomatic conflicts maturely, and demonstrate resilience under pressing deadlines.",
+          "A brilliant programmer or financial analyst who struggles to collaborate smoothly with diverse colleagues will find leadership opportunities severely restricted.",
+          "Emotional intelligence, active listening, and cross-cultural adaptability have therefore transitioned from ornamental bonuses to non-negotiable professional prerequisites."
+        ],
+        "translation": [
+          "علاوة على ذلك، اكتسبت المهارات الشخصية الناعمة أهمية غير مسبوقة جنباً إلى جنب مع المؤهلات التقنية الصارمة في مختلف القطاعات.",
+          "فأرباب العمل يبحثون باستمرار عن أعضاء فريق قادرين على إيصال الأفكار بوضوح، وحل النزاعات بنضج، وإظهار المرونة تحت ضغط المواعيد النهائية.",
+          "فالمبرمج البارع أو المحلل المالي الذي يجد صعوبة في التعاون السلس مع زملائه المتنوعين سيجد فرص القيادة أمامه محدودة للغاية.",
+          "ولذا تحول الذكاء العاطفي، والاستماع النشط، والقدرة على التكيف الثقافي من مجرد مزايا إضافية إلى متطلبات مهنية لا تقبل المساومة."
+        ]
+      },
+      {
+        "sentences": [
+          "Additionally, the contemporary digital economy rewards proactive lifelong learners who actively upgrade their skills through certified online platforms.",
+          "Technological disruptions like artificial intelligence and automated robotics render static vocational knowledge obsolete within a few short years.",
+          "Young Iraqi entrepreneurs and developers are increasingly mastering cloud computing, international project management, and digital marketing from home.",
+          "This democratic availability of advanced knowledge empowers motivated youth to compete confidently in regional and international remote employment markets."
+        ],
+        "translation": [
+          "بالإضافة إلى ذلك، يكافئ الاقتصاد الرقمي المعاصر المتعلمين الاستباقيين مدى الحياة الذين يطورون مهاراتهم عبر المنصات المعتمدة عبر الإنترنت.",
+          "إذ تجعل الاضطرابات التكنولوجية مثل الذكاء الاصطناعي والروبوتات المؤتمتة المعارف المهنية الساكنة متقادمة خلال سنوات قليلة.",
+          "وبات رواد الأعمال والمطورون العراقيون الشباب يتقنون الحوسبة السحابية، وإدارة المشاريع الدولية، والتسويق الرقمي من منازلهم بوتيرة متزايدة.",
+          "وهذا التوفر الديمقراطي للمعرفة المتقدمة يمكّن الشباب الطموح من المنافسة بثقة في أسواق العمل عن بُعد إقليمياً ودولياً."
+        ]
+      },
+      {
+        "sentences": [
+          "Ultimately, career selection should not be perceived as an irrevocable lifelong verdict, but rather as an evolving experimental journey.",
+          "Shifting career trajectories, acquiring novel disciplines, and embracing unforeseen opportunities are becoming standard milestones in modern professional narratives.",
+          "Those who nurture curiosity, practice authentic empathy, and maintain athletic mental agility will consistently discover meaningful professional fulfillment.",
+          "Success belongs to individuals who view challenges as developmental catalysts and commit wholeheartedly to adding positive value to their communities."
+        ],
+        "translation": [
+          "وفي النهاية، لا ينبغي النظر إلى اختيار المهنة كحكم مؤبد غير قابل للتغيير، بل كرحلة تجريبية تتطور باستمرار.",
+          "فالتحول بين المسارات المهنية، واكتساب تخصصات جديدة، واحتضان الفرص غير المتوقعة باتت محطات معتادة في السير الذاتية المعاصرة.",
+          "وأولئك الذين يغذون الفضول، ويمارسون التعاطف الصادق، ويحافظون على المرونة الذهنية العالية سيجدون دائماً الرضا المهني الحقيقي.",
+          "فالنجاح حليف الأفراد الذين يرون في التحديات حوافز للتطور ويلتزمون بصدق بتقديم قيمة إيجابية لمجتمعاتهم."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "main_idea",
+        "q": "ما هي الفكرة الأساسية التي تطرحها هذه القطعة؟",
+        "qEn": "What is the main message conveyed about career planning in this passage?",
+        "options": [
+          "Modern careers require continuous learning, adaptability, and a balance of technical and soft skills",
+          "Working in a single governmental post until retirement is still the only guaranteed path",
+          "Personal passion is the sole factor that guarantees professional financial success",
+          "Technical coding skills eliminate the necessity of collaborating with other human beings"
+        ],
+        "answer": 0,
+        "evidence": 3,
+        "explanationAr": "تؤكد القطعة على أن المسارات المهنية المعاصرة تتطلب مرونة، تعلماً مستمراً، وتكاملاً بين المهارات التقنية والشخصية."
+      },
+      {
+        "type": "detail",
+        "q": "ما الذي ينصح به النص عند التوفيق بين الشغف واحتياجات السوق؟",
+        "qEn": "According to paragraph two, how should aspiring professionals balance passion and market demand?",
+        "options": [
+          "By identifying the strategic intersection between personal enthusiasm and tangible market utility",
+          "By completely ignoring all market trends and strictly pursuing childhood artistic hobbies",
+          "By choosing whatever profession pays the absolute highest initial salary regardless of interest",
+          "By copying the exact identical career paths of their immediate ancestors and neighbors"
+        ],
+        "answer": 0,
+        "evidence": 7,
+        "explanationAr": "تذكر الجملة السابعة: strategic intersection between genuine enthusiasm and concrete market demand."
+      },
+      {
+        "type": "detail",
+        "q": "لماذا تكتسب المهارات الشخصية (Soft skills) أهمية حاسمة وفقاً للفقرة الثالثة؟",
+        "qEn": "Why are soft interpersonal skills essential according to the third paragraph?",
+        "options": [
+          "Because employers prioritize communication, conflict resolution, and teamwork alongside technical abilities",
+          "Because they completely replace the necessity of studying mathematics or science in universities",
+          "Because they guarantee that employees will never have to face difficult deadlines at work",
+          "Because they allow employees to work without any supervision from senior company executives"
+        ],
+        "answer": 0,
+        "evidence": 9,
+        "explanationAr": "توضح الفقرة الثالثة: Employers seek team players who communicate ideas clearly and resolve conflicts maturely."
+      },
+      {
+        "type": "vocabulary",
+        "q": "ما معنى كلمة (obsolete) المذكورة في الفقرة الرابعة؟",
+        "qEn": "What does the word 'obsolete' mean as used in paragraph four?",
+        "options": [
+          "No longer useful, modern, or practically relevant due to advancement",
+          "Extremely expensive and difficult for normal consumers to purchase",
+          "Universally famous across every continent and cultural demographic",
+          "Highly dangerous to human health and environmental safety"
+        ],
+        "answer": 0,
+        "evidence": 13,
+        "explanationAr": "تشير كلمة obsolete إلى الشيء الذي أصبح متقادماً وغير ذي فائدة بسبب التقدم التكنولوجي السريع."
+      },
+      {
+        "type": "inference",
+        "q": "كيف ينبغي للمرء أن ينظر إلى مساره المهني وفقاً للفقرة الختامية؟",
+        "qEn": "How should one view their career trajectory according to the concluding paragraph?",
+        "options": [
+          "As an evolving and flexible experimental journey rather than a permanent unchangeable verdict",
+          "As an unchangeable legal contract that must never be modified under any circumstances",
+          "As a stressful competition where only aggressive individuals can achieve true happiness",
+          "As an unimportant hobby that requires minimal dedication or thoughtful reflection"
+        ],
+        "answer": 0,
+        "evidence": 16,
+        "explanationAr": "تذكر الجملة: career selection should not be perceived as an irrevocable lifelong verdict, but rather as an evolving experimental journey."
+      }
+    ]
+  },
+  {
+    "id": "b1-health-habits",
+    "level": "B1",
+    "title": "Daily Habits for High Energy",
+    "titleAr": "عادات يومية لطاقة عالية",
+    "paragraphs": [
+      {
+        "sentences": [
+          "In our accelerated modern routine, feelings of persistent fatigue and mental brain fog have unfortunately become widespread complaints.",
+          "Countless individuals mistakenly attribute their constant exhaustion to demanding work commitments, while overlooking the foundational biological role of simple daily habits.",
+          "Our physical bodies operate on intricate physiological rhythms that require consistent restorative care, proper hydration, and purposeful nutritional fueling.",
+          "By making conscious, scientific adjustments to our morning and evening routines, we can unlock tremendous mental alertness and boundless physical vitality."
+        ],
+        "translation": [
+          "في ظل وتيرة حياتنا المعاصرة المتسارعة، باتت مشاعر التعب المستمر والتشوش الذهني شكوى شائعة للأسف.",
+          "ويعزو عدد لا يحصى من الأفراد إرهاقهم الدائم خطأً إلى ضغوط العمل الشاقة، متجاهلين الدور البيولوجي الجوهري للعادات اليومية البسيطة.",
+          "إذ تعمل أجسادنا وفق إيقاعات فسيولوجية دقيقة تتطلب عناية ترميمية منتظمة، وترطيباً سليماً، وتغذية هادفة ومدروسة.",
+          "ومن خلال إجراء تعديلات واعية وعلمية على روتيننا الصباحي والمسائي، يمكننا إطلاق العنان ليقظة ذهنية هائلة وحيوية بدنية لا حدود لها."
+        ]
+      },
+      {
+        "sentences": [
+          "The primary cornerstone of high daily energy is non-negotiable, consistent, high-quality sleep.",
+          "Neuroscientists emphasize that during deep slow-wave sleep cycles, the brain cleanses metabolic waste products and consolidates memory storage.",
+          "Going to bed at erratic hours and browsing blue-light emitting smartphones directly suppress nocturnal melatonin synthesis, resulting in superficial fragmented rest.",
+          "Establishing a darkened, cool sleeping sanctuary and disconnecting electronic screens sixty minutes before slumber radically elevates daytime cognitive endurance."
+        ],
+        "translation": [
+          "إن حجر الزاوية الأول للطاقة اليومية العالية هو النوم المنتظم عالي الجودة الذي لا يقبل المساومة.",
+          "ويؤكد علماء الأعصاب أنه خلال دورات النوم العميق ذات الموجات البطيئة، يقوم الدماغ بتنظيف الفضلات الأيضية وتثبيت تخزين الذكريات.",
+          "كما أن النوم في ساعات غير منتظمة وتصفح الهواتف الذكية ذات الضوء الأزرق يثبطان إنتاج هرمون الميلاتونين الليلي، مما يؤدي لنوم سطحي ومتقطع.",
+          "إن إعداد بيئة نوم مظلمة وباردة وفصل الشاشات الإلكترونية قبل ستين دقيقة من النوم يرفع بشكل جذري قدرة التحمل الإدراكي نهاراً."
+        ]
+      },
+      {
+        "sentences": [
+          "Equally vital is cellular hydration and strategic nutrient timing throughout active working hours.",
+          "The human brain is roughly seventy-five percent water; even mild two-percent dehydration impairs working memory, mood, and reaction speed.",
+          "Rather than instantly consuming caffeinated beverages upon waking, health specialists advise drinking two tall glasses of clean water with a pinch of mineral salt.",
+          "Furthermore, avoiding heavy sugary pastries in favor of protein-rich breakfasts prevents catastrophic blood glucose crashes in the late morning."
+        ],
+        "translation": [
+          "ومن الأمور الحيوية بنفس القدر الترطيب الخلوي والتوقيت الاستراتيجي للمغذيات خلال ساعات العمل النشطة.",
+          "إذ يتكون الدماغ البشري من حوالي خمسة وسبعين بالمائة من الماء؛ وحتى الجفاف البسيط بنسبة اثنين بالمائة يعيق الذاكرة العاملة والمزاج وسرعة الاستجابة.",
+          "وبدلاً من استهلاك المشروبات المحتوية على الكافيين فور الاستيقاظ، ينصح خبراء الصحة بشرب كوبين كبيرين من الماء مع رشة معادن خفيفة.",
+          "علاوة على ذلك، فإن تجنب المعجنات السكرية الدسمة وتفضيل وجبات الإفطار الغنية بالبروتين يمنع هبوط سكر الدم الحاد في أواخر الصباح."
+        ]
+      },
+      {
+        "sentences": [
+          "Moreover, purposeful physical movement must be interwoven into stationary indoor work routines.",
+          "Prolonged sedentary sitting decelerates metabolic circulation, stiffens postural muscles, and starves executive brain centers of oxygen-rich blood flow.",
+          "Taking brisk five-minute walking pauses every hour or practicing gentle standing stretches re-energizes neural pathways remarkably.",
+          "Exposure to natural sunlight during morning strolls also sets the biological clock, optimizing wakefulness hormones naturally without synthetic stimulants."
+        ],
+        "translation": [
+          "إضافة إلى ذلك، يجب دمج الحركة البدنية الهادفة في روتين العمل المكتبي الداخلي الساكن.",
+          "فالجلوس المطول يبطئ الدورة الدموية والأيض، وييبس عضلات القوام، ويحرم مراكز الدماغ التنفيذية من تدفق الدم الغني بالأكسجين.",
+          "إن أخذ فترات استراحة قصيرة للمشي لمدة خمس دقائق كل ساعة أو ممارسة إطالات خفيفة وقوفاً يعيد شحن المسارات العصبية بشكل لافت.",
+          "كما أن التعرض لأشعة الشمس الطبيعية أثناء النزهات الصباحية يضبط الساعة البيولوجية، مما يحسن هرمونات اليقظة طبيعياً دون منبهات صناعية."
+        ]
+      },
+      {
+        "sentences": [
+          "Finally, mental emotional hygiene is indispensable for preventing chronic psychological exhaustion.",
+          "Chronic micro-stressors, toxic information overload, and relentless multitasking trigger chronic cortisol secretion that depletes internal reserves.",
+          "Practicing daily moments of quiet meditation, grateful reflection, or reading enriching literature creates an internal buffer against external chaos.",
+          "When we respect our biological boundaries, sustained vitality ceases to be an elusive dream and becomes an accessible everyday reality."
+        ],
+        "translation": [
+          "وأخيراً، تعتبر الصحة النفسية والعاطفية أمراً لا غنى عنه للوقاية من الإرهاق النفسي المزمن.",
+          "إذ تؤدي الضغوط الصغيرة المزمنة، وتدفق المعلومات السام، والمهام المتعددة المتواصلة إلى إفراز مستمر للكورتيزول يستنزف المخزون الداخلي.",
+          "إن ممارسة لحظات يومية من التأمل الهادئ، أو الامتنان، أو قراءة الأدب الملهم تبني درعاً داخلياً في وجه الفوضى الخارجية.",
+          "وحينما نحترم حدودنا البيولوجية، تكف الحيوية المستدامة عن كونها حلماً بعيد المنال وتتحول إلى واقع يومي في متناول اليد."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "main_idea",
+        "q": "ما هي الرسالة المحورية لهذا النص؟",
+        "qEn": "What is the primary thesis presented in this health article?",
+        "options": [
+          "Daily sustained energy relies fundamentally on consistent sleep, hydration, movement, and stress management",
+          "Excessive caffeine consumption is the most reliable scientific method to eliminate fatigue",
+          "Working longer hours without any physical rest builds true psychological mental toughness",
+          "Skipping all meals completely increases long-term physical stamina and alertness"
+        ],
+        "answer": 0,
+        "evidence": 3,
+        "explanationAr": "يوضح النص أن الطاقة الدائمة تعتمد على ركائز بيولوجية واضحة: النوم الجيد، الترطيب، الحركة المنتظمة، وإدارة الضغوط."
+      },
+      {
+        "type": "detail",
+        "q": "ماذا ينصح خبراء الصحة بشربه فور الاستيقاظ بدلاً من القهوة السريعة؟",
+        "qEn": "What do health specialists advise drinking immediately upon waking instead of coffee?",
+        "options": [
+          "Two large glasses of clean water with a light pinch of mineral salt",
+          "A sugary sports drink high in artificial food coloring and syrup",
+          "A large glass of cold carbonated soda with heavy ice cubes",
+          "Boiled green tea mixed with three tablespoons of refined sugar"
+        ],
+        "answer": 0,
+        "evidence": 10,
+        "explanationAr": "تذكر الجملة العاشرة بوضوح: health specialists advise drinking two tall glasses of clean water with a pinch of mineral salt."
+      },
+      {
+        "type": "detail",
+        "q": "ما الأثر السلبي لشاشات الهواتف الزرقاء قبل النوم كما ذُكر في الفقرة الثانية؟",
+        "qEn": "What negative consequence of blue smartphone screens before bed is highlighted in paragraph two?",
+        "options": [
+          "They directly suppress nocturnal melatonin synthesis, causing fragmented sleep",
+          "They cause permanent immediate deafness and balance disorientation",
+          "They speed up deep slow-wave metabolic cleansing cycles unnecessarily",
+          "They permanently prevent individuals from remembering their immediate family names"
+        ],
+        "answer": 0,
+        "evidence": 6,
+        "explanationAr": "تذكر الجملة السادسة: directly suppress nocturnal melatonin synthesis, resulting in superficial fragmented rest."
+      },
+      {
+        "type": "vocabulary",
+        "q": "ما المقصود بكلمة (sedentary) المذكورة في الفقرة الرابعة؟",
+        "qEn": "What does the word 'sedentary' mean in the context of paragraph four?",
+        "options": [
+          "Characterized by prolonged sitting, stillness, and minimal physical exertion",
+          "Extremely rapid and violently exhausting physical motion",
+          "Relating specifically to mountain climbing and outdoor adventures",
+          "Nutritious and packed with essential organic dietary vitamins"
+        ],
+        "answer": 0,
+        "evidence": 13,
+        "explanationAr": "تشير كلمة sedentary إلى نمط الحياة أو العمل الخامل الذي يتسم بالجلوس الطويل وقلة الحركة البدنية."
+      },
+      {
+        "type": "inference",
+        "q": "ماذا يحدث عندما يتعرض الإنسان لأشعة الشمس الطبيعية في الصباح؟",
+        "qEn": "What benefit occurs when a person is exposed to natural morning sunlight?",
+        "options": [
+          "It synchronizes the internal biological clock and naturally enhances wakefulness hormones",
+          "It forces the brain to instantly fall into a deep, prolonged slow-wave coma",
+          "It completely eliminates the body's natural requirements for clean drinking water",
+          "It causes immediate severe mental confusion and extreme muscular weakness"
+        ],
+        "answer": 0,
+        "evidence": 15,
+        "explanationAr": "توضح الجملة الخامسة عشرة: Exposure to natural sunlight sets the biological clock, optimizing wakefulness hormones naturally."
+      }
+    ]
+  },
+  {
+    "id": "b2-remote-work",
+    "level": "B2",
+    "title": "The Evolution of Remote Work",
+    "titleAr": "تطور العمل عن بُعد",
+    "paragraphs": [
+      {
+        "sentences": [
+          "The widespread transition toward remote and distributed work models represents one of the most consequential socio-economic shifts of the early twenty-first century.",
+          "What originated as an emergency contingency response during unprecedented global health disruptions has irrevocably matured into a permanent, structured institutional paradigm.",
+          "Propelled by ubiquitous high-speed broadband infrastructure, collaborative digital workspaces, and sophisticated enterprise software, millions of professionals have renegotiated the traditional relationship between physical geography and economic productivity.",
+          "Corporate hierarchies that once insisted on compulsory physical presence have been forced to re-examine deeply entrenched corporate assumptions regarding organizational commitment, team oversight, and output measurement."
+        ],
+        "translation": [
+          "يمثل التحول الواسع نحو نماذج العمل عن بُعد والعمل الموزع أحد أهم التحولات الاجتماعية والاقتصادية في أوائل القرن الحادي والعشرين.",
+          "فما بدأ كاستجابة طارئة خلال اضطرابات صحية عالمية غير مسبوقة، نضج بشكل لا رجعة فيه ليصبح نموذجاً مؤسسياً دائماً ومنظماً.",
+          "وبدفع من البنية التحتية للإنترنت عالي السرعة، ومساحات العمل الرقمية التعاونية، والبرمجيات المؤسسية المتقدمة، أعاد ملايين المهنيين التفاوض حول العلاقة التقليدية بين الجغرافيا والإنتاجية الاقتصادية.",
+          "وقد اضطرت الهياكل المؤسسية التي كانت تصر على الحضور الفعلي الإلزامي إلى إعادة فحص افتراضاتها الراسخة حول الالتزام التنظيمي والإشراف وقياس المخرجات."
+        ]
+      },
+      {
+        "sentences": [
+          "From an employee vantage point, the liberation from grueling daily urban transit stands out as an immediately tangible lifestyle enhancement.",
+          "Commuters in congested metropolises historically squandered tens of non-productive hours weekly navigating traffic bottlenecks, which induced chronic elevated stress and physical fatigue.",
+          "Reclaiming this lost temporal capital enables individuals to invest more richly in physical fitness, culinary preparation, family engagement, and intellectual cultivation.",
+          "Furthermore, geographical autonomy allows talented professionals from secondary cities and developing economies to secure competitive compensation packages from international enterprises without suffering cultural dislocation or forced domestic migration."
+        ],
+        "translation": [
+          "ومن وجهة نظر الموظف، يبرز التحرر من عناء التنقل اليومي في المدن المزدحمة كتحسن فوري وملموس في نمط الحياة.",
+          "فقد كان الركاب في المدن الكبرى يهدرون في السابق عشرات الساعات غير الإنتاجية أسبوعياً في الاختناقات المرورية، مما سبب توتراً مزمناً وإرهاقاً جسدياً.",
+          "واستعادة هذا الرصيد الزمني المهدور يمكّن الأفراد من الاستثمار بشكل أثرى في اللياقة البدنية، وإعداد الطعام، والتواصل الأسري، وبناء الذات فكرياً.",
+          "فضلاً عن ذلك، فإن الاستقلالية الجغرافية تسمح للمهنيين الموهوبين في المدن الثانوية والاقتصادات النامية بالحصول على حزم أجور مجزية من شركات دولية دون معاناة الاغتراب أو الهجرة القسرية."
+        ]
+      },
+      {
+        "sentences": [
+          "Conversely, enterprises adopting decentralized workflows realize significant fiscal advantages through rationalized corporate footprint expenses.",
+          "Substantial reductions in prime commercial real estate leases, utility consumption, on-site catering, and custodial services inject considerable margin flexibility into operating budgets.",
+          "Simultaneously, recruitment horizons expand exponentially beyond regional boundaries, permitting human resource directors to enlist specialized talent across diverse continents.",
+          "A technology firm based in Dubai or London can seamlessly integrate exceptional software engineers and interface designers residing in Baghdad, Cairo, or Warsaw."
+        ],
+        "translation": [
+          "وعلى الجانب الآخر، تحقق المؤسسات التي تتبنى أساليب العمل اللامركزية مزايا مالية كبيرة من خلال ترشيد نفقات المقرات والمكاتب.",
+          "فالتخفيض الكبير في إيجارات العقارات التجارية الفاخرة، واستهلاك الخدمات، وخدمات الضيافة الموقعية يضخ مرونة ملحوظة في الميزانيات التشغيلية.",
+          "وفي الوقت ذاته، تتسع آفاق التوظيف بشكل كبير متجاوزة الحدود الإقليمية، مما يتيح لمدراء الموارد البشرية استقطاب كفاءات تخصصية من مختلف القارات.",
+          "إذ تستطيع شركة تكنولوجية مقرها دبي أو لندن دمج مهندسي برمجيات ومصممي واجهات استثنائيين يقيمون في بغداد أو القاهرة أو وارسو بكل سلاسة."
+        ]
+      },
+      {
+        "sentences": [
+          "Nevertheless, the virtual working paradigm presents profound psychological, cultural, and operational frictions that cannot be disregarded.",
+          "The erosion of physical boundaries between domestic hearth and occupational duty frequently induces hyper-connectivity, wherein workers feel psychologically compelled to answer messages continuously.",
+          "Over extended durations, this insidious blurring precipitates severe professional burnout, emotional detachment, and heightened loneliness.",
+          "Furthermore, spontaneous creative collisions and serendipitous corridor dialogues, which historically catalyzed novel institutional innovations, are noticeably difficult to replicate inside scheduled video conferences."
+        ],
+        "translation": [
+          "ومع ذلك، يفرض نموذج العمل الافتراضي احتكاكات نفسية وثقافية وتشغيلية عميقة لا يمكن تجاهلها.",
+          "إذ يؤدي تآكل الحدود الفاصلة بين الحياة المنزلية والواجب المهني غالباً إلى اتصال مفرط، حيث يشعر الموظفون بإلزام نفسي للرد على الرسائل باستمرار.",
+          "وعلى فترات ممتدة، يعجل هذا التداخل غير المحسوس بحدوث احتراق وظيفي حاد، وانفصال عاطفي، وعزلة متزايدة.",
+          "علاوة على ذلك، فإن العصف الذهني العفوي والحوارات الجانبية الصدفية التي كانت تاريخياً تحفز الابتكارات المؤسسية يصعب استنساخها بشكل ملحوظ داخل اجتماعات الفيديو المجدولة."
+        ]
+      },
+      {
+        "sentences": [
+          "Consequently, forward-thinking organizations are pioneering sophisticated hybrid operational frameworks designed to combine the optimal facets of both methodologies.",
+          "In these balanced environments, team members designate specific days for asynchronous deep focus at home, reserving on-site gatherings for strategic alignment and team celebrations.",
+          "Management doctrines are progressively pivoting from obsolete presence surveillance metrics toward transparent, outcome-oriented performance appraisals.",
+          "Trust, transparent documentation, and deliberate communication etiquette have emerged as the foundational pillars sustaining healthy distributed organizational cultures."
+        ],
+        "translation": [
+          "ونتيجة لذلك، تقود المؤسسات ذات الرؤية المستقبلية أطر تشغيل هجينة ومتطورة صُممت للجمع بين أفضل مزايا كلا النموذجين.",
+          "ففي هذه البيئات المتوازنة، يخصص أعضاء الفريق أياماً محددة للتركيز العميق غير المتزامن في المنزل، مع حجز اللقاءات الموقعية للتخطيط الاستراتيجي والاحتفاء الجماعي.",
+          "كما تتحول الفلسفات الإدارية تدريجياً من معايير المراقبة الحصورية العقيمة نحو تقييمات الأداء الشفافة الموجهة نحو النتائج.",
+          "وقد برزت الثقة، والتوثيق الشفاف، وآداب التواصل الواعي كأركان أساسية تدعم الثقافات المؤسسية الموزعة والمعافاة."
+        ]
+      },
+      {
+        "sentences": [
+          "In summary, remote work is neither an unblemished universal panacea nor a catastrophic organizational failure; it is an evolving social technology.",
+          "As artificial intelligence tools automate administrative tedium and virtual collaboration environments mature, physical presence will increasingly become an intentional choice rather than an unthinking mandate.",
+          "Societies that modernize labor legislation, invest in resilient telecommunications, and foster digital emotional competencies will capitalize most fruitfully on this revolution.",
+          "The future belongs unequivocally to adaptable leaders and agile workers who master the delicate synergy between autonomous flexibility and disciplined collaborative purpose."
+        ],
+        "translation": [
+          "وخلاصة القول، إن العمل عن بُعد ليس حلاً سحرياً خالياً من العيوب، ولا هو بفشل مؤسسي كارثي؛ بل هو تقنية اجتماعية في طور التطور.",
+          "ومع أتمتة أدوات الذكاء الاصطناعي للأعباء الإدارية الرتيبة ونضوج بيئات التعاون الافتراضي، سيصبح الحضور الفعلي خياراً مقصوداً بدلاً من كونه إلزاماً تلقائياً.",
+          "وستكون المجتمعات التي تحدث تشريعات العمل، وتستثمر في اتصالات قوية، وتنمي الكفاءات العاطفية الرقمية هي الأكثر استفادة من هذه الثورة.",
+          "إن المستقبل ينتمي بلا ريب إلى القادة المرنين والموظفين القادرين على موازنة دقيقة بين المرونة المستقلة والهدف الجماعي المنضبط."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "main_idea",
+        "q": "ما هو التحليل المركزي الذي يقدمه الكاتب حول العمل عن بُعد؟",
+        "qEn": "What is the central analytical thesis presented regarding remote work?",
+        "options": [
+          "It is a nuanced, evolving socio-economic model offering immense benefits alongside real challenges that require hybrid balance",
+          "It represents a temporary historical fad that will completely disappear within the next twelve months",
+          "It has completely destroyed all corporate profitability and led to universal economic recession",
+          "It is only applicable to software developers and completely useless for all other economic industries"
+        ],
+        "answer": 0,
+        "evidence": 20,
+        "explanationAr": "توضح المقالة بتفصيل متوازن أن العمل عن بعد تقنية اجتماعية تتطور وتتطلب موازنة واعية عبر الأطر الهجينة."
+      },
+      {
+        "type": "detail",
+        "q": "ما هي الفائدة الاقتصادية المباشرة التي تجنيها الشركات من العمل اللامركزي وفقاً للفقرة الثالثة؟",
+        "qEn": "According to the third paragraph, what direct financial benefit do enterprises gain from decentralized workflows?",
+        "options": [
+          "Substantial reductions in commercial real estate lease commitments and on-site facility overheads",
+          "The complete elimination of all national income and corporate tax obligations",
+          "Zero compensation payments required for software engineers living overseas",
+          "Unlimited free access to commercial international air travel tickets"
+        ],
+        "answer": 0,
+        "evidence": 9,
+        "explanationAr": "تذكر الجملة التاسعة: Substantial reductions in prime commercial real estate leases, utility consumption, and custodial services."
+      },
+      {
+        "type": "detail",
+        "q": "ما الأثر النفسي السلبي الناتج عن تآكل الحدود بين البيت والعمل كما جاء في الفقرة الرابعة؟",
+        "qEn": "What negative psychological phenomenon arises from the erosion of boundaries between home and work?",
+        "options": [
+          "Hyper-connectivity and persistent pressure to answer messages, resulting in burnout and isolation",
+          "An immediate, severe craving to commute across heavily congested urban highways daily",
+          "The complete inability to use household kitchen appliances for personal meal preparation",
+          "A massive drop in personal technological literacy and computer operating competence"
+        ],
+        "answer": 0,
+        "evidence": 14,
+        "explanationAr": "توضح الفقرة الرابعة: induces hyper-connectivity... precipitates severe professional burnout, emotional detachment, and heightened loneliness."
+      },
+      {
+        "type": "inference",
+        "q": "كيف يتغير أسلوب الإدارة في الشركات الرائدة وفقاً للفقرة الخامسة؟",
+        "qEn": "How is managerial philosophy transforming in forward-thinking hybrid organizations?",
+        "options": [
+          "Pivoting away from surveillance of physical presence toward transparent, outcome-oriented appraisals",
+          "Instituting twenty-four-hour continuous video camera surveillance inside employees' homes",
+          "Eliminating all forms of employee performance reviews and formal project documentation",
+          "Requiring all workers to sleep inside corporate headquarters during project deadlines"
+        ],
+        "answer": 0,
+        "evidence": 18,
+        "explanationAr": "تذكر الفقرة الخامسة: pivoting from obsolete presence surveillance metrics toward transparent, outcome-oriented performance appraisals."
+      },
+      {
+        "type": "vocabulary",
+        "q": "ماذا تعني كلمة (panacea) الواردة في مطلع الفقرة الأخيرة؟",
+        "qEn": "In the concluding paragraph, what does the word 'panacea' most nearly signify?",
+        "options": [
+          "A supposed universal remedy or cure-all for all difficulties and complications",
+          "An extremely destructive financial collapse of global banking institutions",
+          "A celebrated national holiday dedicated to civil public servants",
+          "A complex programming script designed to detect software vulnerabilities"
+        ],
+        "answer": 0,
+        "evidence": 20,
+        "explanationAr": "تعني كلمة panacea الدواء الشافي أو الحل السحري الشامل لكافة المشكلات."
+      },
+      {
+        "type": "inference",
+        "q": "ما الذي يتنبأ به الكاتب بشأن الحضور المكتبي الفعلي في المستقبل؟",
+        "qEn": "What does the author forecast regarding future on-site physical presence in corporate offices?",
+        "options": [
+          "It will become an intentional, purposeful choice rather than an unthinking, automatic mandate",
+          "It will be strictly prohibited by international criminal law across all countries",
+          "It will return to compulsory five-day forty-hour mandatory attendance without exception",
+          "It will only be permitted for junior interns while senior directors remain entirely remote"
+        ],
+        "answer": 0,
+        "evidence": 21,
+        "explanationAr": "تذكر الجملة: physical presence will increasingly become an intentional choice rather than an unthinking mandate."
+      }
+    ]
+  },
+  {
+    "id": "b2-digital-commerce",
+    "level": "B2",
+    "title": "The Growth of Digital Commerce",
+    "titleAr": "نمو التجارة الرقمية",
+    "paragraphs": [
+      {
+        "sentences": [
+          "The rapid ascendance of digital commerce has fundamentally reshaped retail ecosystems, commercial distribution pipelines, and consumer expectations globally.",
+          "Propelled by ubiquitous smartphone proliferation, expanding digital wallet infrastructure, and sophisticated logistical networks, electronic storefronts have demolished historical geographic constraints.",
+          "Consumers across diverse socioeconomic backgrounds can now effortlessly browse global inventories, evaluate peer reviews, and initiate financial transactions within seconds from their handheld devices.",
+          "Consequently, conventional brick-and-mortar storefronts face an urgent existential mandate to digitize their operations or risk irreversible marginalization in competitive consumer markets.",
+          "Market analysts observe that commercial adaptability and cross-platform agility determine brand longevity in hyper-competitive retail arenas."
+        ],
+        "translation": [
+          "أعاد الصعود السريع للتجارة الرقمية تشكيل بيئات البيع بالتجزئة وسلاسل التوزيع وتوقعات المستهلكين في مختلف أنحاء العالم بشكل جذري.",
+          "وبفعل الانتشار الواسع للهواتف الذكية، وتوسع البنية التحتية للمحافظ الرقمية، وشبكات الخدمات اللوجستية المتقدمة، حطمت المتاجر الإلكترونية القيود الجغرافية التاريخية.",
+          "وبات بمقدور المستهلكين من مختلف الشرائح تصفح بضائع عالمية وتقييم آراء المشترين وإتمام المعاملات المالية في ثوانٍ معدودة عبر أجهزتهم المحمولة.",
+          "ونتيجة لذلك، تواجه المتاجر التقليدية حتمية وجودية ملحة لرقمنة عملياتها أو مواجهة خطر التهميش في الأسواق التنافسية.",
+          "ويلاحظ محللو السوق أن القدرة على التكيف التجاري والمرونة عبر المنصات تحدد ديمومة العلامات التجارية في ساحات التجزئة شديدة التنافس."
+        ]
+      },
+      {
+        "sentences": [
+          "In emerging economic landscapes throughout the Middle East, the digital commercial boom has catalyzed vibrant domestic entrepreneurial initiatives.",
+          "Young Iraqi creators, regional artisans, and innovative culinary visionaries leverage dynamic social commerce channels to showcase authentic localized merchandise directly to targeted audiences.",
+          "By bypassing prohibitive capital requirements associated with physical showroom rentals and lengthy bureaucratic retail clearances, micro-enterprises achieve unprecedented market visibility.",
+          "Furthermore, localized logistics aggregators have engineered adaptive delivery networks utilizing neighborhood dispatchers who navigate complex urban topologies with remarkable agility."
+        ],
+        "translation": [
+          "وفي الأسواق الصاعدة في الشرق الأوسط، حفزت الطفرة التجارية الرقمية مبادرات ريادية محلية نابضة بالحيوية.",
+          "إذ يستثمر المبدعون والحرفيون العراقيون الشباب قنوات التجارة الاجتماعية لعرض منتجاتهم المحلية الأصيلة مباشرة للجماهير المستهدفة.",
+          "ومن خلال تجاوز متطلبات رأس المال العالية المرتبطة باستئجار المعارض والموافقات البيروقراطية الطويلة، تحقق المشروعات الناشئة انتشاراً غير مسبوق.",
+          "علاوة على ذلك، ابتكرت شركات الخدمات اللوجستية المحلية شبكات توصيل مرنة تعتمد على موزعين محليين يتنقلون في شوارع المدن المعقدة بمهارة وسرعة."
+        ]
+      },
+      {
+        "sentences": [
+          "Central to sustaining this expanding digital trajectory is the gradual consolidation of consumer confidence in electronic payment architecture.",
+          "Historically, lingering skepticism regarding transactional cybersecurity and data privacy entrenched cash-on-delivery as the dominant payment mechanism.",
+          "However, the introduction of multi-factor biometric authentication, end-to-end tokenized payment gateways, and explicit consumer protection regulations has fostered structural trust.",
+          "As modern digital banking entities and mobile telecommunications operators issue intuitive contactless payment cards, financial inclusion spreads dynamically among previously unbanked populations."
+        ],
+        "translation": [
+          "ومن الركائز الأساسية لاستدامة هذا المسار الرقمي المتصاعد الترسيخ التدريجي لثقة المستهلك في بنية الدفع الإلكتروني.",
+          "فقد كان الشك التاريخي حول الأمن السيبراني للمعاملات وخصوصية البيانات يجعل الدفع عند الاستلام هو الخيار الأكثر سيادة.",
+          "إلا أن إدخال المصادقة البيومترية متعددة العوامل، وبوابات الدفع المشفرة، وتشريعات حماية المستهلك أسهمت في بناء ثقة هيكلية.",
+          "ومع إصدار البنوك الرقمية وشركات الاتصالات لبطاقات الدفع اللاتلامسية السلسة، ينتشر الشمول المالي بنشاط بين الفئات التي لم تكن تمتلك حسابات مصرفية."
+        ]
+      },
+      {
+        "sentences": [
+          "Nevertheless, the accelerated velocity of digital commerce generates intricate environmental and systemic supply chain complications.",
+          "The escalating demand for ultra-rapid doorstep fulfillment has dramatically multiplied urban vehicular congestion, tailpipe emissions, and single-use packaging waste.",
+          "Cardboard containers, non-biodegradable protective bubble wrap, and plastic adhesive films accumulate rapidly inside metropolitan landfill facilities.",
+          "Forward-looking logistics conglomerates are therefore experimenting with consolidated neighborhood parcel lockers, recyclable packaging materials, and electric delivery fleets to curb ecological footprints.",
+          "Ecological accountability and resource stewardship have consequently become strategic benchmarks rather than optional public relations gestures for shipping enterprises."
+        ],
+        "translation": [
+          "ومع ذلك، تولد السرعة الفائقة للتجارة الرقمية تعقيدات بيئية ولوجستية معقدة في سلاسل الإمداد.",
+          "فالطلب المتزايد على التوصيل السريع للمنازل ضاعف الاختناقات المرورية في المدن والانبعاثات الغازية ونفايات التغليف ذات الاستخدام الواحد.",
+          "حيث تتراكم الصناديق الكرتونية وأغلفة الفقاعات البلاستيكية غير القابلة للتحلل وأشرطة اللصق بسرعة في مكبات النفايات الحضرية.",
+          "ولذلك، بدأت كبرى الشركات اللوجستية باختبار خزائن الطرود المشتركة في الأحياء، ومواد التغليف القابلة للتدوير، وأساطيل المركبات الكهربائية لتقليص الأثر البيئي.",
+          "وباتت المسؤولية البيئية وإدارة الموارد معايير استراتيجية أساسية وليست مجرد إيماءات علاقات عامة اختيارية لشركات الشحن."
+        ]
+      },
+      {
+        "sentences": [
+          "Concurrently, the integration of generative artificial intelligence and predictive data analytics is profoundly individualizing the online retail experience.",
+          "Intelligent recommendation engines evaluate historical navigation patterns, climatic conditions, and real-time behavioral cues to curate personalized shopping feeds.",
+          "Virtual try-on mirrors and augmented reality applications permit prospective buyers to visualize furniture items inside their actual living rooms before purchasing.",
+          "Such innovations dramatically reduce product return rates, heighten consumer satisfaction, and bridge the sensory gap between digital representations and tactile reality."
+        ],
+        "translation": [
+          "وبالتزامن مع ذلك، فإن دمج الذكاء الاصطناعي التوليدي والتحليلات البيانية التنبؤية يضفي طابعاً فردياً عميقاً على تجربة التسوق الرقمي.",
+          "إذ تقوم محركات التوصية الذكية بتحليل سلوك التصفح السابق والظروف المناخية والمؤشرات اللحظية لتخصيص عروض تسوق دقيقة لكل مستخدم.",
+          "وتتيح مرايا التجربة الافتراضية وتطبيقات الواقع المعزز للمشترين معاينة قطع الأثاث داخل غرف معيشتهم الفعلية قبل اتخاذ قرار الشراء.",
+          "وتسهم هذه الابتكارات في خفض معدلات إرجاع البضائع بشكل ملحوظ، ورفع رضا المستهلك، وسد الفجوة الحسية بين العرض الرقمي والواقع الملموس."
+        ]
+      },
+      {
+        "sentences": [
+          "In conclusion, digital commerce has evolved far beyond a transactional convenience into an all-encompassing socioeconomic catalyst.",
+          "It redistributes entrepreneurial possibilities, optimizes commercial efficiency, and connects regional artisans with international consumer networks.",
+          "Achieving equitable and sustainable digital growth will necessitate persistent investments in technological infrastructure, robust legal safeguards, and green distribution practices.",
+          "Societies that cultivate transparent, secure, and environmentally conscious digital marketplaces will unlock enduring prosperity in the modern global economy."
+        ],
+        "translation": [
+          "وفي الختام، تجاوزت التجارة الرقمية كونها مجرد وسيلة راحة للمعاملات لتتحول إلى محفز اجتماعي واقتصادي شامل.",
+          "فهي تعيد توزيع الفرص الريادية، وتحسن الكفاءة التجارية، وتربط الحرفيين الإقليميين بشبكات المستهلكين العالمية.",
+          "وسيتطلب تحقيق نمو رقمي عادل ومستدام استثمارات مستمرة في البنية التحتية التقنية، وضمانات قانونية متينة، وممارسات توزيع صديقة للبيئة.",
+          "والمجتمعات التي تبني أسواقاً رقمية شفافة وآمنة ومراعية للبيئة ستطلق العنان لازدهار دائم في مفاصل الاقتصاد العالمي المعاصر."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "main_idea",
+        "q": "ما هو المحور الرئيسي الذي تعالجه هذه المقالة؟",
+        "qEn": "What is the primary overarching theme of this analysis on digital commerce?",
+        "options": [
+          "The profound transformation of retail, entrepreneurship, and logistics driven by e-commerce, along with its systemic challenges",
+          "The complete collapse of international maritime shipping routes due to mobile banking apps",
+          "Why cash on delivery is the only sustainable financial mechanism for modern global trade",
+          "How artificial intelligence has made physical manufacturing and human craftsmanship entirely obsolete"
+        ],
+        "answer": 0,
+        "evidence": 0,
+        "explanationAr": "تتناول المقالة بالتفصيل أثر التجارة الرقمية على سلاسل التوريد والريادة والمدفوعات والتحديات البيئية المرافقة لها."
+      },
+      {
+        "type": "detail",
+        "q": "كيف استفاد رواد الأعمال الشباب في العراق من التجارة الرقمية وفقاً للفقرة الثانية؟",
+        "qEn": "According to paragraph two, how have young Iraqi entrepreneurs benefited from digital commerce?",
+        "options": [
+          "By utilizing social channels to showcase local merchandise without expensive physical showroom rentals",
+          "By receiving free governmental air cargo transportation to any global destination",
+          "By completely avoiding all forms of advertising and relying solely on word of mouth",
+          "By replacing all handmade crafts with imported low-cost plastic items exclusively"
+        ],
+        "answer": 0,
+        "evidence": 6,
+        "explanationAr": "توضح الفقرة الثانية: bypassing prohibitive capital requirements associated with physical showroom rentals."
+      },
+      {
+        "type": "detail",
+        "q": "ما العوامل التي عززت ثقة المستهلكين في الدفع الإلكتروني وفقاً للفقرة الثالثة؟",
+        "qEn": "What technological advancements strengthened consumer confidence in digital payments?",
+        "options": [
+          "Multi-factor biometric authentication, tokenized payment gateways, and legal consumer protections",
+          "The complete elimination of passwords and identity verification across all bank systems",
+          "Requiring all shoppers to visit banking headquarters in person before completing an order",
+          "A universal law forcing all merchants to offer a fifty percent discount on online transactions"
+        ],
+        "answer": 0,
+        "evidence": 10,
+        "explanationAr": "تذكر الجملة العاشرة: introduction of multi-factor biometric authentication, end-to-end tokenized payment gateways, and explicit regulations."
+      },
+      {
+        "type": "detail",
+        "q": "ما هو الأثر البيئي السلبي للتسوق السريع عبر الإنترنت المذكور في الفقرة الرابعة؟",
+        "qEn": "What environmental challenge is highlighted in connection with rapid delivery services?",
+        "options": [
+          "Increased urban vehicular congestion, emissions, and massive accumulations of packaging waste",
+          "A dramatic worldwide drop in the production of renewable solar and wind energy",
+          "The total exhaustion of natural mineral salt reserves across major river basins",
+          "An extreme reduction in the number of trees planted in rural agricultural zones"
+        ],
+        "answer": 0,
+        "evidence": 13,
+        "explanationAr": "توضح الفقرة الرابعة: multiplied urban vehicular congestion, tailpipe emissions, and single-use packaging waste."
+      },
+      {
+        "type": "vocabulary",
+        "q": "ما معنى كلمة (proliferation) كما وردت في الفقرة الأولى؟",
+        "qEn": "In the first paragraph, what does the term 'proliferation' mean?",
+        "options": [
+          "Rapid growth, massive expansion, and widespread dissemination",
+          "A catastrophic economic decline and sudden bankruptcy of businesses",
+          "An illegal confiscation of private electronic communication devices",
+          "A temporary mechanical failure of cellular communication towers"
+        ],
+        "answer": 0,
+        "evidence": 1,
+        "explanationAr": "تعني كلمة proliferation الانتشار السريع والنمو المتزايد للتقنية واستخدامها الواسع."
+      },
+      {
+        "type": "inference",
+        "q": "ما الفائدة التي تقدمها تطبيقات الواقع المعزز (AR) للمتسوقين عبر الإنترنت؟",
+        "qEn": "What primary benefit do augmented reality applications provide to online shoppers?",
+        "options": [
+          "They enable shoppers to visualize products in their physical living spaces, reducing return rates",
+          "They automatically deposit free money into consumers' checking accounts upon download",
+          "They completely eliminate the need for delivery trucks by digitally transporting physical goods",
+          "They prevent computers from consuming electrical power while browsing digital catalogs"
+        ],
+        "answer": 0,
+        "evidence": 18,
+        "explanationAr": "تذكر الجملة الثامنة عشرة: permit buyers to visualize furniture items inside actual living rooms... dramatically reducing return rates."
+      }
+    ]
+  },
+  {
+    "id": "b2-environmental-cities",
+    "level": "B2",
+    "title": "Sustainable Urban Development",
+    "titleAr": "التنمية الحضرية المستدامة",
+    "paragraphs": [
+      {
+        "sentences": [
+          "The unprecedented pace of global urbanization has positioned sustainable metropolitan design at the forefront of contemporary environmental planning.",
+          "As modern metropolises swell with expanding populations, historic infrastructure models centered around fossil fuel reliance, unchecked suburban sprawl, and automobile primacy are proving ecologically untenable.",
+          "Dense urban habitats produce more than seventy percent of worldwide greenhouse emissions while consuming immense volumes of natural resources and potable freshwater.",
+          "Consequently, forward-looking civic planners and municipal authorities are embracing pioneering architectural doctrines aimed at transforming concrete megalopolises into resilient ecological sanctuaries."
+        ],
+        "translation": [
+          "وضعت الوتيرة غير المسبوقة للتوسع الحضري العالمي التصميم المستدام للمدن في طليعة التخطيط البيئي المعاصر.",
+          "ومع تضخم المدن الكبرى بالزيادة السكانية، أثبتت نماذج البنية التحتية التاريخية المعتمدة على الوقود الأحفوري والزحف العمراني وهيمنة السيارات عدم استدامتها بيئياً.",
+          "إذ تنتج التجمعات الحضرية الكثيفة أكثر من سبعين بالمائة من انبعاثات الغازات الدفيئة عالمياً مع استهلاك كميات هائلة من الموارد الطبيعية والمياه العذبة.",
+          "ونتيجة لذلك، يتبنى مخططو المدن أفكاراً معمارية رائدة تهدف إلى تحويل الكتل الخرسانية العملاقة إلى واحات بيئية مرنة ومستدامة."
+        ]
+      },
+      {
+        "sentences": [
+          "A fundamental tenet of sustainable urbanism is the deliberate revitalization and proliferation of metropolitan green canopy spaces.",
+          "Pioneering cities incorporate extensive biological corridors, rooftop botanical gardens, and vertical forest facades directly into skyscraper architecture.",
+          "These vegetative installations absorb ambient carbon dioxide, filter particulate atmospheric pollutants, and mitigate the oppressive urban heat island effect remarkably.",
+          "Furthermore, urban wetlands and permeable pavement designs capture seasonal stormwater runoff, preventing catastrophic urban flooding while naturally replenishing underlying subterranean aquifers.",
+          "Urban forestry experts demonstrate that dense biological landscaping lowers ambient street temperatures by up to four degrees Celsius during scorching summers."
+        ],
+        "translation": [
+          "إن المبدأ الجوهري في التخطيط الحضري المستدام هو الإحياء المتعمد والمدروس للمساحات الخضراء والغطاء النباتي داخل المدن.",
+          "إذ تدمج المدن الرائدة ممرات حيوية وحدائق نباتية فوق الأسطح وواجهات غابات عمودية مباشرة في تصاميم ناطحات السحاب.",
+          "وتعمل هذه المساحات النباتية على امتصاص ثاني أكسيد الكربون، وتصفية ملوثات الهواء الدقيقة، وتخفيف تأثير الجزر الحرارية الحضرية الخانقة بشكل لافت.",
+          "فضلاً عن ذلك، فإن المستنقعات الحضرية والأرصفة المنفذة للمياه تمتص مياه الأمطار الموسمية، مانعة الفيضانات وتغذي المياه الجوفية طبيعياً.",
+          "ويثبت خبراء التشجير الحضري أن الغطاء النباتي الحيوي الكثيف يخفض درجات حرارة الشوارع بما يصل إلى أربع درجات مئوية خلال فصول الصيف الحارقة."
+        ]
+      },
+      {
+        "sentences": [
+          "Simultaneously, the revolution in clean transit infrastructure is dismantling historic commuter dependency on private combustion-engine vehicles.",
+          "Metropolitan governance frameworks are prioritizing clean electric light rail networks, protected bicycling arteries, and walkable neighborhood zones.",
+          "The innovative fifteen-minute city concept ensures that essential educational, commercial, healthcare, and recreational facilities reside within comfortable walking distance of every resident's doorstep.",
+          "By subordinating private automotive transit to pedestrian mobility, cities dramatically curtail atmospheric emissions, enhance public cardiovascular health, and revive vibrant community socialization."
+        ],
+        "translation": [
+          "وبالتوازي مع ذلك، تعمل ثورة النقل النظيف على تفكيك الاعتماد التاريخي للمتنقلين على مركبات الاحتراق الداخلي الخاصة.",
+          "حيث تعطي السياسات الحضرية الأولوية لشبكات القطارات الكهربائية الخفيفة، ومسارات الدراجات المحمية، ومناطق المشاة في الأحياء.",
+          "ويضمن مفهوم مدينة الخمس عشرة دقيقة المبتكر تواجد المرافق التعليمية والتجارية والصحية والترفيهية على مسافة سير مريحة من بيت كل ساكن.",
+          "ومن خلال إعطاء الأولوية لحركة المشاة على حساب السيارات الخاصة، تقلص المدن الانبعاثات، وتعزز صحة القلب للمواطنين، وتعيد إحياء التفاعل الاجتماعي."
+        ]
+      },
+      {
+        "sentences": [
+          "In arid and historically water-scarce territories like Iraq and the wider Middle East, sustainable urban architecture incorporates climate-adapted engineering.",
+          "Ancient architectural wisdom, such as passive cooling wind towers called Badgirs and shaded courtyard orientations, is being hybridized with contemporary solar panels and smart glass insulation.",
+          "Advanced graywater recycling systems collect water from domestic showers and cooling units, purifying it through natural bio-filtration beds for landscape irrigation.",
+          "Such culturally rooted yet technologically advanced initiatives illustrate that sustainable urban progress honors regional heritage while aggressively confronting climate realities."
+        ],
+        "translation": [
+          "وفي المناطق القاحلة التي تعاني تاريخياً من شح المياه كالعراق والشرق الأوسط، تدمج العمارة الحضرية المستدامة هندسة متوافقة مع المناخ.",
+          "حيث يجري دمج الحكمة المعمارية القديمة، مثل أبراج الرياح للتبريد الطبيعي (البادجير) والأفنية المظللة، مع الألواح الشمسية والعوازل الزجاجية الذكية.",
+          "كما تقوم أنظمة تدوير المياه الرمادية بتجميع مياه الاستحمام ووحدات التبريد وتنقيتها عبر مرشحات طبيعية لري المساحات الخضراء.",
+          "وتثبت هذه المبادرات المتجذرة في التراث والمتقدمة تقنياً أن الاستدامة تكرم الهوية المحلية وتواجه في الوقت ذاته التغيرات المناخية بفاعلية."
+        ]
+      },
+      {
+        "sentences": [
+          "Concurrently, intelligent municipal sensor networks and artificial intelligence algorithms are optimizing resource consumption across entire civic grids.",
+          "Smart street lamps dynamically modulate illumination intensity based on ambient pedestrian movement, slashing municipal electricity consumption considerably.",
+          "Automated pneumatic waste collection chutes transport refuse through underground vacuum tubes directly to sorting facilities, eliminating noisy diesel garbage trucks from neighborhood streets.",
+          "These interconnected digital systems ensure that civic infrastructure operates with surgical efficiency, minimizing unnecessary environmental friction and operational expenditure.",
+          "Predictive data maintenance identifies potential subterranean pipe leakages and energy grid overloads before disruptive civil outages materialize."
+        ],
+        "translation": [
+          "وبالتزامن مع ذلك، تعمل شبكات الاستشعار البلدية الذكية وخوارزميات الذكاء الاصطناعي على تحسين استهلاك الموارد عبر شبكات المدن بأكملها.",
+          "إذ تعدل أعمدة الإنارة الذكية شدة الإضاءة ديناميكياً بناءً على حركة المشاة، مما يقلص استهلاك الكهرباء البلدي بدرجة ملحوظة.",
+          "وتقوم قنوات جمع النفايات الهوائية المؤتمتة بنقل المهملات عبر أنابيب تفريغ تحت الأرض مباشرة لمراكز الفرز، ملغية شاحنات الديزل من الشوارع.",
+          "وتضمن هذه المنظومات الرقمية المترابطة عمل البنية التحتية بكفاءة دقيقة، مقللة الهدر البيئي والنفقات التشغيلية.",
+          "وتكشف الصيانة البيانية التنبؤية تسريبات الأنابيب الأرضية المحتملة وأحمال الشبكة الزائدة قبل حدوث أي انقطاعات مدنية مزعجة."
+        ]
+      },
+      {
+        "sentences": [
+          "Ultimately, constructing genuinely sustainable cities requires collaborative solidarity among visionary governments, responsible corporate entities, and engaged civic populations.",
+          "Technological innovations and ecological infrastructure provide the physical scaffolding, but civic mindfulness and communal stewardship animate the urban soul.",
+          "Cities that champion circular economic practices, safeguard ecological biodiversity, and prioritize equitable human well-being will lead the modern global renaissance.",
+          "By harmonizing human civilization with natural ecosystems, we forge resilient, vibrant, and enduring metropolitan homes for generations yet unborn."
+        ],
+        "translation": [
+          "وفي الختام، يتطلب بناء مدن مستدامة بحق تضامناً وثيقاً بين الحكومات ذات الرؤية، والمؤسسات المسؤولة، والمواطنين الواعين.",
+          "فالابتكارات التقنية والبنية التحتية البيئية توفر الهيكل المادي، لكن الوعي المدني والمسؤولية الجماعية هما ما يبثان الروح في المدينة.",
+          "والمدن التي تتبنى ممارسات الاقتصاد الدائري، وتحمي التنوع الحيوي، وتضع رفاهية الإنسان في المقدمة ستقود النهضة العالمية المعاصرة.",
+          "ومن خلال التناغم بين الحضارة الإنسانية والنظم البيئية الطبيعية، نشيد مدناً حيوية وصامدة ومزدهرة تدوم لأجيال المستقبل."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "type": "main_idea",
+        "q": "ما هي الفكرة المحورية لمقال التنمية الحضرية المستدامة؟",
+        "qEn": "What is the central analytical focus of this article on sustainable urban design?",
+        "options": [
+          "Transforming dense cities through green spaces, clean transit, climate-adapted architecture, and smart technology",
+          "Abandoning all metropolitan centers and forcing populations to relocate entirely to rural farms",
+          "Constructing massive highways exclusively reserved for heavy combustion-engine diesel trucks",
+          "Banning all architectural construction to prevent any human impact on the environment"
+        ],
+        "answer": 0,
+        "evidence": 3,
+        "explanationAr": "تتناول المقالة بالتفصيل محاور تحويل المدن الكبرى عبر المساحات الخضراء، النقل النظيف، والتكنولوجيا الذكية المتناغمة مع البيئة."
+      },
+      {
+        "type": "detail",
+        "q": "ما النسبة التقريبية لانبعاثات الغازات الدفيئة العالمية التي تنتجها المدن الكثيفة؟",
+        "qEn": "According to the first paragraph, what proportion of global greenhouse emissions originate from dense urban areas?",
+        "options": [
+          "More than seventy percent of worldwide greenhouse emissions",
+          "Less than five percent of total atmospheric output",
+          "Exactly fifty percent divided evenly among continents",
+          "Zero emissions because cities consume only green energy"
+        ],
+        "answer": 0,
+        "evidence": 2,
+        "explanationAr": "تذكر الجملة الثانية صراحة: Dense urban habitats produce more than seventy percent of worldwide greenhouse emissions."
+      },
+      {
+        "type": "detail",
+        "q": "ما الميزة البيئية للأسطح النباتية والواجهات العمودية المذكورة في الفقرة الثانية؟",
+        "qEn": "What environmental benefit do rooftop gardens and vertical forests provide in cities?",
+        "options": [
+          "They absorb carbon dioxide, filter atmospheric pollutants, and mitigate urban heat islands",
+          "They completely stop the natural seasonal flow of all river water through cities",
+          "They permanently freeze city temperatures below zero degrees Celsius all year round",
+          "They eliminate the need for urban buildings to have foundations or concrete pillars"
+        ],
+        "answer": 0,
+        "evidence": 6,
+        "explanationAr": "توضح الفقرة الثانية: absorb ambient carbon dioxide, filter particulate atmospheric pollutants, and mitigate the urban heat island effect."
+      },
+      {
+        "type": "detail",
+        "q": "ما هو مبدأ (مدينة الـ 15 دقيقة) الموضح في الفقرة الثالثة؟",
+        "qEn": "What is the core principle of the 'fifteen-minute city' concept described in paragraph three?",
+        "options": [
+          "Ensuring essential healthcare, commercial, and educational amenities are within walking distance",
+          "Requiring all residents to run on treadmills for fifteen minutes every single morning",
+          "Restricting all commuter train trips to exactly fifteen minutes regardless of distance",
+          "Closing all municipal administrative offices fifteen minutes after sunrise each day"
+        ],
+        "answer": 0,
+        "evidence": 10,
+        "explanationAr": "تذكر الجملة: ensures that essential educational, commercial, healthcare, and recreational facilities reside within comfortable walking distance."
+      },
+      {
+        "type": "vocabulary",
+        "q": "ما المقصود بكلمة (Badgirs) المذكورة في الفقرة الرابعة؟",
+        "qEn": "In paragraph four, what are 'Badgirs' as referenced in traditional regional architecture?",
+        "options": [
+          "Ancient passive cooling wind towers designed to capture breezes naturally",
+          "Heavy diesel generators used to power industrial air conditioning units",
+          "Underground stone dungeons used historically for emergency grain storage",
+          "Ceramic water filtration jars designed for long desert caravan journeys"
+        ],
+        "answer": 0,
+        "evidence": 13,
+        "explanationAr": "يوضح النص: passive cooling wind towers called Badgirs."
+      },
+      {
+        "type": "inference",
+        "q": "كيف تساعد أنظمة جمع النفايات الهوائية تحت الأرض في تحسين جودة الحياة في الأحياء؟",
+        "qEn": "How do automated pneumatic underground waste chutes improve urban neighborhood quality of life?",
+        "options": [
+          "By transporting refuse directly to facilities through vacuum tubes, eliminating noisy diesel trucks",
+          "By burning all trash inside living rooms to generate free domestic winter heating",
+          "By throwing collected waste into local drinking rivers to save landfill storage space",
+          "By converting all plastic materials into instant drinkable fruit juice for citizens"
+        ],
+        "answer": 0,
+        "evidence": 18,
+        "explanationAr": "تذكر الفقرة الخامسة: transport refuse through underground vacuum tubes directly to sorting facilities, eliminating noisy diesel garbage trucks."
+      }
+    ]
+  }
+]
