@@ -26,6 +26,7 @@
 **/.flutter-plugins
 **/.flutter-plugins-dependencies
 **/build/
+*.apk
 
 # OS specific
 Thumbs.db
