@@ -163,3 +163,4 @@ with open(vocab_path, "w", encoding="utf-8") as f:
     json.dump(vocab_data, f, ensure_ascii=False, indent=2)
 
 print(f"Added {len(added_entries)} entries to vocab.json. Total vocab: {len(vocab_data)}")
+

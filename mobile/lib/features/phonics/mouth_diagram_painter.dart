@@ -295,3 +295,4 @@ class _MouthAnatomyPainter extends CustomPainter {
     return oldDelegate.diagramType != diagramType;
   }
 }
+

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import '../../core/api/api_client.dart';
 import '../../core/theme/app_theme.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -12,12 +13,75 @@ class HomeScreen extends StatelessWidget {
     this.streakDays = 3,
   }) : super(key: key);
 
+  void _showServerSettingsDialog(BuildContext context) async {
+    final currentUrl = await ApiClient.getCurrentBaseUrl();
+    final controller = TextEditingController(text: currentUrl);
+
+    if (!context.mounted) return;
+    showDialog(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        title: const Row(
+          children: [
+            Icon(Icons.wifi, color: AppTheme.primary),
+            SizedBox(width: 8),
+            Text('عنوان السيرفر (API)', style: TextStyle(fontSize: 18)),
+          ],
+        ),
+        content: Column(
+          mainAxisSize: MainAxisSize.min,
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text(
+              'إذا شغّلت التطبيق على تلفونك، أدخل عنوان IP لحاسوبك المشبوك على نفس الواي فاي:',
+              style: TextStyle(fontSize: 13, color: Colors.grey),
+            ),
+            const SizedBox(height: 12),
+            TextField(
+              controller: controller,
+              decoration: const InputDecoration(
+                labelText: 'رابط السيرفر',
+                hintText: 'http://192.168.0.10:5104',
+              ),
+            ),
+          ],
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(ctx),
+            child: const Text('إلغاء'),
+          ),
+          ElevatedButton(
+            onPressed: () async {
+              await ApiClient.updateBaseUrl(controller.text);
+              if (ctx.mounted) Navigator.pop(ctx);
+              if (context.mounted) {
+                ScaffoldMessenger.of(context).showSnackBar(
+                  const SnackBar(
+                    content: Text('تم حفظ رابط السيرفر بنجاح'),
+                    backgroundColor: AppTheme.success,
+                  ),
+                );
+              }
+            },
+            child: const Text('حفظ'),
+          ),
+        ],
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: const Text('عَلِّمني (3lemne)'),
         actions: [
+          IconButton(
+            icon: const Icon(Icons.wifi_tethering),
+            tooltip: 'إعدادات اتصال السيرفر',
+            onPressed: () => _showServerSettingsDialog(context),
+          ),
           IconButton(
             icon: const Icon(Icons.bookmark_outline),
             tooltip: 'مفرداتي',

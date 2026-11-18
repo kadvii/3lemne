@@ -8,8 +8,21 @@ class ApiClient {
   static String get baseUrl {
     if (_envBaseUrl.isNotEmpty) return _envBaseUrl;
     if (kIsWeb) return 'http://localhost:5104';
-    if (defaultTargetPlatform == TargetPlatform.android) return 'http://10.0.2.2:5104';
+    if (defaultTargetPlatform == TargetPlatform.android) return 'http://192.168.0.10:5104';
     return 'http://localhost:5104';
+  }
+
+  static Future<void> updateBaseUrl(String newUrl) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString('custom_api_url', newUrl.trim());
+    instance.dio.options.baseUrl = newUrl.trim();
+  }
+
+  static Future<String> getCurrentBaseUrl() async {
+    final prefs = await SharedPreferences.getInstance();
+    final customUrl = prefs.getString('custom_api_url');
+    if (customUrl != null && customUrl.isNotEmpty) return customUrl;
+    return baseUrl;
   }
 
   static final ApiClient instance = ApiClient();
@@ -29,6 +42,10 @@ class ApiClient {
       InterceptorsWrapper(
         onRequest: (options, handler) async {
           final prefs = await SharedPreferences.getInstance();
+          final customUrl = prefs.getString('custom_api_url');
+          if (customUrl != null && customUrl.isNotEmpty) {
+            options.baseUrl = customUrl;
+          }
           final token = prefs.getString('access_token');
           if (token != null) {
             options.headers['Authorization'] = 'Bearer $token';

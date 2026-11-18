@@ -48,3 +48,4 @@ public class BlueprintValidationResult
 
     public void AddError(string error) => Errors.Add(error);
 }
+

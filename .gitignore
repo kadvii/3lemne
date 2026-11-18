@@ -11,6 +11,10 @@
 # Sensitive config files
 **/.env
 **/appsettings.Production.json
+*.db
+*.db-shm
+*.db-wal
+*.db*
 
 # Node & Frontend
 **/node_modules/

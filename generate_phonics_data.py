@@ -941,3 +941,4 @@ print(f"Total unique words in phonics: {len(all_words)}")
 print(f"Missing words from vocab.json: {len(missing)}")
 if missing:
     print(f"Sample missing words: {missing[:20]}")
+
