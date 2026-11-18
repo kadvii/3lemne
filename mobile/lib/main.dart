@@ -10,6 +10,7 @@ import 'features/listening/listening_screen.dart';
 import 'features/speaking/speaking_screen.dart';
 import 'features/phonics/phonics_screen.dart';
 import 'features/words/words_screen.dart';
+import 'features/chinese_learning/chinese_learning_screen.dart';
 
 final GoRouter _router = GoRouter(
   initialLocation: '/',
@@ -21,6 +22,7 @@ final GoRouter _router = GoRouter(
     GoRoute(path: '/speaking', builder: (context, state) => const SpeakingScreen()),
     GoRoute(path: '/phonics', builder: (context, state) => const PhonicsScreen()),
     GoRoute(path: '/words', builder: (context, state) => const WordsScreen()),
+    GoRoute(path: '/chinese', builder: (context, state) => const ChineseLearningScreen()),
   ],
 );
 

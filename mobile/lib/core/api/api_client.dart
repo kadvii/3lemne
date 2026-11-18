@@ -113,6 +113,16 @@ class ApiClient {
 
   // --- Words & Dictionary API ---
 
+  Future<List<dynamic>> getWords({String languageCode = 'zh', String? level, int limit = 100}) async {
+    final queryParams = <String, dynamic>{
+      'languageCode': languageCode,
+      'limit': limit,
+    };
+    if (level != null) queryParams['level'] = level;
+    final res = await dio.get('/api/words', queryParameters: queryParams);
+    return res.data as List<dynamic>;
+  }
+
   Future<WordLookupResult> lookupWord(String word) async {
     final res = await dio.get('/api/words/lookup', queryParameters: {'q': word});
     return WordLookupResult.fromJson(res.data);
