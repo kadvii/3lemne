@@ -95,6 +95,28 @@ public class WordService : IWordService
             await _db.SaveChangesAsync(ct);
         }
     }
+
+    public async Task<List<WordDto>> GetWordsAsync(string languageCode = "zh", DifficultyLevel? level = null, int limit = 100, CancellationToken ct = default)
+    {
+        var query = _db.Words.AsNoTracking().Where(w => w.LanguageCode == languageCode);
+        if (level.HasValue)
+        {
+            query = query.Where(w => w.Level == level.Value);
+        }
+
+        return await query
+            .Take(limit)
+            .Select(w => new WordDto(
+                w.Id,
+                w.English,
+                w.Arabic,
+                w.Pinyin,
+                w.EnglishMeaning,
+                w.LanguageCode,
+                w.Level.ToString()
+            ))
+            .ToListAsync(ct);
+    }
 }
 
 public interface IWordService
@@ -103,6 +125,7 @@ public interface IWordService
     Task<List<SavedWordDto>> GetSavedWordsAsync(Guid userId, CancellationToken ct = default);
     Task SaveWordAsync(Guid userId, Guid wordId, CancellationToken ct = default);
     Task UnsaveWordAsync(Guid userId, Guid wordId, CancellationToken ct = default);
+    Task<List<WordDto>> GetWordsAsync(string languageCode = "zh", DifficultyLevel? level = null, int limit = 100, CancellationToken ct = default);
 }
 
 public class WritingService : IWritingService

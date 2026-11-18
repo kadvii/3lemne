@@ -64,8 +64,12 @@ public class AlemniDbContext : DbContext, IAlemniDbContext
         {
             entity.HasKey(e => e.Id);
             entity.HasIndex(e => e.English);
+            entity.HasIndex(e => new { e.LanguageCode, e.Level });
             entity.Property(e => e.English).IsRequired().HasMaxLength(100);
             entity.Property(e => e.Arabic).IsRequired().HasMaxLength(200);
+            entity.Property(e => e.LanguageCode).IsRequired().HasMaxLength(10).HasDefaultValue("en");
+            entity.Property(e => e.Pinyin).HasMaxLength(100);
+            entity.Property(e => e.EnglishMeaning).HasMaxLength(200);
             entity.Property(e => e.Level).HasConversion<string>();
         });
 

@@ -1,0 +1,402 @@
+[
+  {
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "arabic": "مرحباً",
+    "english": "hello",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "您好",
+    "pinyin": "nín hǎo",
+    "arabic": "أهلاً بك (بصيغة الاحترام)",
+    "english": "hello (polite)",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "arabic": "أنا",
+    "english": "I / me",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "arabic": "أنتَ / أنتِ",
+    "english": "you",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "他",
+    "pinyin": "tā",
+    "arabic": "هو",
+    "english": "he / him",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "她",
+    "pinyin": "tā",
+    "arabic": "هي",
+    "english": "she / her",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "我们",
+    "pinyin": "wǒ men",
+    "arabic": "نحن",
+    "english": "we / us",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "他们",
+    "pinyin": "tā men",
+    "arabic": "هم",
+    "english": "they / them",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "谢谢",
+    "pinyin": "xiè xie",
+    "arabic": "شكراً",
+    "english": "thank you",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "不客气",
+    "pinyin": "bú kè qi",
+    "arabic": "عفواً / لا شكر على واجب",
+    "english": "you're welcome",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "再见",
+    "pinyin": "zài jiàn",
+    "arabic": "إلى اللقاء / مع السلامة",
+    "english": "goodbye",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "对不起",
+    "pinyin": "duì bu qǐ",
+    "arabic": "آسف / معذرة",
+    "english": "sorry",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "没关系",
+    "pinyin": "méi guān xi",
+    "arabic": "لا بأس / لا عليك",
+    "english": "it doesn't matter / that's okay",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "是",
+    "pinyin": "shì",
+    "arabic": "يكون / نعم",
+    "english": "to be / yes",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "不是",
+    "pinyin": "bú shì",
+    "arabic": "ليس / لا",
+    "english": "is not / no",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "arabic": "يأكل",
+    "english": "to eat",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "arabic": "يشرب",
+    "english": "to drink",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "arabic": "ماء",
+    "english": "water",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "arabic": "شاي",
+    "english": "tea",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "米饭",
+    "pinyin": "mǐ fàn",
+    "arabic": "أرز مطبوخ",
+    "english": "cooked rice",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "苹果",
+    "pinyin": "píng guǒ",
+    "arabic": "تفاح",
+    "english": "apple",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "爸爸",
+    "pinyin": "bà ba",
+    "arabic": "أب / بابا",
+    "english": "father / dad",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "妈妈",
+    "pinyin": "mā ma",
+    "arabic": "أم / ماما",
+    "english": "mother / mom",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "儿子",
+    "pinyin": "ér zi",
+    "arabic": "ابن",
+    "english": "son",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "女儿",
+    "pinyin": "nǚ ér",
+    "arabic": "ابنة",
+    "english": "daughter",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "老师",
+    "pinyin": "lǎo shī",
+    "arabic": "معلم / مدرس",
+    "english": "teacher",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "学生",
+    "pinyin": "xué sheng",
+    "arabic": "طالب",
+    "english": "student",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "朋友",
+    "pinyin": "péng you",
+    "arabic": "صديق",
+    "english": "friend",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "学校",
+    "pinyin": "xué xiào",
+    "arabic": "مدرسة",
+    "english": "school",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "arabic": "بيت / منزل / عائلة",
+    "english": "home / family",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "中国",
+    "pinyin": "zhōng guó",
+    "arabic": "الصين",
+    "english": "China",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "北京",
+    "pinyin": "běi jīng",
+    "arabic": "بكين",
+    "english": "Beijing",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "arabic": "شخص / إنسان",
+    "english": "person / human",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "arabic": "ينظر / يرى / يقرأ",
+    "english": "to look / to watch / to read",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "arabic": "يستمع",
+    "english": "to listen",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "arabic": "يتكلم / يقول",
+    "english": "to speak / to say",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "arabic": "يشتري",
+    "english": "to buy",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "去",
+    "pinyin": "qù",
+    "arabic": "يذهب",
+    "english": "to go",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "来",
+    "pinyin": "lái",
+    "arabic": "يأتي",
+    "english": "to come",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "arabic": "نقود / مال",
+    "english": "money",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "喜欢",
+    "pinyin": "xǐ huan",
+    "arabic": "يحب / يعجبه",
+    "english": "to like",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "arabic": "حب / يحب",
+    "english": "to love",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "dà",
+    "arabic": "كبير",
+    "english": "big",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "arabic": "صغير",
+    "english": "small",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "多",
+    "pinyin": "duō",
+    "arabic": "كثير",
+    "english": "many / much",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "arabic": "قليل",
+    "english": "few / little",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "一",
+    "pinyin": "yī",
+    "arabic": "واحد",
+    "english": "one",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "二",
+    "pinyin": "èr",
+    "arabic": "اثنان",
+    "english": "two",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "三",
+    "pinyin": "sān",
+    "arabic": "ثلاثة",
+    "english": "three",
+    "level": "A1",
+    "languageCode": "zh"
+  },
+  {
+    "hanzi": "今天",
+    "pinyin": "jīn tiān",
+    "arabic": "اليوم",
+    "english": "today",
+    "level": "A1",
+    "languageCode": "zh"
+  }
+]

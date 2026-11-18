@@ -7,6 +7,9 @@ public class Word
     public Guid Id { get; set; } = Guid.NewGuid();
     public string English { get; set; } = string.Empty;
     public string Arabic { get; set; } = string.Empty;
+    public string LanguageCode { get; set; } = "en";
+    public string? Pinyin { get; set; }
+    public string? EnglishMeaning { get; set; }
     public DifficultyLevel Level { get; set; } = DifficultyLevel.A1;
     public string? PartOfSpeech { get; set; }
     public string? BaseWord { get; set; }

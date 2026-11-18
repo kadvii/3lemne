@@ -253,5 +253,19 @@ public class SkillsAndEndpointsTests : IDisposable
         searchResult.Should().NotBeEmpty();
         searchResult.Should().Contain(p => p.Symbol.Contains("sk"));
     }
+
+    [Fact]
+    public async Task ChineseWords_SeedAndQueryByLanguage_ReturnsHsk1Words()
+    {
+        var chineseWords = await _wordService.GetWordsAsync("zh");
+        chineseWords.Should().NotBeNull();
+        chineseWords.Count.Should().Be(50);
+
+        var helloWord = chineseWords.FirstOrDefault(w => w.Word == "你好");
+        helloWord.Should().NotBeNull();
+        helloWord!.Pinyin.Should().Be("nǐ hǎo");
+        helloWord.Arabic.Should().Be("مرحباً");
+        helloWord.LanguageCode.Should().Be("zh");
+    }
 }
 

@@ -1,6 +1,7 @@
 using System.Security.Claims;
 using Alemni.Application.DTOs;
 using Alemni.Application.Services;
+using Alemni.Domain.Enums;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,6 +17,21 @@ public class WordsController : ControllerBase
     public WordsController(IWordService wordService)
     {
         _wordService = wordService;
+    }
+
+    /// <summary>
+    /// جلب قائمة المفردات مفلترة حسب رمز اللغة (مثل "zh" للصينية أو "en" للإنجليزية)
+    /// </summary>
+    [HttpGet]
+    [ProducesResponseType(typeof(List<WordDto>), StatusCodes.Status200OK)]
+    public async Task<IActionResult> GetWords(
+        [FromQuery] string languageCode = "zh",
+        [FromQuery] DifficultyLevel? level = null,
+        [FromQuery] int limit = 100,
+        CancellationToken ct = default)
+    {
+        var words = await _wordService.GetWordsAsync(languageCode, level, limit, ct);
+        return Ok(words);
     }
 
     /// <summary>

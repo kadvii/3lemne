@@ -65,6 +65,9 @@ public class DbSeeder : IDbSeeder
         await SeedPhonicsAsync(ct);
         await _db.SaveChangesAsync(ct);
 
+        await SeedChineseHsk1Async(ct);
+        await _db.SaveChangesAsync(ct);
+
         _logger.LogInformation("Database seed completed successfully.");
     }
 
@@ -490,6 +493,42 @@ public class DbSeeder : IDbSeeder
         }
     }
 
+    private async Task SeedChineseHsk1Async(CancellationToken ct)
+    {
+        var filePath = Path.Combine(_dataDir, "chinese_hsk1.json");
+        if (!File.Exists(filePath)) return;
+
+        var json = await File.ReadAllTextAsync(filePath, ct);
+        var items = JsonSerializer.Deserialize<List<ChineseHsk1ItemDto>>(json);
+        if (items == null) return;
+
+        var existingWords = (await _db.Words
+            .Where(w => w.LanguageCode == "zh")
+            .Select(w => w.English)
+            .ToListAsync(ct))
+            .ToHashSet();
+
+        foreach (var item in items)
+        {
+            var hanzi = item.hanzi.Trim();
+            if (string.IsNullOrWhiteSpace(hanzi) || existingWords.Contains(hanzi))
+                continue;
+
+            _db.Words.Add(new Word
+            {
+                Id = Guid.NewGuid(),
+                English = hanzi,
+                Arabic = item.arabic.Trim(),
+                Pinyin = item.pinyin.Trim(),
+                EnglishMeaning = item.english.Trim(),
+                LanguageCode = item.languageCode?.Trim() ?? "zh",
+                Level = DifficultyLevel.A1
+            });
+            existingWords.Add(hanzi);
+        }
+    }
+
+    private record ChineseHsk1ItemDto(string hanzi, string pinyin, string arabic, string english, string? level, string? languageCode);
     private record VocabItemDto(string english, string arabic, string? baseWord);
     private record ListeningDto(string en, string ar, string q, List<string> options, int answer);
     private record SpeakingDto(string en, string ar, string? tip);

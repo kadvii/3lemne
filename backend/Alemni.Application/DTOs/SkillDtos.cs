@@ -6,6 +6,15 @@ namespace Alemni.Application.DTOs;
 public record LookupResult(string Word, string Arabic, string? BaseWord, bool Found, Guid? WordId = null);
 public record SavedWordDto(Guid Id, Guid WordId, string English, string Arabic, DateTime AddedAt);
 public record SaveWordRequest(Guid WordId);
+public record WordDto(
+    Guid Id,
+    string Word,
+    string Arabic,
+    string? Pinyin,
+    string? EnglishMeaning,
+    string LanguageCode,
+    string Level
+);
 
 // Writing
 public record WritingNextDto(Guid Id, Guid WordId, string Level, int Length, string HintAr, int? VowelCount = null, string? ExampleEn = null);
