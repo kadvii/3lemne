@@ -332,3 +332,4 @@ class _ChineseLearningScreenState extends ConsumerState<ChineseLearningScreen> {
     );
   }
 }
+
